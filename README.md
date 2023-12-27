@@ -1,2 +1,8 @@
-# 11th-chemistry
-11th Standard Chemistry Text Book
+## C Programing
+
+Materails
+
+## Dev
+```sh
+hugo server --themesDir ../
+```
