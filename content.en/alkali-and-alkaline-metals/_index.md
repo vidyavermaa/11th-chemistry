@@ -3,78 +3,29 @@ title: 'Alkali and Alkaline Earth Metals'
 weight: 5
 ---
 
-  
 
-**Learnin**
-
-After stu
-
- Exp
-
-eart
-
- Rec
-
- List
-
-met
-
- Des
-
-of a
-
- App
-
-and
-
- Exp
-
-calc
-
-plas
-
-**Alkali and Alka**
-
-**Rock salt**
-
-**Sylvite**
-
-**Spodumene**  
-
-**g Objectives**
-
-dying this unit, students will be able to
-
-lain the properties of alkali metals and alkaline
-
-h metals
-
-ognise the anomalous properties of Li and Be
-
-the uses of alkali metals and alkaline earth
-
-als
-
-cribe the general characteristics of compounds
-
-lkali metals and alkaline earth metals
-
-reciate the biological importance of sodium
-
-potassium, Magnesium and Calcium
-
-lain the preparation, properties and uses of
-
-ium oxide, calcium hydroxide, gypsum and
-
-ter of paris.
-
-**line Earth Metals**
-
-**Unit 5**
+![Rock salt,sylvite,spodumene](introduction.JPG)
 
 
+After studying this unit, students will be able to
 
+1.Explain the properties of alkali metals and alkaline
+earth metals
+
+2.Recognise the anomalous properties of Li and Be
+
+3.List the uses of alkali metals and alkaline earth
+metals
+
+4.Describe the general characteristics of compounds
+of alkali metals and alkaline earth metals
+
+5.Appreciate the biological importance of sodium
+and potassium, Magnesium and Calcium
+
+6.Explain the preparation, properties and uses of
+calcium oxide, calcium hydroxide, gypsum and
+plaster of paris.
 
 
 
