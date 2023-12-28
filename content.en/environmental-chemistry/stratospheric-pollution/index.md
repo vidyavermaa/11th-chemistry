@@ -1,10 +1,22 @@
 ---
-title: 'Environmental Chemistry'
-weight: 15
+title: 'Stratospheric pollution'
+weight: 4
 ---
 
 
+At high altitudes to the atmosphere consists of a layer of ozone (O<sub>3</sub>) which acts as an umbrella or shield for harmful UV radiations. It protects us from harmful effect such as skin cancer. UV radiation can convert molecular oxygen into ozone as shown in the following reaction.
+
+
+$\ce{O2 (g) ->[{uv}]O(g) + O(g)}$
+
+$\ce{O (g) + O2 (g)  ->[{ uv}]O3(g)}$
+
+Ozone gas is thermodynamically unstable and readily decomposes to molecular oxygen
+
+**15.4.1 Depletion of Ozone Layer (Ozone hole)**
+
 **Fig 15.5 Ozone Depletion**
+![Ozone Depletion](ozone-layer.png)
 
 In recent years, a gradual depletion of this protective ozone layer has been reported. Nitric oxide and CFC are found to be most responsible for depletion of ozone layer.
 
@@ -20,12 +32,12 @@ These oxides are also released by combustion of fossil fuels and nitrogen fertil
 
 
   
+$\ce{NO +O3 ->NO2 +O2 }$
 
-NO +O3 →NO2 +O2
+$\ce{O2 ->[{hυ}]O + O}$
 
-O2 hυ O + O
+$\ce{NO2 +O ->NO+O2}$
 
-NO2 +O→ NO+O2
 
 Thus NO is regenerated in the chain reaction.
 
@@ -33,13 +45,15 @@ Thus NO is regenerated in the chain reaction.
 
 The chloro fluoro derivatives of methane and ethane are referred by trade name Freons. These Chloro Fluoro Carbon compounds are stable, non-toxic, noncorrosive and non-inflammable, easily liquefiable and are used in refrigerators, air- conditioners and in the production of plastic foams. CFC’s are the exhaust of supersonic air craft’s and jumbo jets flying in the upper atmosphere. They slowly pass from troposphere to stratosphere. They stay for very longer period of 50 - 100 years. In the presence of uv radiation, CFC’s break up into chlorine free radical
 
-CF2 Cl2 hυ •CF2 Cl + Cl•
+$\ce{CF2 Cl2 ->[{hυ}]•CF2 Cl + Cl•}$
 
-CFCl3 hυ •CFCl2 + Cl•
+$\ce{CFCl3 ->[{hυ}] •CFCl2 + Cl•}$
 
-Cl• + O3 → ClO• + O2
+$\ce{Cl• + O3 -> ClO• + O2}$
 
-ClO• + (O) → Cl• + O2
+$\ce{ClO• + (O) -> Cl• + O2}$
+
+ 
 
 Chlorine radical is regenerated in the course of reaction. Due to this continuous attack of Cl˚ thinning of ozone layer takes place which leads to formation of ozone hole.
 
@@ -56,7 +70,3 @@ Depletion of ozone layer will allow more UV rays to reach the earth surface and 
 UV radiation affects plant proteins which leads to harmful mutation of cells.
 
 UV radiation affects the growth of phytoplankton, as a result ocean food chain is disturbed and even damages the fish productivity.
-
-**15.5 Water Pollution**
-
-Water is essential for life. Without water life would have been impossible. The slogan, ‘Save Water, Water will save you’ tell us the importance of water. Such slogans tell us to save water. Apart from saving water, maintaining its quality is also equally important.
