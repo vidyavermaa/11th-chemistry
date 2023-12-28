@@ -3,20 +3,8 @@ title: 'Introduction'
 weight: 1
 ---
 
-## 8.1 Introduction
 
-our daily life, we observe several chemical and changes. For example, a banana gets ripened days, silver gets tarnished in few months gets rusted slowly. These processes proceed rection. Now let us consider the transport of y hemoglobin in our body as an illustration ersible change. The hemoglobin combines en in lungs to form oxyhemoglobin. The oxy-
-
-bin has a tendency to form hemoglobin by
-
-**d Equilibrium**
-
-
-
-
-  
-
-releasing oxygen. In fact, in our lungs all the three species coexist.
+In our daily life, we observe several chemical and changes. For example, a banana gets ripened days, silver gets tarnished in few months gets rusted slowly. These processes proceed rection. Now let us consider the transport of y hemoglobin in our body as an illustration ersible change. The hemoglobin combines en in lungs to form oxyhemoglobin. The oxy-hemoglobin has a tendency to form hemoglobin by releasing oxygen. In fact, in our lungs all the three species coexist.
 
 Few chemical reactions proceed in only one direction whereas many reactions proceed in both the directions and these reactions are called reversible reactions.
 
