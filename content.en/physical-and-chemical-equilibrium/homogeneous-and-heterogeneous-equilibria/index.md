@@ -3,25 +3,23 @@ title: 'Homogeneous and heterogeneous equilibriam'
 weight: 5
 ---
 
-## 8.5 Homogeneous and heterogeneous equilibriam
-
 8.5.1 Homogeneous equilibrium
 
 In a homogeneous equilibrium, all the reactants and products are in the same phase.
 
 For example:
 
-H2 (g) + I2 (g) ⇌ 2HI (g)
+
+|H<sub>2</sub> (g) + I<sub>2</sub> (g) ⇌ 2HI (g)|
+|---------------|
+
 
 In the above equilibrium, H2, I2 and HI are in the gaseous state.
 
 Similarly, for the following reaction, all the reactants and products are in homogeneous solution phase.  
 
-CH3COOCH3(aq)+H2O(aq)
-
-⇌
-
-CH3COOH(aq)+CH3OH (aq)
+|CH <sub>3</sub>COOCH<sub>3</sub>(aq)+H<sub>2</sub>O(aq) ⇌ CH<sub>3</sub>COOH(aq)+CH<sub>3</sub>OH (aq)|
+|---------------|
 
 8.5.2 Heterogeneous equilibrium
 
@@ -29,6 +27,6 @@ If the reactants and products of a reaction in equilibrium, are in different pha
 
 Example:
 
-H2O (l) ⇌ H2O (g)
-
-CaCO3 (s) ⇌ CaO (s) + CO2 (g)
+H<sub>2</sub>>O (l) ⇌ H<sub>2</sub>O (g)
+|---------------|
+CaCO<sub>3</sub> (s) ⇌ CaO (s) + CO<sub>2</sub> (g)

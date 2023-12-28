@@ -1,5 +1,5 @@
 ---
-title: 'Vant Hoff Equation'
+title: "Van't Hoff Equation"
 weight: 9
 ---
 
