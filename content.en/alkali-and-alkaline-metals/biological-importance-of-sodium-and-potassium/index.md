@@ -11,4 +11,5 @@ Sodium ions are found primarily on the outside of cells, being located in blood 
 
 Sodium–potassium pump play an important role in transmitting nerve signals.  
 
+![sodium potasium pump](../chapter4.JPG)
 Figure 5.4 Sodium–potassium pump
