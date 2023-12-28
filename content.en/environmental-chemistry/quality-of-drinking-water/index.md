@@ -33,7 +33,7 @@ Institutions like WHO (World Health Organisation) at world level and BIS (Bureau
 Fluoride ion deficiency in drinking water causes tooth decay. Water soluble fluorides are added to increase the fluoride ion concentration upto 1 ppm.
 
 
-The Fluoride ions make the enam hydroxyapatite, \[3(Ca3(PO4)2.Ca(OH)2\], the e harder fluorapatite, \[3(Ca3(PO4)2.CaF2\].
+The Fluoride ions make the enam hydroxyapatite, \[3(Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>.Ca(OH)<sub>2</sub>\], the e harder fluorapatite, \[3(Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>.CaF<sub>2</sub>\].
 
 
 However, Fluoride ion concentration above 2 ppm causes brown mottling of teeth.

@@ -23,7 +23,7 @@ The growth of algae in extreme abundance covers the water surface and reduces th
 
 **Biochemical oxygen demand(BOD)**
 
-The total amount of oxygen in milligrams consumed by microorganisms in decomposing the waste in one litre of water at 20oC for a period of 5 days is called biochemical oxygen demand (BOD) and its value is expressed in ppm.
+The total amount of oxygen in milligrams consumed by microorganisms in decomposing the waste in one litre of water at 20°C for a period of 5 days is called biochemical oxygen demand (BOD) and its value is expressed in ppm.
 BOD is used as a measure of degree of water pollution. Clean water would have BOD value less than 5 ppm whereas highly polluted water has BOD value of 17 ppm or more.
 
 
@@ -31,7 +31,7 @@ BOD is used as a measure of degree of water pollution. Clean water would have BO
 
 BOD measurement takes 5 days so another parameter called the Chemical Oxygen Demand (COD) is measured.
 
-Chemical oxygen demand (COD) is defined as the amount of oxygen required by the organic matter in a sample of water for its oxidation by a strong oxidising agent like K2Cr2O7 in acid medium for a period of 2 hrs.
+Chemical oxygen demand (COD) is defined as the amount of oxygen required by the organic matter in a sample of water for its oxidation by a strong oxidising agent like K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> in acid medium for a period of 2 hrs.
 
 **(iii) Chemical wastes:**
 

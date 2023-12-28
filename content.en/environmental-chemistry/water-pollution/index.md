@@ -33,16 +33,15 @@ Non-point source cannot be identified wastes, acid rain, and storm-water drainag
 
 
 
-| No | pollutant      | sources                             |
-|----|----------------|-------------------------------------|
-                 |
-| 1  | Microorganisms | 	Domestic sewage, domestic waste water, dung heap    |
-| 2  |  Organic wastes| 	Domestic sewage, animal excreta, food processing factory waste, detergents and decayed animals and plants,
-|
-| 3 |  Plant nutrients|Chemical fertilisers |
-| 4  | Heavy metals| Heavy metal producing factories  |
-| 5   |Sediments   | Soil erosion by agriculture and strip-mining|
-| 6  |  Pesticides  | Chemicals used for killing insects, fungi and weeds         |
-| 7 |Radioactive substances| Mining of uranium containing minerals         |
-| 8  | Heat |      Water used for cooling in industries           |
+| No | Pollutant            | Sources                                              |
+|----|----------------------|------------------------------------------------------|
+| 1  | Microorganisms       | Domestic sewage, domestic waste water, dung heap      |
+| 2  | Organic wastes        | Domestic sewage, animal excreta, food processing factory waste, detergents and decayed animals and plants |
+| 3  | Plant nutrients       | Chemical fertilisers                                  |
+| 4  | Heavy metals          | Heavy metal producing factories                       |
+| 5  | Sediments             | Soil erosion by agriculture and strip-mining          |
+| 6  | Pesticides            | Chemicals used for killing insects, fungi, and weeds  |
+| 7  | Radioactive substances | Mining of uranium-containing minerals                |
+| 8  | Heat                  | Water used for cooling in industries                  |
+
 
