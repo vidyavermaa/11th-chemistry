@@ -17,11 +17,11 @@ All the common compounds of the alkali metals are generally ionic in nature. Gen
 
 **Oxides and Hydroxides**
 
-On combustion in excess of air, alkali metals forms normal oxides with formula M2O. They react with water to form corresponding hydroxides which are basic in nature.
+On combustion in excess of air, alkali metals forms normal oxides with formula M<sub>2</sub>O. They react with water to form corresponding hydroxides which are basic in nature.
 
 M<sub>2</sub>O + H<sub>2</sub>O → 2 MOH
 
-Alkali metals apart from lithium form peroxides in addition to normal oxides upon combustion with excess air. These peroxides produce hydroxides and H2O2 upon reacting with water.
+Alkali metals apart from lithium form peroxides in addition to normal oxides upon combustion with excess air. These peroxides produce hydroxides and H<sub>2</sub>O<sub>2</sub> upon reacting with water.
 
 M<sub>2</sub>O<sub>2</sub>+2 H<sub>2</sub>O → 2MOH+H<sub>2</sub>O<sub>2</sub>
 
@@ -41,11 +41,11 @@ The oxides and the peroxides are colourless when pure, but the superoxides are y
 
 **Halides:**
 
-The alkali metal halides, MX, (X=F, Cl, Br, I) are colourless crystalline solids with high melting points. They can be prepared by the reaction of the appropriate oxide, hydroxide or carbonate with aqueous hydrohalic acid (HX). As the electropositive character of alkali metal increases from Li to Cs, the ease with which the metals form halides increases from Li to Cs. All halides are ionic in nature except LiBr and LiI. Except LiF, all other halides are soluble in water. The low solubility of LiF in water is due to its high lattice enthalpy (small size of Li+ and F-). Due to the presence of covalent nature both LiBr and LiI are soluble in organic solvents.
+The alkali metal halides, MX, (X=F, Cl, Br, I) are colourless crystalline solids with high melting points. They can be prepared by the reaction of the appropriate oxide, hydroxide or carbonate with aqueous hydrohalic acid (HX). As the electropositive character of alkali metal increases from Li to Cs, the ease with which the metals form halides increases from Li to Cs. All halides are ionic in nature except LiBr and LiI. Except LiF, all other halides are soluble in water. The low solubility of LiF in water is due to its high lattice enthalpy (small size of Li<sup>+</sup> and F<sup>-</sup>). Due to the presence of covalent nature both LiBr and LiI are soluble in organic solvents.
 
 **Salts of oxo-acids**
 
-Alkali metals form salts with all the oxo-acids. Most of these salts are soluble in water and are thermally stable. As the electropositive character increases down the group, the stability of the carbonates and bicarbonates increases. This is due to the decrease in polarising power of alkali metal cations. The carbonates (M2CO3) of alkali metals are remarkably stable up to 1273 K, above which they first melt and then eventually decompose to form oxides. However, Li2CO3 is considerably less stable and decomposes readily.
+Alkali metals form salts with all the oxo-acids. Most of these salts are soluble in water and are thermally stable. As the electropositive character increases down the group, the stability of the carbonates and bicarbonates increases. This is due to the decrease in polarising power of alkali metal cations. The carbonates (M<sub>2</sub>CO<sub>3</sub>) of alkali metals are remarkably stable up to 1273 K, above which they first melt and then eventually decompose to form oxides. However, Li<sub>2</sub>CO<sub>3</sub> is considerably less stable and decomposes readily.
 
 
 {{< katex display >}}
@@ -67,7 +67,7 @@ All the carbonates and bicarbonates are soluble in water and their solubilities 
 
 Sodium carbonate is one of the important inorganic compounds used in industries. It is prepared by Solvay process. In this process, ammonia is converted into ammonium carbonate which then converted to ammonium bicarbonate by passing excess carbon dioxide in a sodium chloride solution saturated with ammonia. The ammonium bicarbonate thus formed reacts with the sodium chloride to give sodium bicarbonate and ammonium chloride. As sodium bicarbonate has poor solubility, it gets precipitated. The sodium bicarbonate is isolated and is heated to give sodium carbonate. The equations involved in this process are,
 
-2NH<sub>3</sub> + H<sub>2</sub>O + CO2 → (NH<sub>4</sub>)2CO<sub>3</sub>
+2NH<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> → (NH<sub>4</sub>)2CO<sub>3</sub>
 
 (NH<sub>4</sub>)2CO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> → 2 NH<sub>4</sub>HCO<sub>3</sub> 
 
@@ -87,11 +87,11 @@ Na<sub>2</sub>CO<sub>3</sub>·H<sub>2</sub>O → Na<sub>2</sub>CO<sub>3</sub> + 
 
 **Uses:**
 
-i. Sodium carbonate known as washing soda and is used mainly for laundering.
+1. Sodium carbonate known as washing soda and is used mainly for laundering.
 
-ii. It is also used in water treatment to convert the hard water to soft water.
+2. It is also used in water treatment to convert the hard water to soft water.
 
-iii. It is used in the manufacturing of glass, paper, paint etc...
+3. It is used in the manufacturing of glass, paper, paint etc...
 
 **Sodium chloride NaCl (Cooking salt or Table salt):**
 
@@ -101,9 +101,9 @@ Sodium chloride melts at 1081K. It has a solubility of 36.0 g in 100 g of water 
 
 **Uses :**
 
-(i) It is used as a common salt or table salt for domestic purpose.
+1. It is used as a common salt or table salt for domestic purpose.
 
-(ii) It is used for the preparation of many inorganic compounds such as NaOH and Na2CO3
+2. It is used for the preparation of many inorganic compounds such as NaOH and Na2CO3
 
 **Sodium hydroxide:**
 
@@ -115,17 +115,17 @@ At anode : Cl<sup>-</sup> → ½ Cl<sub>2</sub> ↑<sup>+</sup> e<sup>-</sup>
 
 2Na(amalgam)+2H<sub>2</sub>O→2NaOH+2Hg+H<sub>2</sub>↑
 
-Sodium hydroxide is a white, translucent and deliquescent solid, that dissolves in water to give a strong alkaline solution. It melts at 591 K. The sodium hydroxide solution at the surface reacts with the CO2 in the atmosphere to form Na<sub>2</sub>CO<sub>2</sub>
+Sodium hydroxide is a white, translucent and deliquescent solid, that dissolves in water to give a strong alkaline solution. It melts at 591 K. The sodium hydroxide solution at the surface reacts with the CO<sub>2</sub> in the atmosphere to form Na<sub>2</sub>CO<sub>2</sub>
 
 **Uses:**
 
-• Sodium hydroxide is used in the purification of bauxite (ore of Aluminium) and petroleum refining
+- Sodium hydroxide is used in the purification of bauxite (ore of Aluminium) and petroleum refining
 
-• It is used in the textile industries for mercerising cotton fabrics
+- It is used in the textile industries for mercerising cotton fabrics
 
-• It is used in the manufacture of soap, paper and artificial silks.
+- It is used in the manufacture of soap, paper and artificial silks.
 
-**Sodium bicarbonate NaHCO3 (Baking soda):**
+**Sodium bicarbonate NaHCO<sub>3</sub> (Baking soda):**
 
 Sodium hydrogen carbonate or sodium bicarbonate is used in baking cakes pastries etc. It is called so because it decomposes on heating to generate bubbles of carbon dioxide, leaving holes in cakes or pastries and making them light and fluffy. This compound is prepared by saturating a solution of sodium carbonate with carbon dioxide. The white crystalline powder of sodium bicarbonate, being less soluble, precipitated out.
 
@@ -136,8 +136,8 @@ Sodium hydrogen carbonate or sodium bicarbonate is used in baking cakes pastries
 
 **Uses:**
 
-• Primarily used as an ingredient in baking.
+- Primarily used as an ingredient in baking.
 
-• Sodium hydrogen carbonate is a mild antiseptic for skin infections.
+- Sodium hydrogen carbonate is a mild antiseptic for skin infections.
 
-• It is also used in fire extinguishers.
+- It is also used in fire extinguishers.

@@ -3,9 +3,9 @@ title: 'Alkaline earth metals'
 weight: 5
 ---
 
+<!-- 
 
-
-**5.5 Alkaline earth metals**
+**5.5 Alkaline earth metals** -->
 
 Group 2 in the modern periodic table contains the elements beryllium, magnesium, calcium, strontium, barium and radium. These elements with the exception of beryllium are commonly known as the alkaline earth metals because their oxides and hydroxides are alkaline in nature and these metal oxides are found in the earth’s crust.
 
@@ -22,17 +22,17 @@ Figure 5.5 Alkaline earth metals
 
 | Element |Abundance in earth crust by weight(ppm) |Mineral source |
 |------|------|------|
-| Be |2.0 |ber yl B e Al Si O3 2 6 18 |
-| Mg |27640 |Carnallite (KCl.MgCl 6H O)Dolomite MgCO  CaCO2. 23 3 |
-| Ca |1.84 |Fluorapatite Ca (PO )  F5 4 3 |
-| Sr |384 |Celestite SrSO4 |
-| Ba |390 |bar ytes BaSO4 |
+| Be |2.0 |beryl Be<sub>3</sub>Al<sub>2</sub>Si<sub>6</sub>O<sub>18</sub> |
+| Mg |27640 |Carnallite (KCl.MgCl<sub>2</sub>6H<sub>2</sub>O)Dolomite MgCO<sub>3</sub>CaCO<sub>3</sub> |
+| Ca |1.84 |Fluorapatite Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>F |
+| Sr |384 |Celestite SrSO<sub>4</sub> |
+| Ba |390 |barytes BaSO<sub>4</sub> |
   
 
 
 
 
-**5.5.1 General characteristics of alkaline earth metals**
+## 5.5.1 General characteristics of alkaline earth metals
 
 **Physical state**
 
@@ -45,19 +45,19 @@ Beryllium is rare and radium is the rarest of all comprising only 10 % of igneou
 
 **Electronic configuration**
 
-These elements have two electrons in the valence shell of their atoms, preceded by the noble gas configuration. Their general electronic configuration is written as \[Noble gas\]ns2 where ‘n’ represents the valence shell.
+These elements have two electrons in the valence shell of their atoms, preceded by the noble gas configuration. Their general electronic configuration is written as \[Noble gas\]ns<sup>2</sup> where ‘n’ represents the valence shell.
 
 **Table 5.8 Electronic configuration of alkaline earth metals**
 
 
 | Element |Atomic No. |Electronic conguration |
 |------|------|------|
-| Be |4 |[He]2s2 |
-| Mg |12 |[Ne]3s2 |
-| Ca |20 |[Ar]4s2 |
-| Sr |38 |[Kr]5s2 |
-| Ba |56 |[Xe]6s2 |
-| Ra |88 |[Rn]7s2 |
+| Be |4 |[He]2s<sup>2</sup> |
+| Mg |12 |[Ne]3s<sup>2</sup> |
+| Ca |20 |[Ar]4s<sup>2</sup> |
+| Sr |38 |[Kr]5s<sup>2</sup> |
+| Ba |56 |[Xe]6s<sup>2</sup> |
+| Ra |88 |[Rn]7s<sup>2</sup> |
 
 
 **Atomic and ionic radii**
@@ -70,19 +70,20 @@ The atomic and ionic radii of alkaline earth metals are smaller than the corresp
 |------|------|------|------|------|------|
 | Atomic radius -non bonded (Å) |1.12 |1.60 |1.97 |2.15 |2.22 |
 | Ionic radius (Å) |0.27(0.31) |0.72 |1.00 |1.18 |1.35 |
-| First ionization energ y (kJ mol )-1 |899.5 |737.8 |589.8 |549.5 |502.9 |
-| Second ionization energ y (kJ mol )-1 |1757.1 |1450.7 |1145.5 |1064.2 |965.2 |
-| Hydration enthalpy (kJ mol )-1 |– 2494 |– 1921 |–1577 |– 1443 |– 1305 |
-| Melting Point ( C)0 |1287 |651 |851 |789 |729 |
-| B oiling Point ( C)0 |2472 |1090 |1494 |1382 |1805 |
-| Density (g cm )-3 |1.84 |1.74 |1.55 |2.63 |3.59 |
-| Standard Potential  E  for M /M (V)Ѳ + |-1.97 |-2.36 |-2.84 |-2.89 |-2.92 |
+| First ionization energ y (kJ mol<sup>-1</sup> ) |899.5 |737.8 |589.8 |549.5 |502.9 |
+| Second ionization energ y (kJ mol<sup>-1</sup>) |1757.1 |1450.7 |1145.5 |1064.2 |965.2 |
+| Hydration enthalpy (kJ mol<sup>-1</sup>) |– 2494 |– 1921 |–1577 |– 1443 |– 1305 |
+| Melting Point (<sup>0</sup>C) |1287 |651 |851 |789 |729 |
+| B oiling Point (<sup>0</sup>C) |2472 |1090 |1494 |1382 |1805 |
+| Density (g cm<sup>-3</sup>) |1.84 |1.74 |1.55 |2.63 |3.59 |
+| Standard Potential  E<sup>0</sup>  for M<sup>+</sup>/M (V)  |-1.97 |-2.36 |-2.84 |-2.89 |-2.92 |
 | Electronegativity (Paulings scale) |1.6 |1.2 |1.0 |1.0 |0.9 |
   
 
-**Physical property** Atomic radius -non bonded (Å) Ionic radius (Å) 0.2 First ionization energy (kJ mol-1) 8 Second ionization energy (kJ mol-1) 1 Hydration enthalpy (kJ mol-1) – Melting Point (0 C) Boiling Point (0 C) Density (g cm-3) Standard Potential EѲ for M+/M (V) - Electronegativity (Paulings scale)  
 
-**Common oxidation state** The group 2 elements have two electrons in their valence shell and by losing these electrons, they acquire the stable noble gas configuration. So these elements exhibit +2 oxidation state in their compounds.
+**Common oxidation state** 
+
+The group 2 elements have two electrons in their valence shell and by losing these electrons, they acquire the stable noble gas configuration. So these elements exhibit +2 oxidation state in their compounds.
 
 **Ionisation enthalpy**
 
@@ -95,7 +96,7 @@ Due to a fairly large size of the atoms, alkaline earth metals have low ionisati
 
 **Figure 5.6 Variation of ionisation energy - Alkaline earth metals.**
 
-Although IE1 values of alkaline earth metals are higher than that of alkali metals, the IE2 values of alkaline earth metals are much smaller than those of alkali metals. This occurs because in alkali metals the second electron is to be removed from a cation, which has already acquired a noble gas configuration. In the case of alkaline earth metals, the second electron is to be removed from a monovalent cation, which still has one electron in the outermost shell. Thus, the second electron can be removed more easily in the case of group 2 elements than in group 1 elements.
+Although IE<sub>1</sub> values of alkaline earth metals are higher than that of alkali metals, the IE<sub>2</sub> values of alkaline earth metals are much smaller than those of alkali metals. This occurs because in alkali metals the second electron is to be removed from a cation, which has already acquired a noble gas configuration. In the case of alkaline earth metals, the second electron is to be removed from a monovalent cation, which still has one electron in the outermost shell. Thus, the second electron can be removed more easily in the case of group 2 elements than in group 1 elements.
 
 **Hydration Enthalpies**
 
@@ -105,7 +106,7 @@ Like alkali metal ions, the hydration enthalpies of alkaline earth metal ions al
 
 Be > Mg > Ca > Sr > Ba
 
-e.g., Magnesium chloride and calcium chloride exist as their hydrated crystals MgCl2.6H2O and CaCl2. 6H2O respectively. whereas NaCl and KCl do not form such hydrates.
+e.g., Magnesium chloride and calcium chloride exist as their hydrated crystals MgCl<sub>2</sub>.6H<sub>2</sub>O and CaCl<sub>2</sub>. 6H<sub>2</sub>O respectively. whereas NaCl and KCl do not form such hydrates.
 
 **Electronegativity**
 
@@ -131,11 +132,20 @@ The heat in the flame excites the valence electron to a higher energy level. whe
 
 **Figure 5.7: Flame colours of alkaline earth metal salts**
 
-**5.5.2 Distinctive behavior of beryllium**
+## 5.5.2 Distinctive behavior of beryllium
 
+{{<mermaid align="left">}}
+graph TB;
+    A[Reason for the anomalous behaviour of beryllium] -->B[Its small size and high polarising power]
+    A --> C[Relatively high electronegativity and ionisation enthalpy as compared to other members]
+    A --> D[Absence of vacant d-orbitals in its valence shell]
+   
 
+{{< /mermaid >}}
 
-The anomalous properties of beryllium electronegativity, high ionisation energy and h elements in the block. The anomalous propert of the group are mentioned in Table 5.11
+**Figure 5.8 Distinctive behaviour of beryllium**
+
+The anomalous properties of beryllium is mainly due to its small size, high electronegativity, high ionisation energy and high polarising power compared to the other elements in the block. The anomalous properties of beryllium compared to other elements of the group are mentioned in Table 5.11
 
 **Table 5.11 Comparison of Properties of Beryllium with other elements of the group**
 
@@ -144,37 +154,36 @@ The anomalous properties of beryllium electronegativity, high ionisation energy 
 |------|------|
 | Forms covalent compounds |form ionic compounds |
 | High melting and boiling point |Low melting and boiling point |
-| Does n ot r eact w ith wa ter e ven a t e levated temperature |React with water |
+| Does not react with water even at elevated temperature |React with water |
 | Does not combine directly with hydrogen |Combine directly with hydrogen |
 | Does not combine directly with halogens.Halides are covalent. |Combine directly with halogens Halides are electrovalent. |
-| Hydroxide a nd o xides o f b er yllium a re amphoteric in nature |Basic in nature. |
-|------|------|
-| It i s n ot r eadily a ttacked b y acid s b ecause o f the presence of an oxide lm |Readily attacked by acids |
-| B er yllium c arbide   evolves m ethane  with water. |evolve acetylene with water. |
-| Salts of B e are extensively hydrolysed |Hydrolysed |
+| Hydroxide and oxides of beryllium are amphoteric in nature |Basic in nature. |
+| It is not readily attacked by acids because of the presence of an oxide film |Readily attacked by acids |
+| Beryllium carbide evolves methane with water. |evolve acetylene with water. |
+| Salts of Be are extensively hydrolysed |Hydrolysed |
   
 
 
 
 **Diagonal Relationship:**
 
-As observed in alkali metals, berylliu diagonal relationship with aluminium. In thi and rAl3+ = 0.54 Å) is not as close. However, th and Al3+ = 2.50). They also have same electro
+As observed in alkali metals, beryllium (the first member of group 2) shows a diagonal relationship with aluminium. In this case, the size of these ions (r<sub>Be</sub><sup>2+</sup> = 0.45 Å and r<sub>Al</sub><sup>3+</sup> = 0.54 Å) is not as close. However, their charge per unit area is closer (Be<sup>2+</sup> = 2.36 and Al<sup>3+</sup> = 2.50). They also have same electronegativity values (Be = 1.5; Al = 1.5). 
 
 **Table 5.12 Similarities between Beryllium and Aluminium**
 | S.No. |Properties |
 |------|------|
 | 1 |Beryllium chloride forms a dimeric structure like aluminium chloride with chloride bridges. Beryllium chloride also forms polymeric chain structure in addition to dimer.  Both are soluble in organic solvents and are strong Lewis acids. |
-| 2 |Beryllium hydroxide di ssolves in excess of alkali and  gives beryllate ion and [Be(OH) ]  and hydrogen a s a luminium h ydroxide which gives a luminate ion, [Al(OH) ] .2–4–4 |
-| 3 |Beryllium and aluminium ions have strong tendency to form complexes, BeF , AlF .2– 3–4 6 |
+| 2 |Beryllium hydroxide dissolves in excess of alkali and  gives beryllate ion and [Be(OH)<sub>4</sub>]<sup>2-</sup> and hydrogen as a luminium hydroxide which gives a luminate ion, [Al(OH)<sub>4</sub> ]<sup>-</sup> |
+| 3 |Beryllium and aluminium ions have strong tendency to form complexes, BeF<sub>4</sub><sup>2-</sup> , AlF<sub>6</sub><sup>3-</sup> . |
 | 4 |Both beryllium and aluminium hydroxides are amphoteric in nature. |
-| 5 |Carbides  of  beryllium  (B e C)  like  aluminium  carbide  (Al C )  give  methane on hydrolysis.2 4 3 |
+| 5 |Carbides  of  beryllium  (Be<sub>2</sub>C)  like  aluminium  carbide  (Al<sub>4</sub>C<sub>3</sub> )  give  methane on hydrolysis.|
 | 6 |Both beryllium and aluminium are rendered passive by nitric acid. |
   
 
 
-**5.5.3 Chemical properties of alkaline earth**
+## 5.5.3 Chemical properties of alkaline earth
 
-The alkaline earth metals are less reac these elements increases on going down the g
+The alkaline earth metals are less reac these elements increases on going down the group.
 
 **Reactivity towards the halogens:**
 
@@ -184,9 +193,13 @@ M + X<sub>2</sub> → MX<sub>2</sub>
 (M= Be, Mg, Ca, Sr, Ba, Ra , X = F, Cl, Br, l )
 
 
-Thermal decomposition of (NH4)2BeF4 is the best route for the preparation of BeF2. BeCl2 is conveniently made from the oxide.
+Thermal decomposition of (NH<sub>4</sub>)2BeF<sub>4</sub> is the best route for the preparation of BeF<sub>2</sub>. BeCl<sub>2</sub> is conveniently made from the oxide.
 
-BeO + C + Cl<sub>2</sub> BeCl<sub>2</sub> + CO600 − 800K
+{{< katex display >}}
+BeO + C + Cl_2 \xrightarrow[]{ 600 − 800K} BeCl_2 + CO
+{{< /katex >}}
+
+
 
 **Reactivity towards hydrogen:**
 
@@ -194,7 +207,7 @@ All the elements except beryllium, combine with hydrogen on heating to form thei
 
 2BeCl<sub>2</sub> + LiAlH<sub>4</sub> → 2BeH<sub>2</sub> + LiCl + AlCl<sub>3</sub>
 
-**5.5.4 Uses of alkaline earth metals**
+## 5.5.4 Uses of alkaline earth metals
 
 **Uses of beryllium**
 
@@ -238,9 +251,9 @@ All the elements except beryllium, combine with hydrogen on heating to form thei
 
 **Uses of strontium**
 
-1. 90Sr is used in cancer therapy.
+1. <sup>90</sup>Sr is used in cancer therapy.
 
-2. 87Sr / 86Sr ratios are commonly used in marine investigations as well as in teeth, tracking animal migrations or in criminal forensics.
+2. <sup>87</sup>Sr / <sup>86</sup>Sr ratios are commonly used in marine investigations as well as in teeth, tracking animal migrations or in criminal forensics.
 
 3. Dating of rocks.
 
@@ -256,7 +269,7 @@ All the elements except beryllium, combine with hydrogen on heating to form thei
 
 4. As a scavenger to remove last traces of oxygen and other gases in television and other electronic tubes.
 
-5. An isotope of barium 133Ba, used as a source in the calibration of gamma ray detectors in nuclear chemistry.
+5. An isotope of barium <sup>133</sup>Ba, used as a source in the calibration of gamma ray detectors in nuclear chemistry.
 
 **Uses of Radium**
 

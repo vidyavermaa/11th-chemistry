@@ -7,6 +7,7 @@ weight: 5
 ![Rock salt,sylvite,spodumene](introduction.JPG)
 
 
+
 After studying this unit, students will be able to
 
 1.Explain the properties of alkali metals and alkaline

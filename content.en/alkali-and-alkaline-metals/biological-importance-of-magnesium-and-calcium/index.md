@@ -4,8 +4,8 @@ weight: 7
 ---
 
 
-
-**5.7 Biological importance of magnesium and calcium**
+<!-- 
+**5.7 Biological importance of magnesium and calcium** -->
 
 Magnesium and calcium also plays a vital role in biological functions. A typical
 adult human body contains about 25 g of magnesium and 1200 g of calcium. Magnesium

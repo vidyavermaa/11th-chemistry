@@ -3,7 +3,7 @@ title: 'Biological importance of sodium and potassium'
 weight: 4
 ---
 
-**5.4 Biological importance of sodium and potassium**
+<!-- **5.4 Biological importance of sodium and potassium** -->
 
 Monovalent sodium and potassium ions are found in large proportions in biological fluids. These ions perform important biological functions such as maintenance of ion balance and nerve impulse conduction. A typical 70 kg man contains about 90 g of sodium and 170 g of potassium compared with only 5 g of iron and 0.06 g of copper.
 
@@ -12,4 +12,5 @@ Sodium ions are found primarily on the outside of cells, being located in blood 
 Sodium–potassium pump play an important role in transmitting nerve signals.  
 
 ![sodium potasium pump](../chapter4.JPG)
+
 Figure 5.4 Sodium–potassium pump

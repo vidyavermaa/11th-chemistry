@@ -24,7 +24,7 @@ is highly radioactive; its longest-lived isotope has a half-life of only 21 minu
 
 | Elements |Abundance in earth crust (%) |RelativeAbundance |Mineral source |
 |------|------|------|------|
-| Lithium |0.0018 |35 |Spodumene [LiAl(SiO )]3 |
+| Lithium |0.0018 |35 |Spodumene [LiAl(SiO<sub>3</sub> )] |
 | Sodium |2.27 |7 |Rock Salt [NaCl] |
 | Potassium |1.84 |8 |Sylvite [KCl] |
 | Rubidium |0.0078 |23 |No convenient Source  (obtained as by product of lithium processing) |
@@ -46,37 +46,39 @@ The general valence shell electronic configuration of alkali metals is ns1, wher
 **Table 5.2 Electronic configuration of alkali metals**
 | Element |Symbol |Atomic No. |Electronic configuration |
 |------|------|------|------|
-| Lithium |Li |3 |[He]2s1 |
-| Sodium |Na |11 |[Ne]3s1 |
-| Potassium |K |19 |[Ar]4s1 |
-| Rubidium |Rb |37 |[Kr]5s1 |
-| Caesium |Cs |55 |[Xe]6s1 |
-| Francium |Fr |87 |[Rn]7s1 |
+| Lithium |Li |3 |[He]2s <sup>1</sup> |
+| Sodium |Na |11 |[Ne]3s<sup>1</sup> |
+| Potassium |K |19 |[Ar]4s<sup>1</sup> |
+| Rubidium |Rb |37 |[Kr]5s<sup>1</sup> |
+| Caesium |Cs |55 |[Xe]6s<sup>1</sup> |
+| Francium |Fr |87 |[Rn]7s<sup>1</sup> |
 
 
 **Common oxidation state**
+
 All these elements are highly electropositive in nature. They readily lose their valence
-electron to give monovalent cations (M+). Alkali metals have only one oxidation state which is +1.
+electron to give monovalent cations (M<sup>+</sup>). Alkali metals have only one oxidation state which is +1.
 
 **Atomic and ionic radii**
+
 Being the first element of each period, alkali metals have the largest atomic and
 ionic radii in their respective periods. On moving down the group, there is an increase in
 the number of shells and, therefore, atomic and ionic radii increase. The monovalent ions
 (M+) are smaller than the respective parent atoms as expected
 
-**Table 5.3 Physical properties of alkali metals **
+**Table 5.3 Physical properties of alkali metals**
 
 | Physical property |Li |Na |K |Rb |Cs |
 |------|------|------|------|------|------|
 | Atomic radius / Metallic radius (Å) |1.52 |1.86 |2.27 |2.48 |2.65 |
 | Ionic radius (Å) |0.76 |1.02 |1.38 |1.52 |1.67 |
-| Melting point  ( C)0 |181 |98 |63 |39 |28.5 |
-| B oiling point  ( C)0 |1347 |881 |766 |688 |705 |
-| First ionization enthalpy (kJ mol )-1 |520.2 |495.8 |418.8 |403.0 |375.7 |
+| Melting point  (<sup>0</sup> C) |181 |98 |63 |39 |28.5 |
+| Boiling point  (<sup>0</sup> C) |1347 |881 |766 |688 |705 |
+| First ionization enthalpy (kJ mol )<sup>-1</sup> |520.2 |495.8 |418.8 |403.0 |375.7 |
 | Electronegativity (Paulings scale) |1.0 |0.9 |0.8 |0.8 |0.7 |
-| Density  (g cm )-3 |0.54 |0.97 |0.86 |1.53 |1.90 |
-| Standard potential  E  for M /M (V) 0 + |-3.04 |-2.71 |-2.92 |-2.93 |-2.93 |
-| Hydration enthalpy (kJ mol )-1 |-506 |-406 |-330 |-310 |-276 |
+| Density  (g cm <sup>-3</sup>) |0.54 |0.97 |0.86 |1.53 |1.90 |
+| Standard potential  E<sup>0</sup>  for M<sup>+</sup>/M (V)   |-3.04 |-2.71 |-2.92 |-2.93 |-2.93 |
+| Hydration enthalpy (kJ mol )<sup>-1</sup> |-506 |-406 |-330 |-310 |-276 |
   
 
 
@@ -92,9 +94,9 @@ The second ionisation enthalpies of alkali metals are very high. The removal of 
 
 **Hydration enthalpy**
 
-Lithium salts are more soluble than the salts of other metals of group 1. eg. LiClO4 is upto 12 times more soluble than NaClO4. Other salts KClO4, RbClO4 and CsClO4 have solubilities only 10-3 times of that of LiClO4 . The high solubility of Li salts is due to strong solvation of small size Li+ ion.
+Lithium salts are more soluble than the salts of other metals of group 1. eg. LiClO<sub>4</sub> is upto 12 times more soluble than NaClO<sub>4</sub>. Other salts KClO<sub>4</sub>, RbClO<sub>4</sub> and CsClO<sub>4</sub> have solubilities only 10-3 times of that of LiClO<sub>4</sub> . The high solubility of Li salts is due to strong solvation of small size Li<sup>+</sup> ion.
 
-![Alt text](<../chapter 2 hydration.JPG>)
+![Hydration enthalphy](<../chapter 2 hydration.JPG>)
 
 **Figure 5.2 Hydration enthalphy of alkali metals**  
 
@@ -123,7 +125,7 @@ When the alkali metal salts moistened with concentrated hydrochloric acid are he
 
 The heat in the flame excites the valence electron to a higher energy level. When it drops back to its actual energy level, the excess energy is emitted as light, whose wavelength is in the visible region as shown in the above table.
 
-![Alt text](<../chapter 2 flames.JPG>)
+![Flame colours of alkali metal salts](<../chapter 2 flames.JPG>)
 
 **Figure 5.3 Flame colours of alkali metal salts**
 
@@ -135,7 +137,7 @@ The heat in the flame excites the valence electron to a higher energy level. Whe
 
 ## 5.2.2 Distinctive behavior of lithium
 
-The distinctive behaviour of Li+ ion is due to its exceptionally small size, high polarising
+The distinctive behaviour of Li<sup>+</sup> ion is due to its exceptionally small size, high polarising
 power, high hydration energy and non availability of d-orbitals.
 
 **Table 5.5 Comparison of properties of lithium with other elements of the group:**
@@ -143,11 +145,11 @@ power, high hydration energy and non availability of d-orbitals.
 
 | Lithium |Other elements of the family |
 |------|------|
-| Hard, high melting and boiling point |So  and  Lower melting and boiling point |
-| Least r eactive (F or exa mple i t r eacts w ith o xygen to f orm n ormal o xide, f orms p eroxides w ith g reat diculty and its higher oxides are unstable) |More reactive |
-| Reacts with nitrogen to give Li N6Li + N  --> 2Li N32 3 |No reaction |
+| Hard, high melting and boiling point |Soft  and  Lower melting and boiling point |
+| Least reactive (For example it reacts with oxygen to form normal oxide, forms peroxides with great difficulty and its higher oxides are unstable) |More reactive |
+| Reacts with nitrogen to give Li<sub>3</sub>N<sub>6</sub>Li + N<sub>2</sub>  --> 2Li<sub>3</sub>N |No reaction |
 | Reacts with bromine slowly |React violently |
-| Reacts dir ectly w ith c arbon t o f orm io nic c arbides. For example 2Li + 2C --> Li C2 2 |Do not react with carbon directly, but can react with carbon compounds.2Na + C H --> Na C + H2 2  2 2  2 |
+| Reacts directly with carbon to form ionic carbides. For example 2Li + 2C --> Li<sub>2</sub> C<sub>2</sub> |Do not react with carbon directly, but can react with carbon compounds.2Na + C<sub>2</sub> H<sub>2</sub> --> Na<sub>2</sub>C<sub>2</sub> + H<sub>2</sub> |
 | Lithium nitrate decomposes to give an oxide |Decompose to give nitrites |
 
 
@@ -159,18 +161,18 @@ power, high hydration energy and non availability of d-orbitals.
 | S.No. |Properties |
 |------|------|
 | 1 |Both lithium and magnesium are harder than other elements in the respective groups |
-| 2 |Lithium a nd m agnesium r eact s lowly w ith wa ter.  eir o xides a nd h ydroxides a re m uch les s soluble and their hydroxides decompose on heating. |
-| 3 |Both form a nitride, Li N and Mg N , by direct combination with nitrogen3 3 2 |
-| 4 |ey do not give any superoxides and form only oxides, Li O and MgO2 |
-| 5 |e c arbonates o f li thium a nd m agnesium de compose u pon h eating t o f orm t heir r espective oxides and CO .2 |
+| 2 |Lithium and magnesium react slowly with water. Their oxides and hydroxides are much less soluble and their hydroxides decompose on heating |
+| 3 |Both form a nitride, Li<sub>3</sub>N and Mg<sub>3</sub>N<sub>2</sub>, by direct combination with nitrogen |
+| 4 |They do not give any superoxides and form only oxides, Li<sub>2</sub>O and MgO<sub>2</sub> |
+| 5 |The carbonates of lithium and magnesium decompose upon heating to form their respective oxides and CO<sub>2</sub> |
 | 6 |Lithium and magnesium do not form bicarbonates. |
-| 7 |B oth LiC l and MgCl  are soluble in ethanol and are deliques cent. ey crystallise from aque oussolution a s hydrates, L iC l·2H O a nd MgC l ·8H O22 2 2 |
+| 7 |Both LiCl and MgCl are soluble in ethanol and are deliques cent. They crystallise from aqueous solution as hydrates, LiCl·2H<sub>2</sub>O and MgCl ·8H<sub>2</sub>O |
 
 
 
 **Diagonal Relationship:**
 
-Similarity between the first member second element of group 2 (Mg) is called size (rLi+ = 0.766 Å and rMg2+ = 0.72 Å) (Li = 1.0; Mg = 1.2).  
+Similarity between the first member of group 1 (Li) and the diagonally placed second element of group 2 (Mg) is called diagonal relationship. It is due to similar size (r<sub>Li<sup>+</sup></sub> = 0.766 Å and r<sub>Mg<sup>2+</sup></sub> = 0.72 Å) and comparable electronegativity values (Li = 1.0; Mg = 1.2).   
 
 
 
@@ -205,13 +207,13 @@ reducing agents and their reducing nature increases down the group.
 
 Alkali metals combine readily with halogens to form ionic halides MX. Reactivity of alkali metals with halogens increases down the group because of corresponding decrease in ionisation enthalpy.
 
-2M + X<sub>2</sub> 2 MX (M= Li, Na, K, Rb, Cs) (X= F, Cl, Br, I)
+2M + X<sub>2</sub> &rarr; 2MX (M= Li, Na, K, Rb, Cs) (X= F, Cl, Br, I)
 
-All metal halides are ionic crystals. However Lithium iodide shows covalent character, as it is the smallest cation that exerts high polarising power on the iodide anion. Additionally, the iodide ion being the largest can be polarised to a greater extent by Li+ ion.
+All metal halides are ionic crystals. However Lithium iodide shows covalent character, as it is the smallest cation that exerts high polarising power on the iodide anion. Additionally, the iodide ion being the largest can be polarised to a greater extent by Li<sup>+</sup> ion.
 
 **Reaction with liquid ammonia:**
 
-Alkali metals dissolve in liquid ammonia to give deep blue solutions that are conducting in nature. The conductivity is similar to that of pure metals (The specific conductivity of Hg is 104 Ω-1 and for sodium in liquid ammonia is 0.5 x 104 Ω-1). This happens because the alkali metal atom readily loses its valence electron in ammonia solution. Both the cation and the electron are ammoniated to give ammoniated cation and ammoniated electron.
+Alkali metals dissolve in liquid ammonia to give deep blue solutions that are conducting in nature. The conductivity is similar to that of pure metals (The specific conductivity of Hg is 10<sup>4</sup> Ω<sup>-1</sup> and for sodium in liquid ammonia is 0.5 x 10<sup>4</sup> Ω<sup>-1</sup>). This happens because the alkali metal atom readily loses its valence electron in ammonia solution. Both the cation and the electron are ammoniated to give ammoniated cation and ammoniated electron.
 
 M + (x + y)NH<sub>3</sub> → \[M(NH<sub>3</sub>)<sub>x</sub> \] + \[e(NH<sub>3</sub>)<sub>y</sub> \]<sup>-</sup>
 
@@ -253,16 +255,16 @@ Lithium directly reacts with carbon to form the ionic compound, lithium carbide.
 
 ## 5.2.4 Uses of alkali metals:
 
-i. Lithium metal is used to make useful alloys. For example with lead it is used to make ‘white metal’ bearings for motor engines, with aluminium to make aircraft parts, and with magnesium to make armour plates. It is used in thermonuclear reactions.
+1. Lithium metal is used to make useful alloys. For example with lead it is used to make ‘white metal’ bearings for motor engines, with aluminium to make aircraft parts, and with magnesium to make armour plates. It is used in thermonuclear reactions.
 
-ii. Lithium is also used to make electrochemical cells.
+2. Lithium is also used to make electrochemical cells.
 
-iii. Sodium is used to make Na/Pb alloy needed to make Pb(Et)4 and Pb(Me)4. These organolead compounds were earlier used as anti-knock additives to petrol, but nowadays lead-free petrol in use.
+3. Sodium is used to make Na/Pb alloy needed to make Pb(Et)4 and Pb(Me)4. These organolead compounds were earlier used as anti-knock additives to petrol, but nowadays lead-free petrol in use.
 
-iv. Liquid sodium metal is used as a coolant in fast breeder nuclear reactors.
+4. Liquid sodium metal is used as a coolant in fast breeder nuclear reactors.
 
-v. Potassium has a vital role in biological systems.Potassium chloride is used as a fertilizer.
+5. Potassium has a vital role in biological systems.Potassium chloride is used as a fertilizer.
 
-vi. Potassium hydroxide is used in the manufacture of soft soap. It is also used as an excellent absorbent of carbon dioxide.
+6. Potassium hydroxide is used in the manufacture of soft soap. It is also used as an excellent absorbent of carbon dioxide.
 
-vii. Caesium is used in devising photoelectric cells.
+7. Caesium is used in devising photoelectric cells.
