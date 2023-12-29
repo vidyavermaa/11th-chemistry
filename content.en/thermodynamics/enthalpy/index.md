@@ -16,43 +16,45 @@ Enthalpy is a state function which depends entirely on the state functions T, P 
 
 The change in enthalpy (Δ_H)_ is equal to the heat supplied at the constant pressure to a system (as long as the system does no additional work).
 
-ΔH=qp
+ΔH=q<sub>p</sub>
 
 In an endothermic reaction heat is absorbed by the system from the surroundings that is _q_\>0 (positive). Therefore, ΔH is also positive. In an exothermic reaction heat is evolved by the system to the surroundings that is, q<0 (negative). If q is negative, then ΔH will also be negative.  
 
 **7.5.1 Relation between enthalpy \`H' and internal energy \`U'**
 
 When the system at constant pressure undergoes changes from an initial state with H1, U1 and V1 to a final state with H2, U2 and V2 the change in enthalpy ΔH, can be calculated as follows:
+{{<katex display>}}
+H=U + PV\newline
 
-H=U + PV
+In the initial state \newline
 
-In the initial state
+H_1=U_1 + PV_1−−−−−(7.10)\newline
 
-H1=U1 + PV1−−−−−(7.10)
+In the final state\newline
 
-In the final state
+H_2 = U_2 + PV_2−−−−(7.11)\newline
 
-H2 = U2 + PV2−−−−(7.11)
+change in enthalpy is (7.11) - (7.10)\newline
 
-change in enthalpy is (7.11) - (7.10)
+(H_2−H_1) = (U_2−U_1) + P(V_2−V_1)\newline
 
-(H2−H1) = (U2−U1) + P(V2−V1)
+ΔH=ΔU + PΔV --------- (7.12)\newline
 
-ΔH=ΔU + PΔV --------- (7.12)
+As\ per first law of thermodynamics,\newline
 
-As per first law of thermodynamics,
+ΔU = q+w\newline
 
-ΔU = q+_w_
+Equation 7.12 becomes\newline
 
-Equation 7.12 becomes
+ΔH = q + w + PΔV\newline
 
-ΔH = q + w + PΔV
+w = -PΔV\newline
 
-_w_\= -PΔV
+ΔH = q_p - PΔV + PΔV\newline
 
-ΔH = qp - PΔV + PΔV
+ΔH = q_p–––––––––– (7.13)\newline
 
-ΔH = qp–––––––––– (7.13)
+{{</katex>}}
 
 qp− is the heat absorbed at constant pressure and is considered as heat content.
 
@@ -93,57 +95,25 @@ The standard heat of formation of a compound is defined as “the change in enth
 
 Fe(s)+ S(s) → FeS(s)
 
-ΔHf 0 = – 100.42 kJ mol−1
+ΔH<sub>f</sub><sup>0</sup> = – 100.42 kJ mol−1
 
 2C(s)+H2(g)→ C2H2(g)
 
-ΔHf 0= + 222.33 kJ mol−1
+ΔH<sub>f</sub><sup>0</sup> = + 222.33 kJ mol−1
 
-1 2
+{{<katex display>}}
+\frac{1}{2}cl_2 (g) + \frac{1}{2}H_2 (g) -> HCl(g)
+{{</katex>}}
 
-1 22 2Cl g H g HCl g( ) ( ) ( )+ →
-
-ΔHf 0 = – 92.4 kJ mol−1
+ΔH<sub>f</sub><sup>0</sup> = – 92.4 kJ mol−1
 
 The standard heats of formation of some compounds are given in Table 7.4.
 
-**Table: 7.4 standard heat of formation of some compounds**
-
-**Su bs**
-
-**ta nc**
-
-**e**
-
-**Δ H**
-
-**f0 (k**
-
-**J m ol**
-
-**−1 )**
-
-**Su bs**
-
-**ta nc**
-
-**e**
-
-**Δ H**
-
-**f0 (k J m**
-
-**ol −1**
-
-**)**
-
-H2O(l) −242 CH4(g) -74.85
-
-HCl(g) −92.4 C2H6(g) −84.6
-
-HBr(g) −36.4 C6H6(g) +49.6
-
-NH3(g) −46.1 C2H2(g) +222.33
-
-CO2(g) -393.5 CH3OH(l) −239.2
+| **Substance** | **ΔH<sub>f</sub>0 (kJ mol<sup>-1</sup>)** | **Substance** | **ΔH<sub>f</sub>0 (kJ mol<sup>-1</sup>)** |
+|--------------|-------------------------------------------|---------------|-------------------------------------------|
+| H<sub>2</sub>O(l) | -242 | CH<sub>4</sub>(g) | -74.85 |
+| HCl(g) | -92.4 | C<sub>2</sub>H<sub>6</sub>(g) | -84.6 |
+| HBr(g) | -36.4 | C<sub>6</sub>H<sub>6</sub>(g) | +49.6 |
+| NH<sub>3</sub>(g) | -46.1 | C<sub>2</sub>H<sub>2</sub>(g) | +222.33 |
+| CO<sub>2</sub>(g) | -393.5 | CH<sub>3</sub>OH(l) | -239.2 |
 

@@ -7,19 +7,6 @@ weight: 6
 A thermochemical equation is a balanced stoichiometric chemical equation that includes the enthalpy change (ΔH). The following conventions are adopted in thermochemical equations:
 
 (i) The coefficients in a balanced thermochemical equation refer to number of moles of reactants and products involved in the reaction.
-
-
-
-
-
-
-| enctabsuS |)−1 l(kJ mo0  fΔH |enctabsuS |)−1 l (kJ mo0 fΔH |
-|------|------|------|------|
-| H O(l)2 |−242 |CH (g)4 |-74.85 |
-| HCl(g) |−92.4 |C H (g)2 6 |−84.6 |
-| HBr(g) |−36.4 |C H (g)6 6 |+49.6 |
-| NH3(g) |−46.1 |C H (g)2 2 |+222.33 |
-| CO (g)2 |-393.5 |CH OH(l)3 |−239.2 |
   
 
 (ii) The enthalpy change of the reaction ΔHr has to be specified with appropriate sign and unit.
@@ -34,206 +21,71 @@ A thermochemical equation is a balanced stoichiometric chemical equation that in
 
 For example, consider the following reaction,
 
-2 H2(g)+O2(g)→2 H2O(g)
+{{<katex display>}}
+2 H_2(g)+O_2(g)→2 H_2O(g)\newline
 
-ΔHr 0 =− 967.4 kJ
+ΔH_r ^0 =− 967.4 kJ\newline
 
-2 H2 O (g) → 2 H2(g) + O2(g)
+2 H_2 O (g) → 2 H_2(g) + O_2(g)\newline
 
-ΔHr 0 = + 967.4 kJ
-
-**Standard enthalpy of reaction (**ΔHr 0**)**
-
-**from standard enthalpy of formation (**ΔH_f_
-
-0 **)**
+ΔH_r ^0 = + 967.4 kJ\newline
+{{</katex>}}
+**Standard enthalpy of reaction (ΔH<sub>r</sub><sup>0</sup>) from standard enthalpy of formation (ΔH<sub>f</sub><sup>0</sup>)**
 
 The standard enthalpy of a reaction is the enthalpy change for a reaction  
 
-when all the reactants and products are present in their standard states. Standard conditions are denoted by adding the superscript 0 to the symbol (ΔH0)
+when all the reactants and products are present in their standard states. Standard conditions are denoted by adding the superscript 0 to the symbol (ΔH<sup>0</sup>)
 
 We can calculate the enthalpy of a reaction under standard conditions from the values of standard enthalpies of formation of various reactants and products. The standard enthalpy of reaction is equal to the difference between standard enthalpy of formation of products and the standard enthalpies of formation of reactants.
 
-ΔHr 0 = Σ ΔHr
+{{<katex display>}}
+ΔH_r^0 = Σ {ΔH_r ^0 } _{(products)} - Σ {ΔH_r ^0}_{(reactants)}\newline
 
-0 (products) - Σ ΔHr
+For a general reaction\newline
 
-0 (reactants)
+aA + bB → cC +dD\newline
 
-For a general reaction
+ΔH_f ^0 = Σ {ΔH_f ^0} _{(products)} - Σ {ΔH_f ^0} _{(reactants)}\newline
 
-aA + bB → cC +dD
-
-ΔHf 0 = Σ ΔHf
-
-0 (products) - Σ ΔHf
-
-0 (reactants)
-
-ΔHf 0 = {c ΔH_f_
-
-0 (_C_) + d ΔH_f_ 0 (_D_)} –
-
-{a ΔH_f_ 0(A) + b ΔH_f_
-
-0(B)}
-
+ΔH_f ^0 = {c ΔH_f ^0 (C) + d ΔH_f ^0 (D)} – {a ΔH_f ^0(A) + b ΔH_f ^0(B)}\newline
+{{</katex>}}
 **Problem : 7.2**
 
-The standard enthalpies of formation of
+The standard enthalpies of formation of C2H5OH(l), CO2(g) and H2O(l) are - 277, \-393.5 and -285.5 kJ mol-1 respectively. Calculate the standard enthalpy change for the reaction
+{{<katex display>}}
+C_2H_5OH(l)+3O_2(g)→2CO_2(g)+ 3 H_2O(l)
+{{</katex>}}
 
-C2H5OH(l), CO2(g) and H2O(l) are - 277,
-
-\-393.5 and -285.5 kJ mol-1 respectively.
-
-Calculate the standard enthalpy change
-
-for the reaction
-
-C2H5OH(l)+3O2(g)→2CO2(g)+ 3 H2O(l)
-
-The enthalpy of formation of O2(g) in the standard state is Zero, by definition
+The enthalpy of formation of O<sub>2</sub>(g) in the standard state is Zero, by definition
 
 **Solution:**
 
-For example, the standard enthalpy change for the combustion of ethanol can be calculated from the standard enthalpies of formation of C2H5OH(l), CO2(g)
-
-
-
-
-  
-
-and H2O(l). The enthalpies of formation are –277, – 393.5 and –285.5 kJ mol–1 respectively.
-
-C2H5OH(l) + 3O2(g) → 2CO2(g) + 3H2O(l)
-
-∆ = ∆( ) - ∆( ){ } ∆ = ∆( ) + ∆
-
-H H H
-
-H H H
-
-r f products f reac ts
-
-r f CO f
-
-0 0 0
-
-0 0 02 3 2
-
-tan
-
-( ) 
-
- 
-
-\- ∆( ) + ∆( ) 
-
- 
-
-∆ = -
-
-H O
-
-f C H OH f O
-
-r
-
-H H
-
-H mol
-
-2
-
-2 5 2
-
-1 3
-
-2 393 5
-
-0 0
-
-0 ( . )
-
-( . )
-
-( )
-
-kJmol
-
-mol kJmol
-
-mol kJmol
-
-m
-
-\-
-
-\-
-
-\-
-
-\+ -
-
-
-
-  
-
-
-
-  
-
-\- -
-
-+
-
-1
-
-1
-
-1
-
-3 285 5
-
-1 277
-
-3 ol kJmol
-
-Hr
-
-( )
-
-\[ . \] \[ \]
-
-.
-
-0
-
-787 856 5 277
-
-1643 5 277
-
-1
-
-0
-
-\-
-
-
-
-  
-
-
-
-  
-
-\= - - - -
-
-\= - +
-
-∆ = -1366 5. KJ
-
-?**Evaluate Yourself - 1**
+For example, the standard enthalpy change for the combustion of ethanol can be calculated from the standard enthalpies of formation of C<sub>2</sub>H<sub>5</sub>OH(l), CO<sub>2</sub>(g) and H<sub>O</sub>(l). The enthalpies of formation are –277, – 393.5 and –285.5 kJ mol–1 respectively.
+
+{{<katex display>}}
+C_2H_5OH(l)+3O_2(g)→2CO_2(g)+ 3 H_2O(l)
+{{</katex>}}
+
+{{<katex display>}}
+\Delta H^0_r = \begin{Bmatrix}
+(\Delta H^{0}_f) _{products} - (\Delta H^{0}_f) _{reactants})
+\end{Bmatrix}\newline
+\Delta H^0_r = [2(\Delta H_f^0)_{co_2} + 3(\Delta H_f^0)_{{H_2}o}]
+- [1(\Delta H_f^0)_{c_2H_5OH} + 3(\Delta H_f^0)_{o_2}]\newline
+\Delta H^0_r = \begin{bmatrix}
+2mol(-393.5)kJ mol^{-1})\\ 
++3mol (-285.5) kJ mol^{-1}
+\end{bmatrix}
+- \begin{bmatrix}
+1mol(-277)kJ mol^{-1})\\ 
++3mol (0) kJ mol^{-1}
+\end{bmatrix}\newline
+=[-787-856.5] - [-277]\newline
+= -1643.5 + 277\newline
+\Delta H^0_r = -1366.5KJ
+{{</katex>}}
+
+**Evaluate Yourself - 1**
 
 Calculate ΔHf 0 for the reaction
 
@@ -270,22 +122,9 @@ q = c m ΔT
 c = q/m ΔT
 
 The constant c is called heat capacity.
-
-c q m T T
-
-\= -
-
-
-
- 
-
- - - - - - - -
-
-( ) ( . )
-
-2 1
-
-7 18
+{{<katex display>}}
+c = (\frac{q}{m(T_2 - T_1))})
+{{</katex>}}
 
 when m=1 kg and (T2 - T1) = 1 K then the heat capacity is referred as specific heat capacity. The equation 7.18 becomes c = q
 
@@ -312,33 +151,10 @@ q = U + PdV ---------------------(7.19)
 
 Differentiate (7.19) with respect to temperature at constant volume i.e dV=0,
 
-∂ ∂
-
-  
-
-   =
-
-∂ ∂
-
-  
-
-  
-
-q T
-
-U TV V
-
-C U TV
-
-V
-
-\= ∂ ∂
-
- 
-
- 
-
-\- - - - - - -7 20.
+{{<katex display>}}
+(\frac{\delta q}{\delta T})_v =(\frac{\delta U}{\delta T}) _v\newline
+C_v = (\frac{\delta U}{\delta T}) _v -------7.20
+{{</katex>}}
 
 Thus the heat capacity at constant volume (CV) is defined as the rate of change of internal energy with respect to temperature at constant volume.
 
@@ -346,17 +162,9 @@ Similarly the molar heat capacity at constant pressure (CP) can be defined as
 
 the rate of change of enthalpy with respect to temperature at constant pressure.
 
-c H TP
-
-P
-
-\= ∂ ∂
-
- 
-
- 
-
-\- - - - - - - ( . )7 21
+{{<katex display>}}
+C_P = (\frac{\delta H}{\delta T}) _P -------7.21
+{{</katex>}}
 
 **Relation between Cp and Cv for an ideal gas.**
 
@@ -374,120 +182,55 @@ H = U + nRT ---- (7.23)
 
 Differentiating the above equation with respect to T,
 
-∂
+{{<katex display>}}
+\frac{\delta H}{\delta T} = \frac{\delta U}{\delta T} + nR\frac{\delta T}{\delta T}
+{{</katex>}}
 
-∂ =
 
-∂
+C<sub>p</sub> = C<sub>v</sub> + nR (1)
 
-∂ +
-
-∂
-
-∂
-
-H
-
-T
-
-U
-
-T nR
-
-T
-
-T
-
-Cp = Cv + nR (1)
-
-Cp- Cv=nR .....(7.24) 
-
-∂
-
-∂ =
-
-∂
-
-∂ =
-
- 
-
- 
-
- 
-
- 
-
-
-
-
-
-   
-
-
-
-
-
-   
-
-H
-
-T P CP
-
-and U
-
-T V CV
-
+C<sub>p</sub>- C<sub>v</sub>=nR .....(7.24) 
 At constant pressure processes, a system has to do work against the surroundings. Hence, the system would require more heat to effect a given temperature rise than at constant volume, so Cp is always greater than Cv
 
 **Calculation of ΔU and ΔH**
 
 For one mole of an ideal gas, we have
-
-
-
-
-  
-
-C dU dTV =
-
-dU = CV dT
+{{<katex display>}}
+C_v = \frac{dU}{dT}\newline
+dU = C_V dT
+{{</katex>}} 
 
 For a finite change, we have
 
-ΔU = CV ΔT
+ΔU = C<sub>V</sub> ΔT
 
-ΔU= CV (T2 – T1)
+ΔU= C<sub>V</sub> (T2 – T1)
 
 and for n moles of an ideal gas we get
 
-ΔU = n Cv(T2 – T1) –––––––––– (7.25)
+ΔU = n C<sub>v</sub>(T<sub>2</sub> – T<sub>1</sub>) –––––––––– (7.25)
 
-Similarly for _n_ moles of an ideal gas we get
+Similarly for n moles of an ideal gas we get
 
-Δ H = n CP (T2-T1)–––––– (7.26)
+ΔH = n C<sub>P</sub> (T<sub>2</sub>-T<sub>1</sub>)–––––– (7.26)
 
 **Problem 7.3**
 
-Calculate the value of Δ_U_ and Δ_H_ on heating 128.0 g of oxygen from 0o C to 1000 C. _CV_ and C_P_ on an average are 21 and 29 J mol-1 K-1. (The difference is 8Jmol-1 K-1 which is approximately equal to R)
+Calculate the value of ΔU and ΔH on heating 128.0 g of oxygen from 0o C to 1000 C. C<sub>V</sub> and C<sub>P</sub> on an average are 21 and 29 J mol-1 K-1. (The difference is 8Jmol-1 K-1 which is approximately equal to R)
 
 **Solution.**
 
 We know
 
-ΔU = n Cv (T2-T1)
+ΔU = n C<sub>v</sub> (T<sub>2</sub>-T<sub>1</sub>)
 
-ΔH = n CP (T2- T1)
+ΔH = n CP (T<sub>2</sub>- T<sub>1</sub>)
 
-Here n=
+Here n= 128/32 = 4 moles ;
 
-128 32
+T<sub>2</sub> = 1000 C =373K; T<sub>1</sub> = 00 C = 273K
 
-\= 4 moles ;
-
-T2 = 1000 C =373K; T1 = 00 C = 273K
-
-ΔU = n Cv (T2-T1)  
+ΔU = n C<sub>v</sub> (T<sub>2</sub>-T<sub>1</sub>)  
 
 ΔU = 4 x 21 x (373 - 273)
 
@@ -495,7 +238,7 @@ T2 = 1000 C =373K; T1 = 00 C = 273K
 
 ΔU = 8.4 kJ
 
-ΔH = n Cp (T2- T1)
+ΔH = n C<sub>p</sub> (T<sub>2</sub>- T<sub>1</sub>)
 
 ΔH = 4 × 29 × (373- 273)
 
@@ -503,6 +246,6 @@ T2 = 1000 C =373K; T1 = 00 C = 273K
 
 ΔH = 11.6 kJ
 
-? **Evaluate Yourself -2**
+**Evaluate Yourself -2**
 
 Calculate the amount of heat necessary to raise 180 g of water from 250 C to 1000 C. Molar heat capacity of water is 75.3 J mol-1 K-1

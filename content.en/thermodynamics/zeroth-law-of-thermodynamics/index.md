@@ -10,7 +10,7 @@ The zeroth law of thermodynamics, also known as the law of thermal equilibrium, 
 before the first and second laws as it provides a logical basis for the concept of temperature of the system.
 
 **Figure : 7.5** **Zeroth law of thermodynamics:**
-![alt image](./image-zeorth-law.png)
+![alt Zeroth law of thermodynamics](./image-zeorth-law.png)
 
 The law states that \`If two systems are separately in thermal equilibrium with a third one, then they tend to be in thermal equilibrium with themselves'.
 

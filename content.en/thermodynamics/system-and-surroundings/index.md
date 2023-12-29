@@ -12,7 +12,8 @@ The universe is divided into two parts, the system and its surroundings. The sys
 
 **Figure 7.1 System, surrounding & boundary Homogeneous and heterogeneous systems**
 
-![alt text](./figure7_1.png)
+![alt System, surrounding & boundary Homogeneous and heterogeneous systems](./figure7_1.png)
+
 
 **Example:**
 
@@ -41,7 +42,7 @@ There are three types of thermodynamic systems depending on the nature of the bo
 Open Closed Isolated
 
 **Figure 7.2 Types of Systems**  
-![alt text](./figure7-2.png)
+![alt Types of Systems](./figure7-2.png)
 
 **Isolated system:**
 
@@ -110,13 +111,13 @@ For an adiabatic process q = 0
 
 An isothermal process is defined as one in which the temperature of the system remains constant, during the change from its initial to final state. The system exchanges heat with its surrounding and the temperature of the system remains constant. For this purpose the experiment is often performed in a thermostat.
 
-For an isothermal process _dT_ = 0
+For an isothermal process dT = 0
 
 **Isobaric process**
 
 An isobaric process is defined as one in which the pressure of the system remains constant during its change from the initial to final state.
 
-For an isobaric process _dP_\= 0 .
+For an isobaric process dP = 0 .
 
 **Isochoric process**
 
@@ -124,7 +125,7 @@ An isochoric process is defined as
 
 the one in which the volume of system remains constant during its change from initial to final state. Combustion of a fuel in a bomb calorimeter is an example of an isochoric process.
 
-For an isochoric process, d_V_\= 0.
+For an isochoric process, dV = 0.
 
 **Cyclic process:**
 
@@ -159,7 +160,7 @@ A thermodynamic system can be defined by using the variables P, V, T and ̀ n'. 
 
 A path function is a thermodynamic property of the system whose value depends on the path by which the system changes from its initial to final states.
 
-**Example: Work (**_w_**), Heat (**_q_**).**
+**Example: Work(w), Heat (q).**
 
 Work (w) will have different values if the process is carried out reversibly or irreversibly.
 
@@ -183,14 +184,14 @@ The internal energy possessed by a substance differentiates its physical structu
 
 • The internal energy of a system is a state function. It depends only upon the state variables (T, P, V, n) of the system. The change in internal energy does not depend on the path by which the final state is reached.
 
-• The change in internal energy of a system is expressed as ΔU= U_f_ – U_i_
+• The change in internal energy of a system is expressed as ΔU= U<sub>f</sub> – U<sub>i</sub>
 
-• In a cyclic process, there is no internal energy change. ΔU_(cyclic)_ = 0
+• In a cyclic process, there is no internal energy change. ΔU<sub>(cyclic)</sub> = 0
 
-• If the internal energy of the system in the final state (_Uf_) is less than the internal energy of the system in its initial state (U_i_), then ΔU would be negative.
+• If the internal energy of the system in the final state (U<sub>f</sub>) is less than the internal energy of the system in its initial state (U<sub>i</sub>), then ΔU would be negative.
 
-ΔU=U_f_ − U_i_ = −ve (U_f_ < U_i_)
+ΔU=U<sub>f</sub> − U<sub>i</sub> = −ve (U<sub>f</sub> U<sub>i</sub>)
 
-• If the internal energy of the system in the final state (U_f_) is greater than the internal energy of the system in its initial state(U_i_), then ΔU would be positive.
+• If the internal energy of the system in the final state (U<sub>f</sub>) is greater than the internal energy of the system in its initial state(U<sub>i</sub>), then ΔU would be positive.
 
-ΔU=U_f_ − U_i_ = +ve (U_f_ \> U_i)_
+ΔU=U<sub>f</sub> − U<sub>i</sub> = +ve (U<sub>f</sub> \> U<sub>i</sub>)

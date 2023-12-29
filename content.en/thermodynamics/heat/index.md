@@ -72,7 +72,7 @@ w = –F .Δx ------------ (7.2)
 where dx is the distance moved by the piston during the compression and F is the force acting on the gas.
 
 **Figure 7.3 showing work involved in compression processes**
-![alt text](./figure7-3.png)
+![alt Figure 7.3](./figure7-3.png)
 
 F = P<sub>ext</sub>A---- (7.3)
 
@@ -92,18 +92,9 @@ Since work is done on the system, it is a positive quantity.
 
 If the pressure is not constant, but changes during the process such that it is always infinitesimally greater than the pressure of the gas, then, at each stage of compression, the volume decreases by an infinitesimal amount, dV. In such a case we can calculate the work done on the gas by the relation
 
-
-
-
-
-
-| F |
-|------|------|------|
-
-| APGAS |
-  
-
-w<sub>rev</sub> = - ∫P<sub>ext</sub> dV
+{{<katex display>}}
+w_{rev} = -\int_{vi}^{vf}P_{ext}dV
+{{</katex>}}
 
 In a compression process, P<sub>ext</sub> the <sub>ext</sub>ernal pressure is always greater than the pressure of the system.
 
@@ -114,7 +105,7 @@ In an expansion process, the <sub>ext</sub>ernal pressure is always less than th
 i.e. P<sub>ext</sub> = (Pint - dP).
 
 **Figure 7.4**
-![alt text](./figure7-4.png)
+![alt Figure 7.4](./figure7-4.png)
 
 When pressure is not constant and changes in infinitesimally small steps (reversible conditions) during compression from Vi to Vf , the P-V plot looks like in fig 7.4 Work done on the gas is represented by the shaded area.
 
@@ -122,12 +113,19 @@ In general case we can write,
 
 P<sub>ext</sub> \= (Pint + dP). Such processes are called reversible processes. For a compression process work can be related to internal pressure of the system under reversible conditions by writing equation  
 
-w<sub>rev</sub> = - ∫P<sub>int</sub> dV
-P<sub>int</sub> = nRT/V
-w<sub>rev</sub> = -∫(nRT/V)dV
-w<sub>rev</sub> = -(nRT/V)∫dV/V
-w<sub>rev</sub> = -(nRT/V)ln(Vf/Vi)
-w<sub>rev</sub> = -2.303nRTlog(Vf/Vi) ----- 7.6
+{{<katex display>}}
+w_{rev} = -\int_{vi}^{vf}P_{int}dV
+{{</katex>}}
+
+for the given system with an ideal gas
+{{<katex display>}}
+P_{int}V = nRT\newline
+P_{int} = \frac{nRT}{V}\newline
+w_{rev} = -\int_{vi}^{vf}\frac{nRT}{V}dV\newline
+w_{rev} = -nRT\int_{vi}^{vf}(\frac{dV}{V})\newline
+w_{rev} = -nRT ln(\frac{V_f}{V_i})\newline
+w_{rev} = -2.303nRT log(\frac{V_f}{V_i}) ---- 7.6\newline
+{{</katex>}}
 
 If Vf \>Vi (expansion), the sign of work done by the process is negative.
 

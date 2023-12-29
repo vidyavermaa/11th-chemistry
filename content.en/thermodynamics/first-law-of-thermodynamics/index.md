@@ -31,20 +31,6 @@ Other statements of first law of thermodynamics
 (5) "Heat and work are two ways of changing a system's internal energy".
 
 
-
-
-
-
-| uilibrium |uilibr |
-|------|------|------|------|------|------|------|------|------|
-| A |
-| Eq |
-
-
-| B |
-| C |
-
-
   
 
 **7.4.1 Mathematical statement of the first law**
