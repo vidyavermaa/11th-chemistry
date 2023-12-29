@@ -3,406 +3,238 @@ title: 'Law of mass action'
 weight: 6
 ---
 
-## 8.6 Law of mass action
-
 In 1864 two Norwegian chemists namely Maximilian Guldberg and Peter Waage formulated the law of mass action, based on the experimental studies of many reversible reactions. The law states that,
 
 “At any instant, the rate of a chemical reaction at a given temperature is directly proportional to the product of the active masses of the reactants at that instant”.
 
-Rate α \[Reactant\]x
+Rate α [Reactant]<sup>X</sup>
+|---|
 
 where, x is the stoichiometric coefficient of the reactant and the square bracket represents the active mass (concentration) of the reactants.
 
-Active mass = n V
+Active mass = (n/V) mol dm<sup>-3</sup>(or) mol L<sup>-1</sup>
+|----|
 
-  
+where n is the number of moles and V is the volume of the container (dm<sup>3</sup> or L)
 
-   mol dm-3(or) mol L-1
-
-
-
-
-  
-
-where n is the number of moles and V is the volume of the container (dm3 or L)
-
-8.6.1 Equilibrium constants (Kp and Kc):
+**8.6.1 Equilibrium constants (K<sub>P</sub> and K<sub>C</sub>):**
 
 Let us consider a reversible reaction,
 
-_x_A+yB ⇌ _l_C + _m_D
+xA+yB ⇌ *l*C + mD
+|---|
 
-where, A and B are the reactants, C and D are the products and x,y,_l_ and m are the stoichiometric coefficients of A, B, C and D, respectively.
+where, A and B are the reactants, C and D are the products and x,y,*l* and m are the stoichiometric coefficients of A, B, C and D, respectively.
 
 Applying the law of mass action, the rate of the forward reaction,
 
-rf α \[A\]x \[B\]y (or) rf = kf \[A\]x \[B\]y
+r<sub>f</sub> α [A]<sup>x</sup> [B]<sup>y</sup> (or) r<sub>f</sub> = k<sub>f</sub> [A]<sup>x</sup> [B]<sup>y</sup>
+|----|
 
 Similarly, the rate of the backward reaction,
 
-rb α \[C\]_l_ \[D\]m
+r<sub>b</sub> α [C]<sup>l</sup> [D]<sup>m</sup> (or) r<sub>b</sub> = k<sub>b</sub> [C]<sup>l</sup> [D]<sup>m</sup> 
+|---|
 
-(or)
 
-rb = kb \[C\]_l_\[D\]m
-
-where kf and kb are proportionality constants
+where k<sub>f</sub> and k<sub>b</sub> are proportionality constants
 
 At equilibrium,
 
-Rate of forward reaction (rf)
+Rate of forward reaction (r<sub>f</sub>) = Rate of backward reaction (r<sub>b</sub>)
+|---|
+k<sub>f</sub>[A]<sup>x</sup> [B]<sup>y</sup> = k<sub>b</sub> [C]<sup>l</sup> [D]<sup>m</sup> or k<sub>f</sub>/k<sub>b</sub> = [C]<sup>l</sup> [D]<sup>m</sup> [A]<sup>x</sup> [B]<sup>y</sup> = K<sub>c</sub>
 
-\= Rate of backward reaction (rb)
 
-kf \[A\]_x_ \[B\]y = kb \[C\]_l_ \[D\]m
-
-or kf
-
-kb
-
-\[C\]_l_ \[D\]_m_
-
-\[A\]_x_ \[B\]_y_ Kc= =
-
-where, Kc is the equilibrium constant in terms of concentration (active mass).  
+where, K<sub>c</sub> is the equilibrium constant in terms of concentration (active mass).  
 
 At a given temperature, the ratio of the product of active masses of reaction products raised to the respective stoichiometric coefficients in the balanced chemical equation to that of the reactants is a constant, known as equilibrium constant. Later when we study chemical kinetics we will learn that this is only approximately true.
 
 If the reactants and products of the above reaction are in gas phase, then the equilibrium constant can be written in terms of partial pressures as indicated below,
 
-Kp
+{{<katex display>}}
+K_p = \frac{P^l_c×P^m_d}{P^x_A×P^y_B}    
+{{</katex>}}
+|-----| 
 
-pC _l_ × pD
+Where, p<sub>A</sub>, p<sub>B</sub>, p<sub>C</sub>,and p<sub>D</sub> are the partial pressures of the gas A, B, C and D, respectively.
 
-_m_ =
-
-pA _x_ × pB
-
-_y_
-
-Where, pA, pB, pC,and pD are the partial pressures of the gas A, B, C and D, respectively.
-
-8.6.2 Relation between Kp and Kc
+**8.6.2 Relation between K<sub>p</sub> and K<sub>c</sub>**
 
 Let us consider the general reaction in which all reactants and products are ideal gases.
 
-_x_A+_y_B ⇌ _l_C +_m_D
+xA+yB ⇌ lC +mD
+|-----|
 
-The equilibrium constant, Kc is
+The equilibrium constant, K<sub>c</sub> is
 
-Kc
+{{<katex display>}}
+K_c = \frac{[C]^l[D]^m}{[A]^x[B]^y}         (1)
+{{</katex>}}
+|-----|
 
-\[C\]_l_ \[D\]_m_
+and K<sub>p</sub> is,
 
-\[A\]_x_ \[B\]_y_ \= (1)
-
-and Kp is,
-
-Kp
-
-pC _l_ × pD
-
-_m_ =
-
-pA _x_ × pB
-
-_y_ (2)
+{{<katex display>}}
+K_p = \frac{P^l_c×P^m_d}{P^x_A×P^y_B}         (2)
+{{</katex>}}
+|-----| 
 
 The ideal gas equation is
 
-
-
-
-  
-
-PV nRT or
-
-P n V
-
-RT
-
-\=
-
-\=
+PV = nRT or P = n/V RT
+|----|
 
 Since
 
-Active mass = molar concentration = n/V P = active mass × (RT)
-
+Active mass = molar concentration = n/V 
+|---|
+P = active mass × (RT)
+ 
 Based on the above expression the partial pressure of the reactants and products can be expressed as,
 
-pA _x_ = \[A\]_x_ (RT)_x_
-
-pB _y_ = \[B\]_y_ (RT)_y_
-
-pC _1_ \= \[C\]_l_ (RT)_l_
-
-pD _m_ \= \[D\]_m_ (RT)_m_
+{{<katex display>}}
+p^x_A = [A]^x(RT)^x \newline
+p^y_B = [B]^y(RT)^y \newline
+p^l_C = [C]^l(RT)^l \newline
+p^m_D = [D]^m(RT)^m 
+{{</katex>}}
+|-----| 
 
 On substitution in Eqn. 2,
 
-Kp
+{{<katex display>}}
+K_p = \frac{[C]^l[RT]^l[D]^m[RT]^m}{[A]^x[RT]^x[B]^y[RT]^y}            (3)
+{{</katex>}}
+|-----|
 
-\[C\]_l_ \[RT\]_l_ \[D\]_m_ (RT)_m_
-
-\= \[A\]_x_ \[RT\]_x_ \[B\]_y_ (RT)_y_
-
-(3)
-
-(4)
-
-Kp
-
-\[C\]_l_ \[D\]_m_ (RT)_l+m_
-
-\= \[A\]_x_ \[B\]_y_ (RT)_x+y_
-
-Kp
-
-\[C\]_l_ \[D\]_m_
-
-\= \[A\]_x_ \[B\]_y_ (RT)(_l+m) - (x+y)_
+{{<katex display>}}
+K_p = \frac{[C]^l[D]^m(RT)^{l+m}}{[A]^x[B]^y(RT)^{x+y}}            
+\newline
+K_p =  \frac{[C]^l[D]^m}{[A]^x[B]^y} (RT)^{(l+m)}{-}^{(x+y)}     (4)
+{{</katex>}}
+|-----|
 
 By comparing equation (1) and (4), we get
 
-Kp = Kc (RT)Δng (5)
+{{<katex display>}}
+K_p = K_c (RT)^{Δng} (5) 
+{{</katex>}}
+|-----|
 
 where, Δng is the difference between the sum of number of moles of products and the sum of number of moles of reactants in the gas phase.  
 
 The following relations become immediately obvious.
 
-When Δng = 0
+When Δn<sub>g</sub> = 0
 
-Kp = Kc (RT)0
+K<sub>p</sub> = K<sub>c</sub> (RT)<sup>0</sup>
 
-**Kp = Kc**
-
-**Examples:**
-
-**1\.** H2(g) + I2(g) ⇌ 2HI (g)
-
-**2\.** N2 (g) +O2 (g) ⇌ 2NO(g)
-
-When Δng = +ve
-
-Kp = Kc (_RT_)+ve
-
-**Kp>Kc**
+**K<sub>p</sub> = K<sub>c</sub>**
 
 **Examples:**
 
-**1\.** 2NH3(g) ⇌ N2 (g) + 3H2 (g)
+1. H<sub>2</sub>(g) + I<sub>2</sub>(g) ⇌ 2HI (g)
 
-**2\.** PCI5 (g) ⇌ PCl3 (g) + Cl2 (g)
+2. N<sub>2</sub> (g) +O<sub>2</sub> (g) ⇌ 2NO(g)
 
-When Δng = -ve
+When Δn<sub>g</sub> = +ve
 
-Kp = Kc (RT)-ve
+K<sub>p</sub> = K<sub>c</sub> (RT)<sup>+ve</sup>
 
-**Kp< Kc**
+**K<sub>p</sub>>K<sub>c</sub>**
 
 **Examples:**
 
-**1\.** 2H2(g) + O2(g) ⇌ 2H2O (g)
+1. 2NH<sub>3</sub>(g) ⇌ N<sub>2</sub> (g) + 3H<sub>2</sub> (g)
 
-**2\.** 2SO2(g) + O2(g) ⇌ 2SO3 (g)
+2. PCI<sub>5</sub> (g) ⇌ PCl<sub>3</sub> (g) + Cl<sub>2</sub> (g)
+
+When Δn<sub>g</sub> = -ve
+
+K<sub>p</sub> = K<sub>c</sub> (RT)<sup>-ve</sup>
+
+**K<sub>p</sub>< K<sub>c</sub>**
+
+**Examples:**
+
+1. 2H<sub>2</sub>(g) + O<sub>2</sub>(g) ⇌ 2H<sub>2</sub>O (g)
+
+2. 2SO<sub>2</sub>(g) + O<sub>2</sub>(g) ⇌ 2SO<sub>3</sub>(g)
+
 
 **Table 8.1 Relation between equilibrium constants for some reversible reactions**
 
-**Reversible reactions Equilibrium**
-
-**constant** _For the forward reaction x_ A+_y_B ⇌ _lC_+_m_D
-
-K_c_
-
-
-
-
-
-
-| Reversible reactions |E quilibrium constant |
+| Reversible reactions |Equilibrium constant |
 |------|------|
-| For the for ward react ionx A+yB ⇌  lC+mD |Kc |
-  
-
-If the reaction is rever
-
-_lC_+_m_B ⇌ _xA_+_y_B
-
-_A_
-
-_C_
-
-_B_
-
-_A_
-
-_B_
-
-_D_
-
-K1
-
-K3
-
-K2
-
-K4
+| For the forward reaction xA+yB ⇌  lC+mD |Kc |
+ | If the reaction is reversed, lC+mB ⇌  xA+yB |K'<sub>c</sub> = 1/K<sub>c</sub>|
+| A ⇌<sup>K<sub>1</sub></sup> B B ⇌<sup>K<sub>2</sub></sup> C C ⇌<sup>K<sub>3</sub></sup> D D ⇌<sup>K<sub>4</sub></sup> A |K<sub>4</sub> = K<sub>1</sub> K<sub>2</sub> K<sub>3</sub> |  
 
 **8.6.3 Equilibrium constants for heterogeneou**
 
-Consider the following heterogeneous e
+Consider the following heterogeneous equilibrium.
 
-CaCO3 (s) ⇌ Ca
+CaCO<sub>3</sub> (s) ⇌ CaO (s) + CO<sub>2</sub> (g)
+|----|
 
-The equilibrium constant for the above r
+The equilibrium constant for the above reaction can be written as
 
-Kc
+{{<katex display>}}
+K_C = \frac{[CaO (s)][CO_2 (g)]}{[CaCO_3 (s)]}  
+{{</katex>}}
+|-----|
 
-\[CaO (s) =
+A pure solid always has the same concentration at a given temperature, as it does not
+expand to fill its container. i.e. it has same number of moles L<SUP>-1</SUP> of its volume. Therefore, the
+concentration of a pure solid is a constant. The above expression can be modified as follows 
 
-\[CaC
+K<SUB>c</SUB> [CO<SUB>2</SUB>] or K<SUB>P</SUB> = P<SUB>CO2</SUB>
+|----|
 
-A pure solid always has the same concen expand to fill its container. i.e. it has same num concentration of a pure solid is a constant. The
+The equilibrium constant for the above carbon dioxide and not the calcium carbonate (concentration) of the pure liquid does not chan concentration terms of pure liquids can also be ex constant. 
 
-or
+For example,
 
-Kc \[C=
+CO<SUB>2</SUB>(g) + H<SUB>2</SUB>O (l) ⇌ H<SUP>C+</SUP>(aq) + HCO<SUB>3</SUB><SUP>-</SUP>(aq)
 
-Kp =
+Since, H<SUB>2</SUB>O(l) is a pure liquid the K<SUB>C</SUB> can be expressed as
 
-The equilibrium constant for the above carbon dioxide and not the calcium carbonate (concentration) of the pure liquid does not chan concentration terms of pure liquids can also be ex constant. For example,
+{{<katex display>}}
+K_C = \frac{[H^+][HCO_3^-]}{[CO_2]}  
+{{</katex>}}
+|-----|
 
-CO2(g) + H2O (l) ⇌ H
-
-Since, H2O(l) is a pure liquid the Kc can be expre
-
-KC = H+\[ \]
-
-\[  
-
-sed, Kc
-
-' 1= Kc
-
-_C_
-
-_D_
-
-K4 K1K2K3=
-
-**s equilibrium**
-
-quilibrium.
-
-O (s) + CO2 (g)
-
-eaction can be written as
-
-\]\[CO2 (g)\] O3 (s)\]
-
-tration at a given temperature, as it does not ber of moles L-1 of its volume. Therefore, the
-
-above expression can be modified as follows
-
-O2\]
-
-pCO2
-
-reaction depends only the concentration of or calcium oxide. Similarly, the active mass ge at a given temperature. Consequently, the cluded from the expression of the equilibrium
-
-+(aq) + HCO3 – (aq)
-
-ssed as
-
-HCO-\[ \]3
-
-CO \]2
-
-
-
-
-
-
-| If the reaction is reversed, lC+mB ⇌  xA+yB |1K =K'c c |
-|------|------|------|------|------|------|
-| K KA B B CK KC D A D1 23 4 |K = K K K4 1 2 3 |
-  
 
 **Example**
 
-Write the Kp and Kc for the following rea
+Write the K<SUB>P</SUB> and K<SUB>C</SUB> for the following rea
 
-1\. 2SO2(g) + O2(g) ⇌ 2SO3(g)
+1. 2SO<SUB>2</SUB>(g) + O<SUB>2</SUB>(g) ⇌ 2SO<SUB>3</SUB>(g)
 
-2\. 2CO(g) ⇌ CO2 (g)+ C(s)
+2. 2CO(g) ⇌ CO<SUB>2</SUB> (g)+ C(s)
 
-1 2
+{{<katex display>}}
+K_C = \frac{[SO_3]^2}{[SO_2]^2[O_2]}           
+\newline
+K_p =  \frac{P^2_{SO_3}}{P^2_{S O_2} × P_{O_2}} 
+{{</katex>}}
+|----|
 
-2
-
-2
-
-2 3
-
-2
-
-) \[
-
-\[ \] K
-
-SO SO
-
-K P
-
-P
-
-C
-
-P SO
-
-SO
-
-\=
-
-\= ×
-
-2
-
-3
-
-2 2
-
-3
-
-3 2
-
-) \[ \] \[ \]
-
-) \[ \]
-
-\[ \]
-
-\=
-
-\=
-
-K CO CO
-
-K AgNO
-
-NH
-
-C
-
-C
+**Evaluate Yourself**
 
 1) Consider the following reaction
 
-**Fe3+(aq) + SCN–(aq)** ⇌ A solution is made with initial Fe3+, SCN respectively. At equilibrium \[Fe(SCN)\]2+ conce equilibrium constant.
+**Fe<SUP>3+</SUP>(aq) + SCN–(aq) ⇌ [Fe(SCN)]<SUP>2+</SUP> (aq)**
+
+A solution is made with initial Fe3+, SCN<SUP>-</SUP>
+ concentration of 1 x 10-<SUP>-3</SUP>M and 8 x 10<SUP>-4</SUP> M
+respectively. At equilibrium [Fe(SCN)]<SUP>2+</SUP> concentration is 2 x 10<SUP>-4</SUP>M. Calculate the value of
+equilibrium constant.
 
 2) The atmospheric oxidation of NO
 
-**2NO(g) + O2(g** was studied with initial pressure of 1 a partial pressure of oxygen is 0.52 atm calculate
+**2NO(g) + O<SUB>2</SUB>(g)  ⇌  2NO<SUB>2</SUB>** was studied with initial pressure of 1 atm of NO and 1 atm of O<SUB>2</SUB>. At equilibrium,
+partial pressure of oxygen is 0.52 atm calculate K<SUB>p</SUB> of the reaction.
 
-?**Evaluate Yourself**
+

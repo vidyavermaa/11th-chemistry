@@ -10,3 +10,4 @@ Chemical reactions which are reversible do not cease, when equilibrium is attain
 For example,
 
 H<sub>2</sub> (g) + I<sub>2</sub> (g) ⇌ 2HI (g)
+|----|
