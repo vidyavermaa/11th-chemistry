@@ -30,7 +30,7 @@ Homolytic cleavage is the process in which a covalent bond breaks symmetrically 
 
 As a free radical with an unpaired electron is neutral and unstable, it has a tendency to gain an electron to attain stability. Organic reactions involve homolytic fission of C-C bonds to form alkyl free radicals. The stability of alkyl free radicals is in the following order
 
-C(CH<sub>3</sub>)<sub>3</sub> > C(CH<sub>3</sub>)<sub>2</sub>  > CH<sub>2</sub>CH<sub>3</sub> > CH<sub>3</sub>
+<sup>.</sup>C(CH<sub>3</sub>)<sub>3</sub> > <sup>.</sup>C(CH<sub>3</sub>)<sub>2</sub>  > <sup>.</sup>CH<sub>2</sub>CH<sub>3</sub> > <sup>.</sup>CH<sub>3</sub>
 
 **Heterolytic Cleavage**
 
@@ -50,7 +50,7 @@ In a carbocation, the carbon bearing positive charge is sp<sub>2</sub> hybridise
 ![Fig 12.1(a) Shape of Carbocation](four.png)
 
 
-The carbanions are generally pyramidal in shape and the lone pair occupies one of the sp3 hybridised orbitals. An alkyl free radical may be either pyramidal or planar.
+The carbanions are generally pyramidal in shape and the lone pair occupies one of the sp<sup>3</sup>  hybridised orbitals. An alkyl free radical may be either pyramidal or planar.
 
 ![Fig 12.1(b) Shape of Carbanion](five.png)
 
@@ -60,35 +60,35 @@ The relative stability of the alkyl carbocations and carbanions are given below.
 
 Relative stability carbocations.
 
-C(CH<sub>3</sub>)<sub>3</sub> > CH(CH<sub>3</sub>)<sub>2</sub>  > CH<sub>2</sub>CH<sub>3</sub> > CH<sub>3</sub> 
+<sup>+</sup> C(CH<sub>3</sub>)<sub>3</sub> > <sup>+</sup> CH(CH<sub>3</sub>)<sub>2</sub>  > <sup>+</sup> CH<sub>2</sub>CH<sub>3</sub> > <sup>+</sup> CH<sub>3</sub> 
 
 relative stability of carbanions
 
-C(CH<sub>3</sub>)<sub>3</sub>  < CH(CH<sub>3</sub>)<sub>2</sub>  < CH<sub>2</sub>CH<sub>3</sub> < CH<sub>3</sub> 
+<sup>-</sup> C(CH<sub>3</sub>)<sub>3</sub>  < <sup>-</sup> CH(CH<sub>3</sub>)<sub>2</sub>  < <sup>-</sup> CH<sub>2</sub>CH<sub>3</sub> < <sup>-</sup> CH<sub>3</sub> 
 
 The energy required to bring about homolytic splitting is greater than that of heterolytic splitting.
 
 | Types |Examples |Electron rich site |
 |------|------|------|
-| Neutral molecules having unshared pair of electron |Ammonia (NH ) and amines (RNH ) 3 2 |N: |
-| Water (H O), alcohols (ROH) and ethers (R-O-R)2 |:O: |
-| Hydrogen sulphide (H S) and thiols (RSH)2 |:S: |
-| Negatively charged nucleophiles |Chlorides (Cl ), bromides (Br ) and iodides (I )– – – |X- |
-| Hydroxide (HO ), alkoxide (RO ) and Carboxlate ions (RCOO )–  -– |O- |
-| Cyanide (CN )– |N- |
+| Neutral molecules having unshared pair of electron |Ammonia (NH<sub>3</sub>) and amines (RNH<sub>2</sub>)|N: ||
+||Water (H<sub>2</sub>O), alcohols (ROH) and ethers (R-O-R)|:O:||
+|| Hydrogen sulphide (H<sub>2</sub>S) and thiols (RSH) |:S:||
+| Negatively charged nucleophiles |Chlorides (Cl<sup>-</sup>), bromides (Br<sup>-</sup> ) and iodides (I<sup>-</sup> )|X- |
+|| Hydroxide (HO<sup>-</sup> ), alkoxide (RO<sup>-</sup> ) and Carboxlate ions (RCOO<sup>-</sup> )|O- ||
+|| Cyanide (CN<sup>-</sup> ) |N- ||
 
 
-Electrophiles are reagents that are attracted They are either positively charged ions or electro act as electrophiles. Neutral molecules like SnCl d-orbitals which can accommodate the electrons
+Electrophiles are reagents that are attracted They are either positively charged ions or electro act as electrophiles. Neutral molecules like SnCl<sub>4</sub> d-orbitals which can accommodate the electrons
 
 | Types |Examples |Electron de¿cient  entity |
 |------|------|------|
-| Neutral electrophiles |Carbon dioxide (CO ), dichlorocarbene (:CCl )2 2 |C |
-| Aluminium chloride (AlCl ), boron triÀuoride (BF ) and ferric chloride (FeCl )33 3 |Metal (M) |
-| Positively charged electrophiles |Carbocations (R )+ |C+ |
-| Proton (H )+ |H+ |
-| Alkyl halides (RX) |X+ |
-| Nitrosonium ion (NO )+ |O+ |
-| Nitronium ion ( NO )+2 |N+ |
+| Neutral electrophiles |Carbon dioxide (CO<sub>2</sub>),dichlorocarbene (:CCl<sub>2</sub> ) |C ||
+|| Aluminium chloride (AlCl<sub>3</sub> ), boron triÀuoride (BF<sub>3</sub> ) and ferric chloride (FeCl<sub>3</sub> ) |Metal (M) ||
+| Positively charged electrophiles |Carbocations (R<sup>+</sup>  ) |C<sup>+</sup> |
+|| Proton (H<sup>+</sup> ) |H<sup>+</sup>  ||
+|| Alkyl halides (RX) |X<sup>+</sup>  ||
+|| Nitrosonium ion (NO<sup>+</sup> ) |O<sup>+</sup>  ||
+| |Nitronium ion ( <sup>+</sup>NO<sub>2</sub>)  |N<sup>+</sup>  ||
 
 # Nucleophiles and elctrophiles
 
@@ -135,7 +135,7 @@ Higher the electronegativity of the substitutent, greater is the -I effect. The 
 NH<sub>3</sub> > NO<sub>2</sub> > CN > SO<sub>3</sub>H > CHO > CO > COOH > COC1 > CONH<sub>2</sub> > F > C1 > Br > I > OH > OR > NH<sub>2</sub> > C<sub>6</sub>H<sub>5</sub> > H
 
 Highly electropositive atoms and atoms are groups which carry a negative charge are electron donating or +I groups.
-Example. Alkali metals, alkyl groups such as methyl, ethyl, negatively charged groups such as CH<sub>3</sub> O –, C<sub>2</sub> H<sub>5</sub> O–, COO– etc
+Example. Alkali metals, alkyl groups such as methyl, ethyl, negatively charged groups such as CH<sub>3</sub> O<sup>-</sup> , C<sub>2</sub> H<sub>5</sub> O<sup>-</sup> , COO<sup>-</sup>  etc
 
 Lesser the electronegativity of the elements, greater is the +I effect. The relative order of +I effect of some alkyl groups is given below
 
@@ -153,7 +153,7 @@ If a -I group is attached nearer to a carbonyl carbon, it decreases the availabi
 
 **Acidity of carboxylic acids:**
 
-When a halogen atom is attached to the carbon which is nearer to the carboxylic acid group, its -I effect withdraws the bonded electrons towards itself and makes the ionisation of H+ easy. The acidity of various chloro acetic acid is in the following order. The strength of the acid increases with increase in the -I effect of the group attached to the carboxyl group.
+When a halogen atom is attached to the carbon which is nearer to the carboxylic acid group, its -I effect withdraws the bonded electrons towards itself and makes the ionisation of H<sup>+</sup>  easy. The acidity of various chloro acetic acid is in the following order. The strength of the acid increases with increase in the -I effect of the group attached to the carboxyl group.
 
 Trichloro acetic acid > Dichloro acetic acid > Chloro acetic acid > acetic acid
 
@@ -173,7 +173,7 @@ When a nucleophile approaches the carbonyl compound, the **π** electrons betwee
 
 ![](fifteen.png)
 
-On the other hand when an electrophile such as H+ approaches an alkene molecule, the **π electrons** are instantaneously shifted to the electrophile and a new bond is formed between carbon and hydrogen. This makes the other carbon electron deficient and hence it acquires a positive charge.
+On the other hand when an electrophile such as H<sup>+</sup>  approaches an alkene molecule, the **π electrons** are instantaneously shifted to the electrophile and a new bond is formed between carbon and hydrogen. This makes the other carbon electron deficient and hence it acquires a positive charge.
 
 ![](sixteen.png)
 
