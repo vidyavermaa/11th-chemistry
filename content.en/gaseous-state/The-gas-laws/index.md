@@ -223,11 +223,7 @@ $$
 
 Charles found that the coefficient of expansion is approximately equal to 1/273. It means that at constant pressure for a given mass, for each degree rise in temperature, all gases expand by 1/273 of their volume at 0<sup>0</sup>C
 
-o 100 Co 200 Co 300 Co 400 Co
 
-373 K 473 K 573 K 673 K
-
-V0
 
 **emperature for an ideal gas**
 
