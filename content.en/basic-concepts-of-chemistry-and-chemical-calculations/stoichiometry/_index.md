@@ -99,82 +99,14 @@ CH_4 (g)
 {{</ >}}
 
 
-Stoichiometric coefficients 1
-
-Mole-mole relationship 1 mole
-
-Mass-mass relationship = no. of mole × molar mass
-
-1 mol × 16 g mol<sup>-1</sup> = **16 g**
-
-mass - volume relationship mass of reactants = No. of moles × molar mass of reactants Volume of product (1 mole of any gas occupy a volume of 22.4 litre at 273 K and 1 atm pressure)
-
-16 g
-
-Volume - volume relationship
-
-1 × 22.4 L 22.4 L  
-
-ionship between reactants and products in quantity of reactants and products can be or as volume. These three units are inter
-
-er es
-
-Volume at 0o C
-
-and 1 atm pressure
-
-(V)
-
-multiplied by 22.4 litres
-
-divided by 22.4 litres
-
-idering the combustion reaction of methane n is,
-
-(g)
-
-CO2 (g) + 2 H2O(g)
-
-**ctants Products**
-
-O2 (g) CO2 (g) H2O (g)
-
-2 1 2
-
-2 moles 1 mole 2 moles
-
-2 mol × 32 g mol–1
-
-**64 g**
-
-1 mol × 44 g mol–1
-
-**44 g**
-
-2 mol × 18 g mol–1
-
-**36 g**
-
-64 g 22. 4 L 44.8 L
-
-2 × 22.4 L 44.8 L
-
-1 × 22.4 L 22. 4 L
-
-2 × 22.4 L 44. 8 L
-
-
-
-
-
 
 | CH  (g) + 2 O  (g) → CO  (g) + 2 H O(g)4 2 2 2 |
 |------|------|------|------|------|
 | Content |Reactants |Products |
-| CH (g)4 |O (g)2 |CO (g)2 |H O (g)2 |
+| CH<sub>4</sub> (g) |O<sub>2</sub> (g) |CO<sub>2</sub> (g) |H<sub>2</sub>O (g) |
 | Stoichiometric coecients |1 |2 |1 |2 |
 | Mole-mole relationship |1 mole |2 moles |1 mole |2 moles |
-| Mass-mass relationship = no. of mole × molar mass |1 mol ×16 g mol16 g–1 |2 mol ×32 g mol64 g–1 |1 mol ×44 g mol44 g–1 |2 mol ×18 g mol36 g–1 |
+| Mass-mass relationship = no. of mole × molar mass |1 mol ×16 g mol<sup>-1</sup>16  |2 mol ×32 g mol<sup>-1</sup>64 g |1 mol ×44 g mol<sup>-1</sup>44 g|2 mol ×18 g mol<sup>-1</sup>36 g |
 | mass - volume relationshipmass of reactants = No. of moles × molar mass of reactants Volume of product (1 mole of any gas occupy a volume of 22.4 litre at  273 K and 1 atm pressure) |16 g |64 g |22. 4 L |44.8 L |
 | Volume - volume relationship |1 × 22.4 L 22.4 L |2 × 22.4 L44.8 L |1 × 22.4 L22. 4 L |2 × 22.4 L44. 8 L |
   
@@ -185,127 +117,109 @@ O2 (g) CO2 (g) H2O (g)
 
 The balanced stoichiometric equation for the formation of ammonia is
 
-N2(g) + 3 H2 (g) → 2 NH3 (g)
+N<sub>2</sub>(g) + 3 H<sub>2</sub>( (g) &rarr; 2 NH<sub>3</sub>( (g)
 
 As per the stoichiometric equation,
 
 to produce 2 moles of ammonia, 3 moles of hydrogen are required
 
 ∴ to produce 10 moles of ammonia,
-
-3 moles of H2 2 moles of NH3
-
-× 10 moles of NH3
-
-5
-
-\= 15 moles of hydrogen are required.
+{{< katex display >}}
+\dfrac{3\ moles\ of\ H_2}{2\ moles\ of\ NH_3}
+ * {10\ moles\ of\ NH3}
+= {15\ moles\ of\ hydrogen\ are\ required.}
+{{</ >}}
 
 2\. Calculate the amount of water produced by the combustion of 32 g of methane.
 
-CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)
+CH<sub>4</sub>(g) + 2O<sub>2</sub>((g) &rarr; CO<sub>2</sub>((g) + 2H<sub>2</sub>(O(g)
 
 As per the stoichiometric equation,
 
-Combustion of 1 mole (16 g) CH4 produces 2 moles (2 × 18 = 36 g) of water.
+Combustion of 1 mole (16 g) CH<sub>4</sub> produces 2 moles (2 × 18 = 36 g) of water.
 
 CH4
 
-(12) + (4 ×1) = 16 g mol–1
+(12) + (4 ×1) = 16 g mol<sup>-1</sup>
 
 H2O
 
-(2×1) + (1 ×16) = 18 g mol–1
+(2×1) + (1 ×16) = 18 g mol<sup>-1</sup>
 
-Combustion of 32 g CH4 produces  
+Combustion of 32 g CH<sub>4</sub> produces  
 
-36 g H2O
-
-16 g CH4
-
-× 32 g CH4
-
-2 = 72 g of water
+{{< katex display >}}
+\dfrac{36g\ H_2O}{16g\ CH_2} * {32g\ CH_4}
+ ={72g\ of\ water}
+{{</ >}}
 
 3\. How much volume of carbon dioxide is produced when 50 g of calcium carbonate is heated completely under standard conditions?
 
 The balanced chemical equation is,
 
-CaCO3 (s) CaO(s) + CO2 (g)
+CaCO<sub>3</sub> (s) CaO(s) + CO<sub>2</sub> (g)
 
 As per the stoichiometric equation,
 
-1 mole (100g) CaCO3 on heating produces 1 mole CO2
+1 mole (100g) CaCO<sub>3</sub> on heating produces 1 mole CO<sub>2</sub>
 
 CaCO3
 
-(40) + (12) + (3 × 16) = 100 g mol–1
+(40) + (12) + (3 × 16) = 100 g mol<sup>-1</sup>
 
-At STP, 1 mole of CO2 occupies a volume of 22.7 litres
+At STP, 1 mole of CO<sub>2</sub>occupies a volume of 22.7 litres
 
-∴ At STP, 50 g of CaCO3 on heating produces,
+∴ At STP, 50 g of CaCO<sub>3</sub> on heating produces,
+{{< katex display >}}
+\dfrac{22.7\ litres\ of CO_2}{100g\ CaCO_3}
 
-22.7 litres _of CO2_ 100g CaCO3
+× {50g\ CaCO_3}
 
-× 50 g CaCO3
-
-2 = 11.35 litres of CO2
-
+ = {11.35\ litres\ of\ CO_2}
+{{</ >}}
 4\. How much volume of chlorine is required to form 11.2 L of HCl at 273 K and 1 atm pressure ?
 
 The balanced equation for the formation of HCl is
 
-H2 (g) + Cl2 (g) → 2 HCl (g)
+H<sub>2</sub> (g) + Cl<sub>2</sub> (g) → 2 HCl (g)
 
 As per the stoichiometric equation,
 
 under given conditions,
-
-Δ
-
-
-
-
-
-
-
-  
-
 To produce 2 moles of HCl, 1 mole of chlorine gas is required
 
 To produce 44.8 litres of HCl, 22.4 litres of chlorine gas are required.
 
 ∴ To produce 11.2 litres of HCl,
 
-22.4 L Cl2 44.8 L of HCl
+{{< katex display >}}
+\dfrac{22.4\ L\ Cl_2}{44.8\ L of\ HCl}
+× {11.2 L of HCl} \newline
+= {5.6\ litres\ of\ chlorine are\ required}
+{{</ >}}
 
-× 11.2 L of HCl
-
-4
-
-\= 5.6 litres of chlorine are required.
 
 5\. Calculate the percentage composition of the elements present in magnesium carbonate. How many kilogram of CO2 can be obtained by heating 1 kg of 90 % pure magnesium carbonate.
 
 The balanced chemical equation is
 
-MgCO3 MgO + CO2 ∆
+MgCO<sub>3</sub> &rarr; MgO + CO<sub>2</sub>
 
-Molar mass of MgCO3 is 84 g mol–1.
+Molar mass of MgCO3 is 84 g mol<sup>-1</sup>.
 
 84 g MgCO3 contain 24 g of Magnesium.
 
 ∴ 100 g of MgCO3 contain
 
-24 g Mg 84 g MgCO3
 
-× 100 g MgCO3
 
-\= 28.57 g Mg.
-
-i.e. percentage of magnesium
-
-\= 28.57 %.
+{{< katex display >}}
+\dfrac{24 g\ Mg}{84 g\ MgCO_3}
+× { 100 g\ MgCO_3} \newline
+= {28.57 g\ Mg.} \newline
+{i.e.\ percentage\ of\ magnesium} \newline
+={28.57\% Mg}
+{{</ >}}
 
 84 g MgCO3 contain 12 g of carbon
 
@@ -317,29 +231,28 @@ MgCO3
 
 ∴ 100 g MgCO3 contain
 
-12 g C 84 g MgCO3
+{{< katex display >}}
+\dfrac{12 g\ C}{84 g\ MgCO_3}
+× { 100 g\ MgCO_3} \newline
+= {14.29 g\ C} \newline
+{i.e.\ percentage\ of\ carbon} \newline
+={14.29\% Mg}
+{{</ >}}
 
-× 100 g MgCO3
-
-\= 14.29 g of carbon.
-
-∴ Percentage of carbon
-
-\= 14.29 %.
 
 84 g MgCO3 contain 48 g of oxygen
 
+
 ∴ 100 g MgCO3 contains
 
-48 g O 84 g MgCO3
+{{< katex display >}}
+\dfrac{24 g\ O}{84 g\ MgCO_3}
+× { 100 g\ MgCO_3} \newline
+= {57.14 g\ oxygen} \newline
+{i.e.\ percentage\ of\ oxygen} \newline
+={57.14\% Mg}
+{{</ >}}
 
-× 100 g MgCO3
-
-\= 57.14 g of oxygen.
-
-∴ Percentage of oxygen
-
-\= 57.14 %.
 
 As per the stoichiometric equation,
 
@@ -347,27 +260,15 @@ As per the stoichiometric equation,
 
 ∴ 1000 g of 90 % pure MgCO3 gives
 
-\= 44 g 84 g × 100 %
-
-× 90 % × 1000 g
-
-\= 471.43 g of CO2
-
-\= 0.471 kg of CO2
-
-1.19
-
-1.19
+{{< katex display >}}
+\dfrac{44 g\ Mg}{84 g\ x 100\%}
+× { 90\%} x {1000g} \newline
+= {471.43 g\ CO_2} \newline
+= {0.471 kg\ CO_2}
+{{</ >}}
 
 
 
-
-
-
-| 22.4 L Cl× 11.2 L o2 |f HCl |
-|------|------|------|
-| f HC |l |
-  
 
 **1.7.2 Limiting Reagents:**
 
@@ -377,7 +278,7 @@ Recall the analogy that we used in stoichiometry concept i.e. kesari preparation
 
 As per the recipe requirement, 2 cups of sugar are needed for every cup of rava. Consider a situation where 8 cups of sugar and 3 cups of rava are available (all other ingredients are in excess), as per the cooking recipe, we require 3 cups of rava and 6 cups of sugar to prepare 18 cups of kesari. Even though we have 2 more cups of sugar left, we cannot make any more quantity of Kesari as there is no rava available and hence rava limits the quantity of Kesari in this case. Extending this analogy for the chemical reaction in which three moles of sulphur are allowed to react with twelve moles of fluorine to give sulfur hexafluoride.
 
-The balanced equation for this reaction is, S + 3F2 → SF6  
+The balanced equation for this reaction is, S + 3F<sub>2</sub> → SF<sub>6</sub> 
 
 ?**Evaluate Yourself**
 
