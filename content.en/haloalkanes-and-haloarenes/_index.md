@@ -3,6 +3,8 @@ title: 'Haloalkanes and Haloarenes'
 weight: 14
 ---
 
+![Francois ](scientist.PNG)
+
   
 
 **Learni**
