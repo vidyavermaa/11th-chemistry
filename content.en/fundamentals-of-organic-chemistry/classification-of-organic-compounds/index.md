@@ -2,21 +2,20 @@
 title: 'Classification of organic compounds'
 weight: 2
 ---
-
-**11.2 Classification of organic compounds**
+# Classification of organic compounds
 
 The existing large number of organic co made it necessary to classify them. They may functional group.
 
-**11.2.1 Classification based on the structure**
+# Classification based on the structure
 ![](s1.png)
 
 Based on the above classification let us classify the following compounds.
 
 1\. Classify the following compounds based on the structure
 
-i) CH ≡ C– CH2–C ≡ CH
+i) CH ≡ C– CH<sub>2</sub>–C ≡ CH
 
-ii) CH3 – CH2 – CH2 - CH2– CH3
+ii) CH<sub>3</sub> – CH<sub>2</sub> – CH<sub>2</sub> - CH<sub>2</sub>– CH<sub>3</sub>
 
 iii)
 
@@ -50,7 +49,7 @@ S
 
  
 
-**11.2.2 Classification based on functional groups:**
+# Classification based on functional groups:
 
 **Table 11.1 Class of compounds and their functional group**
 

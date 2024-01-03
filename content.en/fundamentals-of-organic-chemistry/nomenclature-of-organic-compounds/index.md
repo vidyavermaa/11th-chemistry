@@ -3,7 +3,7 @@ title: 'Nomenclature of organic compounds'
 weight: 3
 ---
 
-**11.3 Nomenclature of organic compounds:**
+# Nomenclature of organic compounds:
 
 The International Union of Pure and Applied Chemistry (IUPAC) is the world authority on chemical nomenclature and terminology, naming of new elements in the periodic table standardized methods  
 
@@ -43,7 +43,7 @@ Root word denotes the number of carbon atoms in the longest continiuous chain in
 
 
 
-**11.3.1 IUPAC rules for nomenclature of organic compounds**
+# IUPAC rules for nomenclature of organic compounds
 
 The following steps should be followed for naming an organic compound as per IUPAC nomenclature.
 

@@ -2,15 +2,14 @@
 title: 'Isomerism in organic compounds'
 weight: 5
 ---
-
-**11.5. Isomerism in organic compounds:**
+# Isomerism in organic compounds:
 
 The term ‘isomerism’ was given by Berzelius, and its represents of existence of two or more compounds with the same molecular formula but different structure and properties (physical, chemical, or both). Compounds exhibiting this isomerism are called isomers. The difference in properties of two isomers is due to difference in (bond connectivity or spatial arrangement) the arrangement of atoms within their molecules. Isomerism is broadly divided into two types. i. Constitutional isomerism, ii. stereoisomerism.
 
 ![](s36.png)
 
 
-**11.5.1 Constitutional isomers (Formerly structural isomers):**
+# Constitutional isomers (Formerly structural isomers):
 
 This type of isomers have same molecular formula but differ in their bonding sequence. Structural or constitutional isomerism is further classified into following types.  
 
@@ -73,7 +72,7 @@ In this example hydrogen atom oscillates between carbon & nitrogen atom
 
 
 
-**11.5.2 Stereoisomerism:**
+# Stereoisomerism:
 
 The isomers which have same bond connectivity but different arrangement of groups or atoms in space are known as stereoisomers. This branch of chemistry dealing with the study of three-dimensional nature (spactial arrangement) of molecules is known as stereo chemistry. The metabolic activities in living organisms, natural synthesis and drug synthesis involve various stereoisomers.
 
@@ -84,7 +83,7 @@ The isomers which have same bond connectivity but different arrangement of group
 
 **Steroisomerism:**
 
-**11.5.3 Geometrical isomerism:**
+# Geometrical isomerism:
 
 Geometrical isomers are the stereoisome or atoms around a rigid frame work of double restricted rotation of double bonds, or about sin
 
@@ -119,7 +118,7 @@ Restricted rotation around C=N (oxim oximes. Here ‘syn’ and ‘anti’ are u
 
   
 
-**11.5.4 Optical Isomerism**
+# Optical Isomerism
 
 Compounds having same physical and chemical property but differ only in the rotation of plane of the polarized light are known as optical isomers and the phenomenon is known as optical isomerism.
 

@@ -3,7 +3,7 @@ title: 'Purification of organic compounds'
 weight: 8
 ---
 
-**11.8 Purification of organic compounds**
+# Purification of organic compounds
 
 **Need for purification:**
 
@@ -23,13 +23,13 @@ Azeotropic distillation Differential extraction
 
 Chromatography
 
-**11.8.1 Sublimation:**
+# Sublimation:
 
 Few substances like benzoic acid, naphthalene and camphor when heated pass directly from solid to vapor without melting (ie liquid). On cooling the vapours will give back solids. Such phenomenon is called sublimation. It is a useful technique to separate volatile and non-volatile solid. It has limited application because only a few substance will sublime.  
 
 Substances to be purified is taken in a beaker. It is covered with a watch glass. The beaker is heated for a while and the resulting vapours condense on the bottom of the watch glass. Then the watch glass is removed and the crystals are collected. This method is applicable for organic substance which has high vapour pressure at temperature below their melting point. Substances like naphthalene, benzoic acid can be sublimed quickly. Substance which has very small vapour pressure will decompose upon heating are purified by sublimation under reduced pressure. This apparatus consists of large heating and large cooling surface with small distance in between because the amount of the substance in the vapour phase is much too small in case of a substance with low vapour pressure.
 
-**11.8.2 Crystallization:**
+# Crystallization:
 
 It is the most widely used method for the purification of solid organic compound. This process is carried out in by the follow- ing step
 
@@ -62,7 +62,7 @@ It is the most widely used method for the purification of solid organic compound
 
 **(v) Isolation and drying of crystals:** The crystals are separated from the mother liquor by filtration. Filtration is done under reduced pressure using a Bucher funnel. When the whole of the mother liquor has been drained into the filtration flask, the crystals are washed with small quantities of the pure cold solvent and then dried.
 
-**11.8.3 Distillation:**
+# Distillation:
 
 **This method is to purify liquids** from non-volatile impurities, and used for separating the constituents of a liquid mixture which differ in their boiling points. There are various methods of distillation depending upon the difference in the boiling points of the constituents. The methods  
 
@@ -70,7 +70,7 @@ are (i) simple distillation (ii) fractional distillation and (iii) steam distill
 
 **Fractional distillation: This is one** method to purify and separate liquids present in the mixture having their boiling point close to each other. In the fractional distillation, a fractionating column is fitted with distillation flask and a condenser. A thermometer is fitted in the fractionating column near the mouth of the condenser. This will enable to record the temperature of vapour passing over the condenser. The process of separation of the components in a liquid mixture at their respective boiling points in the form of vapours and the subsequent condensation of those vapours is called fractional distillation. The process of fractional distillation is repeated, if necessary. This method finds a remarkable application in distillation of petroleum, coal-tar and crude oil.
 
-**11.8.4 Steam distillation:**
+# Steam distillation:
 
 **This method is applicable for solids** and liquids. If the compound to be steam distilled the it should not decompose at the steam temperature, should have a fairly high vapour pressure at 373k, it should be insoluble in water and the impurities present should be non-volatile.
 
@@ -83,7 +83,7 @@ Fig 11.4 Steam distillation
 
 The impure liquid along with little water is taken in a round-bottom flask which is connected to a boiler on one side and water condenser on the other side, the flask is kept in a slanting position so that no droplets of the mixture will enter into the condenser on the brisk boiling and bubbling of steam. The mixture in the flask is heated and then a current of steam passed in to it. The vapours of the compound mix up with steam and escape into the condenser. The condensate obtained is a mixture of water and organic compound which can be separated. This method is used to recover essential oils from plants and flowers, also in the manufacture of aniline and turpentine oil. (see Fig. 11.4)
 
-**11.8.5 Azeotropic Distillation**
+# Azeotropic Distillation
 
 These are the mixture of liquids that cannot be separated by fractional distillation. The mixtures that can be purified only by azeotropic distillation are called as azeotropes. These azeotropes are constant boiling mixtures, which distil as a single component at a fixed temperature. For example ethanol and water in the ratio of 95.87:4.13.
 
@@ -93,11 +93,11 @@ the boiling point of that component and thus other component will distil over.
 
 Subtances like C6H6, CCl4 have low boiling points and reduce the partial vapour pressure of alcohol more than that of water while subtances like glycerol & glycol etc. have high boiling point and reduce the partial vapour pressure of water more than that of alcohol.
 
-**11.8.6 Differential extraction:**
+# Differential extraction:
 
 **The process of removing a substance** from its aqueous solution by shaking with a suitable organic solvent is termed extraction. When an organic substance present as solution in water can be recovered from the solution by means of a separating funnel. The aqueous solution is taken in a separating funnel with little quantity of ether or chloroform (CHCl3). The organic solvent immiscible with water will form a separate layer and the contents are shaken gently. The solute being more soluble in the organic solvent is transfered to it. The solvent layer is then separated by opening the tap of the separating funnel, and the substance is recovered.
 
-**11.8.7 Chromatography:**
+# Chromatography:
 
 **The most valuable method for the** separation and purification of small quantity of mixtures. As name implies chroma-colour and graphed writing it was first applied to separation of different colored constituents of chlorophyll in 1906 by M.S Tswett, a Russian botanist. He achieved it by passing a petroleum ether solution of chlorophyll present in leaves through a column of CaCO3 firmly packed into a narrow glass tube. Different components of the pigments got separated into land or zones of different
 

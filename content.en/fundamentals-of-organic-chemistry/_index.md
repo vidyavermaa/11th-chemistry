@@ -27,7 +27,7 @@ purification of organic compounds
 
 
 
-**11.1 Introduction**
+# Introduction
 
 Organic chemistry is the study of compounds n. Carbon has a tendency to form more ds with itself and other atoms (H, O, N, S gens) than any other elements. The tendency m to form a chain of bonds with the atoms me element is called catenation. The high of C-C bond is responsible for its catenation .e word 'organic' means 'derived from living s'. Organic compounds were thought to be ly in living things. Cell the basic unit of living onsumes, creates and consists of mainly ompounds. DNA, the genetic material, the lipids, that forms our cell membrane and the glycogen the energy reserve stored in our liver are all organic compounds. Except few inorganic compounds like salt, water etc... all others such as food, medicine, clothing, cosmetics, fuel etc... are compounds of carbon. All the essential biochemical reactions are also organic in nature leading to the fomation of various essential bioorganic molecules such as lipoproteins, phospholipids, glycolipids etc...
 
@@ -39,7 +39,7 @@ The formation of four covalent bonds can be explained as below. During bond form
 
 Molecular stucture can be derived from the type of hybridisation. An sp3 hybridised carbon will have a tetrahedral geometry, a sp2 hybridised carbon will have trigonal planar geometry. and sp hybridised carbon will have a linear geometry.
 
-**Characteristics of organic compounds:**
+# Characteristics of organic compounds:
 
 All organic compounds have the following characteristic properties.
 

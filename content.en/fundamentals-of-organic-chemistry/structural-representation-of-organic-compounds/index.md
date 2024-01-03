@@ -3,7 +3,7 @@ title: 'Structural representation of organic compounds'
 weight: 4
 ---
 
-**11.4 Structural representation of organic compounds**
+# Structural representation of organic compounds
 
 Molecular formula of a compound is the simplest, least informative representation, showing the ratio of atoms present. The structure of an organic compound can be represented using any one of the below mentioned methods.
 

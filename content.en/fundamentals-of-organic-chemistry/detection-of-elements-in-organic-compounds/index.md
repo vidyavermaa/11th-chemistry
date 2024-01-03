@@ -4,7 +4,7 @@ weight: 6
 ---
 
 
-**11.6 Detection of elements in organic compounds**
+# Detection of elements in organic compounds
 
 **Introduction**
 
@@ -22,9 +22,13 @@ If the compound under investigation is or- ganic, there is no need to test for c
 given compound is organic or not. With the exception of few compounds like CCl4, CS2 all organic compounds also contain hydro- gen. The presence of both these elements is confirmed by the following common test.
 
 **Copper(II)oxide test: The organic** substance is mixed with about three times its weight of dry copper oxide by grinding. The mixture is then placed in a hard glass test tube fitted with a bent delivery tube. The other end of which is dipping into lime water in an another test tube. The mixture is heated strongly and the following reaction take place.
+{{< katex >}}
+C + 2CuO \rightarrow CO + 2Cu
+{{< /katex >}}
 
-![](s49.png)
-
+{{< katex >}}
+2H + \text{CuO} \rightarrow \text{H}_2\text{O} + \text{Cu}
+{{< /katex >}}
 
 Thus if carbon is present, it is oxidized to CO2 which turns lime water milky. If hydrogen is also present, it will be oxidized to water which condenses in small droplets on the cooler wall of the test tube and inside the bulb. Water is collected on anhydrous CuSO4 which turns anhydrous CuSO4 blue. This confirms the presence of C and H in the compound.
 
@@ -36,14 +40,42 @@ When it melts to a shining globule, put a pinch of the organic compound on it. H
 
 **ii) Test for Nitrogen:** If nitrogen is present it gets converted to sodium cyanide which reacts with freshly prepared ferrous sulphate and ferric ion followed by conc. HCl and gives a Prussian blue color or green colour or precipitate. It confirms the presence of nitrogen. HCl is added to dissolve the greenish precipitate of ferrous hydroxide produced by the excess of NaOH on FeSO4 which would otherwise mark the Prussian blue precipitate. The following reaction takes part in the formation of Prussian blue.
 
-![](s50.png)
+{{< katex >}}
+\mathrm{Na + C + N \rightarrow NaCN}
+{{< /katex >}}
+
+
+from organic compounds
+
+{{< katex >}}
+\mathrm{FeSO_4 + 2NaOH \rightarrow Fe(OH)_2 + Na_2SO_4}
+{{< /katex >}}
+
+(from excess of sodium)
+
+
+{{< katex >}}
+6\text{NaCN} + \text{Fe(OH)}_2 \rightarrow \text{Na}_4[\text{Fe(CN)}_6] + 2\text{NaOH}
+{{< /katex >}}                                       
+
+
+{{< katex >}}
+3\text{Na}_4[\text{Fe(CN)}_6] + 4\text{FeCl}_3 \rightarrow \text{Fe}_4[\text{Fe(CN)}_6]_3 + 12\text{NaCl}
+{{< /katex >}}
+
 
 
 
 Incase if both N & S are present, a blood red colour is obtained due to the following reactions.
 
+{{< katex display >}}
+\text{Na} + \text{C} + \text{N} + \text{S} \xrightarrow{\text{heat}} \text{NaCNS}
+{{< /katex >}}
 
-![](s51.png)
+{{< katex display >}}
+3\text{NaCNS} + \text{FeCl}_3 \rightarrow \text{Fe(CNS)}_3 + 3\text{NaCl}
+{{< /katex >}}
+
 
   
 
@@ -53,25 +85,40 @@ Incase if both N & S are present, a blood red colour is obtained due to the foll
 
 a) To a portion of the lassaigne's extract, add freshly prepared sodium nitro prusside solution. A deep violet or purple colouration is obtained. This test is also used to detect S2- in inorganic salt analysis
 
+
+
 ![](s52.png)
 
 
 
 b) Acidify another portion of lassaigne's extract with acetic acid and add lead acetate solution. A black precipitate is obtained.
 
-![](s53.png)
+{{< katex display >}}
+(CH_3COO)_2Pb + \text{Na}_2S \rightarrow \text{PbS} (\text{black ppt}) \downarrow + 2\text{CH}_3\text{COONa}
+{{< /katex >}}
+
+
 
 
 
 c) Oxidation test: The organic substances are fused with a mixture of KNO3 and Na2CO3. The sulphur, if present is oxidized to sulphate.
 
-![](s54.png)
+
+{{< katex display >}}
+\text{Na}_2\text{CO}_3 + \text{S} + 3\text{O} \rightarrow \text{Na}_2\text{SO}_4 + \text{CO}_2
+{{< /katex >}}
+
+
 
 
 
 The fused mass is extracted with water, acidified with HCl and then BaCl2 solution is added to it. A white precipitate indicates the presence of sulphur.
 
-![](s55.png)
+
+{{< katex display >}}
+\text{BaCl}_2 + \text{Na}_2\text{SO}_4 \rightarrow \text{BaSO}_4 + 2\text{NaCl}
+{{< /katex >}}
+
 
 
 
@@ -83,7 +130,16 @@ b) Appearance of pale yellow precipitate sparingly soluble in ammonia solution i
 
 c) Appearance of a yellow precipitate insoluble in ammonia solution indicates the presence of iodine.
 
-![](s56.png)
+
+{{< katex display >}}
+\text{Na} + \text{X} \rightarrow \text{NaX} \quad (\text{Where } X = \text{Cl, Br, I})
+{{< /katex >}}
+
+
+{{< katex display >}}
+\text{NaX} + \text{AgNO}_3 \rightarrow \text{AgX} + \text{NaNO}_3
+{{< /katex >}}
+
 
 
 

@@ -3,13 +3,16 @@ title: 'Estimation of elements'
 weight: 7
 ---
 
-**11.7 Estimation of elements**
+# Estimation of elements
 
 After detecting the various elements present in a given organic compound by qualitative analysis it is necessary to determine their composition by weight. The estimation of carbon, hydrogen, nitrogen, sulphur halogens are discussed here. No dependable method is however available for determination oxygen and hence its amount is always determined by difference.
 
 **Estimation of carbon and hydrogen:** Both carbon and hydrogen are estimated by the same method. A known weight of the organic substance is burnt in excess of ox- ygen and the carbon and hydrogen present in it are oxidized to carbon dioxide and wa- ter, respectively.
 
-![](s58.png)
+{{< katex display >}}
+\text{CxHy + O}_2 \rightarrow x\text{CO}_2 + \frac{y}{2}\text{H}_2\text{O}
+{{< /katex >}}
+
 
 
 
