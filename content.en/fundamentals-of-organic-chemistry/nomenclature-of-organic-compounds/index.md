@@ -14,9 +14,39 @@ for measurement; atomic weights, and many other critically-evaluated data. Accor
 Root word denotes the number of carbon atoms in the longest continiuous chain in molecules. Prefix denotes the group(s) attached to the main chain which is placed before the root. Suffix denotes the funtional group and is placed after the root word.
 
 **Table 11.2 Number of carbons in parent chain and the corresponding root words**
-![](s6.png)
 
-![](s7.png)
+| Root Word | Chain Length (or) No. of Carbon Atoms |
+| --------- | ------------------------------------- |
+| Meth-     | C1                                    |
+| Eth-      | C2                                    |
+| Prop-     | C3                                    |
+| But-      | C4                                    |
+| Pent-     | C5                                    |
+| Hex-      | C6                                    |
+| Hept-     | C7                                    |
+| Oct-      | C8                                    |
+| Non-      | C9                                    |
+| Dec-      | C10                                   |
+| Undec-    | C11                                   |
+| Dodec-    | C12                                   |
+| Tridec-   | C13                                   |
+| Tetradec- | C14                                   |
+| Pentadec- | C15                                   |
+| Hexadec-  | C16                                   |
+| Heptadec- | C17                                   |
+| Octadec-  | C18                                   |
+| Nonadec-  | C19                                   |
+| Icos-     | C20                                   |
+| Henicos-  | C21                                   |
+| Docos-    | C22                                   |
+| Triacont- | C30                                   |
+| Hentriacont- | C31                                |
+| Dotriacont-  | C32                                |
+| Tetracont-  | C40                                |
+| Undec-      | C50                                |
+| Pentac-     | C100 (for completeness)             |
+
+
 
 **Suffix: There are two types of suffix. They** are primary suffix and secondary suffix
 
@@ -35,7 +65,25 @@ Root word denotes the number of carbon atoms in the longest continiuous chain in
 **Prefix:** Substituents that are attached to the parent carbon chain are denoted by adding prefix names before the root word. The prefix names for some common substituents are listed below. If the functional groups are not part of the parent chain, they are considered as substituents. In such cases its prefix name is added before the root word. Prefix names for some functional groups mentioned along with their secondary prefix are listed in table 11.4
 
 **Table 11.5 List of substitutents and their Prefix names**
-![Substituent group Prefix](s10.png)
+
+| Substituent Group | Prefix         |
+| ------------------ | -------------- |
+| -F                | Fluoro         |
+| -Cl               | Chloro         |
+| -Br               | Bromo          |
+| -I                | Iodo           |
+| -NO2              | Nitro          |
+| -NO               | Nitroso        |
+| –N=N–             | Diazo          |
+| -OR              | Alkoxy         |
+| -OCH3 (or) -OMe   | Methoxy        |
+| -OC2H5 (or) -OEt  | Ethoxy         |
+| -CH3 (or) –Me     | Methyl         |
+| -C2H5 (or) -Et    | Ethyl          |
+| -CH2-CH2-CH3      | Propyl         |
+| -CH(CH3)2         | Propan-2-yl (isopropyl) |
+| -CH2-CH2-CH2-CH3  | Butyl          |
+
 
 
 ![Substituent group Prefix](s11.png)

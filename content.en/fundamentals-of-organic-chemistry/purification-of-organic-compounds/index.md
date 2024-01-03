@@ -150,9 +150,9 @@ The spots of colored compounds are visible on TLC plate due to their original co
 
 mobile phase. In paper chromatography, a special quality paper known as chroma- tography paper is used. This paper act as a stationary phase. A strip of chromatographic paper spotted at the base with the solution of the mixture is suspended in a suitable solvent which act as the mobile phase. The solvent rises up and flows over the spot. The paper selectively retains different components according to their different partition in the two phases where a chromatogram is developed. The spots of the separated colored compounds are visible at different heights from the position of initial spots on the chromatogram. The spots of the separated colorless compounds may be observed either under ultraviolent light or by the use of an appropriate spray reagent.
 
-**Evaluation**
+Evaluation
 
-# I. Choose the best answer
+ I. Choose the best answer
 
 1. Select the molecule which has only one π bond.
    - a) CH₃ – CH = CH – CH₃
