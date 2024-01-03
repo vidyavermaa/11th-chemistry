@@ -17,157 +17,26 @@ Substituting (1) in equation (2)
 
 Rearranging
 
-ln K ( )= −∆
-
-\+ ∆H
-
-RT S R
-
-o o
-
-3
+ln K = −∆H°/RT + −∆S°/R   (3)
+|---|
 
 Differentiating equation (3) with respect to temperature,
 
-d dT
-
-H RT
-
-oln K( ) =
-
-∆ 2
-
-(4)
+d(ln K)/dT = ∆H°/RT<SUP>2</SUP>   (4)
+|---|
 
 Equation 4 is known as differential form of van’t Hoff equation.
 
-On integrating the equation 4, between T1 and T2 with their respective equilibrium constants K1 and K2.
+On integrating the equation 4, between T<SUB>2</SUB> and T<SUB>2</SUB> with their respective equilibrium constants K<SUB>1</SUB> and K<SUB>2</SUB>.
 
-d H R
+![formula](formula.jpg)
 
-dT T
+Equation 5 is known as integrated form of van’t Hoff equation. 
 
-lnK H R T
+**Problem:**
 
-ln K
-
-K
-
-K o
-
-T
-
-T
-
-K
-
-K o
-
-T
-
-T
-
-ln K( ) = ∆
-
-  = ∆
-
-− 
-
- 
-
-∫ ∫ 1
-
-2
-
-1
-
-2
-
-1
-
-2
-
-1
-
-2
-
-2
-
-2
-
-1
-
-− = ∆ − +
-
-
-
- 
-
-
-
- 
-
-\= ∆ −
-
- 
-
-
-
- 
-
-ln K H R T T
-
-ln K K
-
-H R
-
-T T T T
-
-K K
-
-o
-
-o
-
-1 2 1
-
-2
-
-1
-
-2 1
-
-2 1
-
-2
-
-1 1
-
-log 1
-
-2 1
-
-2 12 303 5=
-
-∆ −
-
- 
-
-
-
- 
-
-H R
-
-T T T T
-
-o
-
-. ............ ( )  
-
-Equation 5 is known as integrated form of van’t Hoff equation. **Problem:**
-
-For an equilibrium reaction Kp = 0.0260 at 25° C ΔH= 32.4 kJmol-1, calculate Kp at 37° C **Solution :**
+For an equilibrium reaction Kp = 0.0260 at 25° C ΔH= 32.4 kJmol-1, calculate Kp at 37° C 
+**Solution :**
 
 T1=25 + 273 = 298 K
 
@@ -181,77 +50,7 @@ Kp1 = 0.0260
 
 Kp2 = ?
 
-log .
-
-log . .
-
-Kp H R
-
-T T T T
-
-o 2 2 1
-
-2 12 303
-
-32400 2 303 8 314
-
-31
-
-\= ∆ −
-
- 
-
-
-
- 
-
-\= ×
-
-0 298 310 298
-
-− ×
-
-
-
- 
-
-
-
- 
-
-Kp 1
-
-Kp 2
-
-Kp 1
-
-\= ×
-
-× × ×
-
-\=
-
-\= =
-
-32400 12 2 303 8 314 310 298
-
-0 2198
-
-0 2198 1 65
-
-. .
-
-.
-
-log . .anti 88
-
-1 6588 0 026 0 0431= × =. . .
-
-Kp 2
-
-Kp 1
-
-Kp 2
+**Evaluate Yourself**
 
 5) The equilibrium constant for the following reaction is 0.15 at 298 K and 1 atm pressure.
 
@@ -259,57 +58,18 @@ N2O4(g) ⇌ 2NO2(g);
 
 ΔHº = 57.32 KJmol-1
 
-The reaction conditions are altered as follows. a) The reaction temperature is altered to
+The reaction conditions are altered as follows. a) The reaction temperature is altered to 100o C keeping the pressure at 1 atm, Calculate the equilibrium constant.
 
-100o C keeping the pressure at 1 atm, Calculate the equilibrium constant.
+**Do you Know?**
+How does oxygen exchanges between maternal and fetal blood in pregnant women? ![img](fetal.jpg) In a pregnant women, the oxygen supply for fetus is provided by the maternal blood in the placenta where the blood vessels of both mother and fetus are in close proximity. Both fetal and maternal hemoglobin binds to oxygen reversibly as follows. Hb(mother) + O<SUB>2</SUB> ⇌ HbO<SUB>2</SUB> (mother) Hb(fetus) + O<SUB>2</SUB> ⇌ HbO<SUB>2</SUB> (Fetus) In the above two equilibriums, the equilibrium constant value for the oxygenation of fetal hemoglobin is higher, which is due to its higher affinity for oxygen compared to the adult hemoglobin. Hence in placenta, the oxygen from the mother's blood is effectively transferred to the fetal hemoglobin
+|---|
 
-?**Evaluate Yourself**
+**SUMMARY**
 
-f
+In our daily life, we observe several chemical and physical changes.
 
-
-
-
-  
-
-In a pregnant women, the oxygen supply in the placenta where the blood vessels of bot Both fetal and maternal hemoglobin binds to
-
-Hb(mother) + O2⇌
-
-Hb(fetus) + O2⇌
-
-In the above two equilibriums, the equi of fetal hemoglobin is higher, which is due to it adult hemoglobin. Hence in placenta, the oxy transferred to the fetal hemoglobin
-
-**How does oxygen exchanges pregn**
-
-**SUMMA**
-
-• In our daily life, we observe several ch
-
-• In some chemical reactions, at a partic equal to that of the forward reaction  
-
-for fetus is provided by the maternal blood h mother and fetus are in close proximity.
-
-oxygen reversibly as follows.
-
-HbO2 (mother)
-
-HbO2 (Fetus)
-
-librium constant value for the oxygenation s higher affinity for oxygen compared to the gen from the mother's blood is effectively
-
-**between maternal and fetal blood in ant women?**
-
-**RY**
-
-emical and physical changes.
-
-ular stage, the rate of the reverse reaction is indicating a state of equilibrium.
-
-
-
-
-  
+• In some chemical reactions, at a particular stage, the rate of the reverse reaction is
+equal to that of the forward reaction indicating a state of equilibrium.  
 
 There are different types of equilibrium.
 
@@ -325,19 +85,7 @@ Chemical Equilibrium
 
 • Under non-equilibrium conditions, reaction quotient ‘Q’ is defined as the ratio of the product of active masses of reaction products raised to the respective stoichiometric coefficients in the balanced chemical equation to that of the reactants.
 
-• Le-Chatelier's Principle “If a system at equilibrium is disturbed, then the system shifts itself in a
-
-a K K
-
-b K K) )1 2
-
-2 1
-
-1 21= =
-
-−  
-
-direction that nullifies the effect of that disturbance.”
+• Le-Chatelier's Principle “If a system at equilibrium is disturbed, then the system shifts itself in a direction that nullifies the effect of that disturbance.”
 
 • The effect of change in reaction conditions such as temperature, pressure and concentration etc… on a system at equilibrium can be predicted by Le Chatelier-Braun principle.
 
@@ -353,68 +101,12 @@ a) 20 b) 0.2 × 10–1
 
 c) 0.05 d) none of these
 
-2\. At a given temperature and pressure, the equilibrium constant values for the equilibria
-
-3 2 2
-
-3 2
-
-2 2 3
-
-3
-
-1
-
-2
-
-A B C A BC and
-
-A B C A
-
-K
-
-K
-
-\+ +
-
-1 2
-
-\+ +B C2 2
-
+2\. At a given temperature and pressure, the equilibrium constant values for the equilibriam
 The relation between K1 and K2 is
-
-a K
-
-K b K K c K K d) ) )1
-
-2 2 1
-
-1 2
-
-1 2
-
-2 1 2= = =
-
-−
-
-c K K d
-
-K K) )1
-
-2 2
-
-1 22
-
-2 = =
 
 3\. The equilibrium constant for a reaction at room temperature is K1 and that at 700 K is K2. If K1 > K2, then
 
 a) The forward reaction is exothermic
-
-
-
-
-  
 
 b) The forward reaction is endothermic
 
@@ -458,71 +150,7 @@ d) Equilibrium constant varied with temperature
 
 7\. K1 and K2 are the equilibrium constants for the reactions respectively.
 
-a K K
-
-b K K) )1
-
-1 2 1 2
-
-1 =( )  
-
-N g NO g
-
-NO g O g K
-
-2 2
-
-2 2
-
-2
-
-2
-
-( ) ( )
-
-( ) ( )
-
-+
-
-+
-
-O g( )
-
-2 2NO g( )
-
-K1
-
 What is the equilibrium constant for the reaction NO2(g) ⇌ ½N2(g) + O2(g)
-
-a
-
-K K b K K c
-
-K K d
-
-K ) ) ) )1 1
-
-21 2 1 2
-
-1 2
-
-1 2
-
-\=( )  
-
-c
-
-K K d
-
-K K ) )1 2
-
-12
-
-1 2 1 2
-
-3 2
-
-  
 
 8\. In the equilibrium,
 
@@ -556,14 +184,7 @@ b) RT
 
 c) RT d) (RT)2
 
-11\. For the reaction AB (g) ⇌ A(g) + B(g), at equilibrium, AB is 20% dissociated at a total pressure of P, The equilibrium
-
-
-
-
-  
-
-constant KP is related to the total pressure by the expression
+11\. For the reaction AB (g) ⇌ A(g) + B(g), at equilibrium, AB is 20% dissociated at a total pressure of P, The equilibrium constant KP is related to the total pressure by the expression
 
 a) P = 24 KP b) P = 8 KP
 
@@ -641,14 +262,7 @@ a) 11.5 b) 5
 
 c) 2 × 102 d) 2 × 10–3
 
-19\. Which of the following is not a general
-
-
-
-
-  
-
-characteristic of equilibrium involving physical process
+19\. Which of the following is not a general characteristic of equilibrium involving physical process
 
 a) Equilibrium is possible only in a closed system at a given temperature
 
@@ -658,39 +272,7 @@ c) All the physical processes stop at equilibrium
 
 d) All measurable properties of the system remains constant
 
-20\. For the formation of Two moles of SO3(g) from SO2 and O2, the equilibrium constant is K1. The equilibrium constant for the dissociation of one mole of SO3 into SO2 and O2 is
-
-a K b K c
-
-K d K
-
-) ) ) )1 1 21
-
-1 2
-
-1
-
-1 2
-
-1 
-
- 
-
-K b K c
-
-K d K
-
-) ) )1 21
-
-1 2
-
-1
-
-1 2
-
-1 
-
- 
+20\. For the formation of Two moles of SO3(g) from SO2 and O2, the equilibrium constant is K1. The equilibrium constant for the dissociation of one mole of SO3 into SO2 and O2 
 
 21\. Match the equilibria with the corresponding conditions,
 
@@ -744,58 +326,12 @@ H2 + ½O2 ⇌ H2O ; K3
 
 The equilibrium constant (K) for the reaction ;
 
-5
-
-22 2 32 2NH O NO H O will be K
-
-  ,3
-
-
-
-
-
-
 | (i) |(ii) |(iii) |(iv) |
 |------|------|------|------|------|
 | (a) |1 |2 |3 |4 |
 | (b) |3 |1 |4 |2 |
 | (c) |2 |1 |3 |4 |
 | (d) |3 |2 |4 |5 |
-  
-
-a K K
-
-K b K K K c K K
-
-K) ) )2 3
-
-3
-
-1
-
-1 3 3
-
-2
-
-2 3 3
-
-1
-
-b K K
-
-K c K K K d K K
-
-K) ) )1 3 3
-
-2
-
-2 3 3
-
-1
-
-2 3
-
-1
 
 25\. A 20 litre container at 400 K contains CO2 (g) at pressure 0.4 atm and an excess of SrO (neglect the volume of solid SrO). The volume of the container is now decreased by moving the movable piston fitted in the container. The maximum volume of the container, when pressure of CO2 attains its maximum value will be :
 
@@ -829,9 +365,7 @@ A2(g) + B2(g) ⇌ 2AB(g) ; ΔH is –ve.
 
 the following molecular scenes represent different reaction mixture (A – green, B – blue)
 
-Closed ←
-
-System
+Closed ← System
 
 At equilibrium
 
@@ -859,30 +393,11 @@ In each of the above reaction find out whether you have to increase (or) decreas
 
 35\. Explain how will you predict the direction of a equilibrium reaction.
 
-
-
-
-  
-
 36\. Derive a general expression for the equilibrium constant KP and KC for the reaction
 
 3H2(g) + N2(g) ⇌ 2NH3(g)
 
 37\. Write a balanced chemical equation for the equilibrium reaction for which the equilibrium constant is given by expression
-
-K
-
-NH O NO H OC = \[ \] \[ \]
-
-\[ \] \[ \] 3
-
-4 2
-
-5
-
-4 2
-
-6
 
 38\. What is the effect of added inert gas on the reaction at equilibrium at constant volume.
 
@@ -914,13 +429,7 @@ ii) 3H2S (g) ⇌ 3H2 (g) + 32 S2(g)
 
 45\. 28 g of Nitrogen and 6 g of hydrogen were mixed in a 1 litre closed container. At equilibrium 17 g NH3 was produced. Calculate the weight of nitrogen, hydrogen at equilibrium.
 
-46\. The equilibrium for the dissociation of XY2 is given as,
-
-2XY2 (g) ⇌ 2XY (g) + Y2(g)
-
-if the degree of dissociation x is so small compared to one. Show that
-
-2 KP = PX3 where P is the total pressure and KP is the dissociation equilibrium constant of XY2.
+46\. The equilibrium for the dissociation of XY2 is given as, 2XY2 (g) ⇌ 2XY (g) + Y2(g) if the degree of dissociation x is so small compared to one. Show that 2 KP = PX3 where P is the total pressure and KP is the dissociation equilibrium constant of XY2.
 
 47\. A sealed container was filled with 1 mol of A2 (g), 1 mol B2 (g) at 800 K and total pressure 1.00 bar. Calculate the amounts of the components in the mixture at equilibrium given that K = 1 for the reaction
 
@@ -928,145 +437,34 @@ A2 (g) + B2 (g) ⇌ 2AB (g)
 
 48\. Deduce the Vant Hoff equation.
 
-49\. The equilibrium constant KP for the reaction
-
-
-
-
-  
-
-N2(g) + 3H2(g) ⇌ 2NH3(g) is 8.19 × 102 at 2 the reaction.
+49\. The equilibrium constant KP for the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) is 8.19 × 102 at 2 the reaction.
 
 50\. The partial pressure of carbon dioxide in th
 
 CaCO3 (s) ⇌ CaO (s) + CO2(g) is 1.017 × the reaction. ΔH for the reaction is 181 KJ of temperature.
 
-**CONCE**
+![Conect Map](map.jpg)
 
-Equilibriu
+**Effect of temperature and pressure in an equilibrium process**
 
-Classification
+By using this tool, we can determine the effect of pressure and temperature in the equilibrium concentration of the components in ammonia synthesis (Haber process) 
+|---|
 
-Factor affecting equilibrium
-
-Le Chatelier Principle
-
-• Pressure
-
-• Temperature
-
-• Concentration
-
-• Catalyst
-
-• Addition of inert gas
-
-Physical Homogeneous
-
-HeteorgeneousChemical  
-
-98 K and 4.6 × 10–1 at 498 K. Calculate ΔH0 for
-
-e reaction
-
-10–3 atm at 5000 C. Calculate KP at 6000 C for mol–1 and does not change in the given range
-
-**PT MAP**
-
-m
-
-Equilibrium parameter
-
-Reaction Quotient (Q)
-
-Equilibrium Constants (Kp, Kc)
-
-• Direction of equilibrium
-
-• Extent of equilibrium
-
-
-
-
-
-
-
-|------|------|------|------|------|------|------|------|------|------|
-| Equilibrium |
-
-| EqReEqui |
-
-| uilibrium parameteraction Quotient (Q)librium Constants (K , Kp |
-| Physica |Classication |ous |
-
-| l  Homogeneal Heteorgen |
-
-
-| Chemic |
-| eous |
-| Factor aecting equilibrium |
-
-
-
-
-|------|------|------|------|------|
-| Equilibrium parameter |
-
-| Reaction Quotient (Q) |
-
-
-
-| Equilibrium Constants (K , K ) |
-| p c |
-
-
-| • Direction of equilibrium |
-
-
-| Factor aecting equilibrium |
-|------|------|------|------|------|
-
-
-
-| Le Chatelier Principle |
-
-
-| • Pressure• Temperature• Concentration |
-| • Catalyst• Addition of inert gas |
-  
-
-**Effect of temperature and press**
+Please go to the URL http://www.freezeray.com/flashFiles/ammoniaConditions.htm (or) Scan the QR code on theright side
+|---|
 
 **Steps**
 
-• Open the Browser and type the URL given (
+• Open the Browser and type the URL given (or) Scan the QR Code.
 
-• The website will show the equilibrium reacti the relative concentration of the component concentration values are given in the box 1.
+• The website will show the equilibrium reaction involved in ammonia synthesis and the relative concentration of the components. The visual representation and the actual concentration values are given in the box 1.
 
-• Now change the pressure or temperature usi box2.
+• Now change the pressure or temperature using the corresponding slider indicated in the
+box2.
 
-• As you move the slider you will be able to se of reactants and products.
+• As you move the slider you will be able to see the change in the equilibrium concentration
+of reactants and products.
 
-• Now you can understand that if a stress is ap system will adjust itself to nullify the effect o
+• Now you can understand that if a stress is applied on the system at equilibrium, the system will adjust itself to nullify the effect of the stress.
 
-By using this tool, we can determine the effect of pressure and temperature in the equilibrium concentration of the components in ammonia synthesis (Haber process)
-
-Please g http:// flashFile mmoni (or) Sca right sid
-
-**ICT Corner**  
-
-**ure in an equilibrium process**
-
-or) Scan the QR Code.
-
-on involved in ammonia synthesis and s. The visual representation and the actual
-
-ng the corresponding slider indicated in the
-
-e the change in the equilibrium concentration
-
-plied on the system at equilibrium, the f the stress.
-
-o to the URL www.freezeray.com/ s/a
-
-aConditions.htm n the QR code on the e
+![steps](summary.jpg)
