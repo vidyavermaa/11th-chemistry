@@ -3,8 +3,6 @@ title: "Van't Hoff Equation"
 weight: 9
 ---
 
-## 8.9 Van't Hoff Equation
-
 This equation gives the quantitative temperature dependence of equilibrium constant (K). The relation between standard free energy change (ΔG°) and equilibrium constant is
 
 ΔG° = –RTln K (1)
