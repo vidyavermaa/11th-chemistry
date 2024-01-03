@@ -3,7 +3,6 @@ title: 'Fundamentals of Organic Chemistry'
 weight: 1
 ---
 
-# Fundamentals of Organic Chemistry
   
 
 **Learning Objectives**

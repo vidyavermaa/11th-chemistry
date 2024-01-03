@@ -3,7 +3,7 @@ title: 'Nomenclature of organic compounds'
 weight: 3
 ---
 
-# Nomenclature of organic compounds:
+
 
 The International Union of Pure and Applied Chemistry (IUPAC) is the world authority on chemical nomenclature and terminology, naming of new elements in the periodic table standardized methods  
 

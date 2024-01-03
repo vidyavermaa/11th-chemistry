@@ -4,7 +4,6 @@ weight: 7
 ---
 
 
-**4.7 Hydrogen Peroxide:**
 
 Hydrogen peroxide (H₂O₂) is one of the most important peroxides. It can be prepared by treating metal peroxide with dilute acid.
 
@@ -18,13 +17,13 @@ On an industrial scale, hydrogen peroxide is now prepared exclusively by autoxid
 
 ![molecule structure](ten.jpg)
 
-**4.7.1 Physical properties:**
+# Physical properties:
 
 Pure hydrogen peroxide is almost a colorless liquid (pale blue), less volatile and more viscous than water.
 
 A 30 % solution of hydrogen peroxide is marketed as ‘100-volume’ hydrogen peroxide indicating that at S.T.P., 100 ml of oxygen is liberated by 1 ml of this solution on heating.
 
-**4.7.2 Chemical properties:**
+# Chemical properties:
 
 Hydrogen peroxide is highly unstable and the aqueous solution spontaneously
 
@@ -70,7 +69,7 @@ For Example,
 {{< /katex >}}
 
 
-**4.7.3 Uses of hydrogen peroxide:**
+# Uses of hydrogen peroxide:
 
 The oxidizing ability of hydrogen peroxide and the harmless nature of its products, i.e., water and oxygen, lead to its many applications. It is used in water treatment to oxidize pollutants, as a mild  
 
@@ -83,7 +82,7 @@ Hydrogen peroxide is used to restore the white colour of the old paintings which
 {{< /katex >}}
 
 
-**4.7.4 Structure of hydrogen peroxide:**
+# Structure of hydrogen peroxide:
 
 Both in gas-phase and solid-phase, the molecule adopts a skew conformation due to repulsive interaction of the OH bonds with lone-pairs of electrons on each oxygen atom. Indeed, it is the smallest molecule known to show hindered rotation about a single bond.
 

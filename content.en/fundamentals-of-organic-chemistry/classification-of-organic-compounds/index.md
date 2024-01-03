@@ -2,7 +2,7 @@
 title: 'Classification of organic compounds'
 weight: 2
 ---
-# Classification of organic compounds
+
 
 The existing large number of organic co made it necessary to classify them. They may functional group.
 

@@ -5,9 +5,6 @@ weight: 4
 
   
 
-**Hydrogen**
-
-**Unit 4**
 
 Hydrogen, third most abundant on the surface of the Universe, is being visualised as the major feature source of energy
 
@@ -41,11 +38,11 @@ table
 
 
 
-**4.1 Introduction**
+# Introduction
 
 Hydrogen is the simplest atom, containing one electron and one proton. In contrast to other elements (except helium), its valence electron is directly in the sphere of action of the nucleus. It is invariably present in most of the compounds we come across in our daily life, such as water, carbohydrates, proteins, etc. As it has an unpaired electron, it is reactive and exists as a diatomic molecule (H2). However, the abundance of hydrogen gas in the Earth's atmosphere is very small.
 
-**4.1.1 Position in Periodic Table**
+# Position in Periodic Table
 
 Hydrogen has the electronic configuration of 1s1, which resembles the ns1 general valence shell configuration of alkali metals and shows similarity with them as follows:
 
@@ -58,7 +55,7 @@ However, unlike alkali metals, which have ionization energy ranging from 377 to 
 ½ Br2 + e- → Br- ΔH = - 55 kcal mol-1
 Since hydrogen has similarities with alkali metals as well as the halogens, it is difficult to find the right position in the periodic table. However, in most of its compounds, hydrogen exists in +1 oxidation state. Therefore, it is reasonable to place hydrogen in group 1 along with alkali metals, as shown in the latest periodic table published by IUPAC.
 
-**4.1.2 Isotopes of Hydrogen**
+# Isotopes of Hydrogen
 
 Hydrogen has three naturally occurring isotopes, namely, protium (1H1 or H), deuterium (1H2 or D), and tritium (1H3 or T). Protium (1H1) is the predominant form (99.985%) and is the only isotope that does not contain a neutron.
 
@@ -87,7 +84,7 @@ Deuterium, also known as heavy hydrogen, constitutes about 0.015%. The third iso
 
 † Bond dissociation energy
 
-**4.1.3 Ortho and Para-Hydrogen:**
+# Ortho and Para-Hydrogen:
 
 In the hydrogen atom, the nucleus has a spin. When molecular hydrogen is formed, the spins of two hydrogen nuclei can be in the same direction or in the opposite direction, as shown in the figure. These two forms of hydrogen molecules are called ortho and para-hydrogens, respectively.
 

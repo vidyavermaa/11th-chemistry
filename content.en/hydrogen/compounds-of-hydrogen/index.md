@@ -3,9 +3,9 @@ title: 'Compounds of Hydrogen'
 weight: 5
 ---
 
-**4.5 Compounds of Hydrogen**
 
-**4.5.1 Water**
+
+
 
 Water is one of the most abundant compounds of hydrogen, and our Earth’s surface contains approximately 70% of the ocean, which is the major source of water. However, seawater contains many dissolved salts; hence, it cannot be used directly. Water is essential for all living things, and our body contains about 65% water.
 
@@ -17,7 +17,7 @@ Water exists in the interstellar clouds and icy satellites of the solar system. 
 
 ![ortho and para](seven.jpg)
 
-**4.5.2 Physical Properties:**
+# Physical Properties:
 
 Water is a colorless and volatile liquid. The peculiar properties of water in the condensed phases are due to the presence of intermolecular hydrogen bonding between water molecules. Hydrogen bonding is responsible for the high melting and boiling points of water. Some of the physical parameters of water are listed in Table 4.2.
 
@@ -39,7 +39,7 @@ Water is a colorless and volatile liquid. The peculiar properties of water in th
 
 †Unless otherwise stated, all data are at 298 K.
 
-**4.5.3 Chemical Properties:**
+# Chemical Properties:
 
 Water reacts with metals, non-metals, and other compounds differently. The most reactive metals are the alkali metals. They decompose water even in cold, with the evolution of hydrogen, leaving an alkali solution.
 
@@ -120,14 +120,16 @@ BaCl_2 \cdot 2H_2O
 {{< katex >}}
 CuSO_4 \cdot 5H_2O
 {{< /katex >}}
- → In this compound, four water molecules form a coordinate bond while the fifth water molecule, present outside the coordination, can form an intermolecular hydrogen bond with another molecule. {{< katex >}}
+ → In this compound, four water molecules form a coordinate bond while the fifth water molecule, present outside the coordination, can form an intermolecular hydrogen bond with another molecule. 
+ 
+ {{< katex >}}
 [Cu(H_2O)_4]SO_4 \cdot H_2O
 {{< /katex >}}
 
 ![ structure of copper sulphate pentahydrate](eight.jpg)
 **Figure 4.4 structure of copper sulphate pentahydrate**
 
-**4.5.4 Hard and Soft Water:**
+# Hard and Soft Water:
 
 Hard water contains high amounts of mineral ions. The most common ions found in hard water are the soluble metal cations such as magnesium and calcium, though iron, aluminum, and manganese may also be found in certain areas. The presence of these metal salts in the form of bicarbonate, chloride, and sulfate in water makes water ‘hard’. When hard water is boiled, carbonates of magnesium and calcium present in it get precipitated. On the other hand, water free from soluble salts of calcium and magnesium is called soft water. The hardness of water is of two types, viz., temporary hardness and permanent hardness.
 

@@ -3,13 +3,13 @@ title: 'Properties of Hydrogen'
 weight: 3
 ---
 
-**4.3 Properties of Hydrogen**
 
-**4.3.1 Physical Properties:**
+
+# Physical Properties:
 
 Hydrogen is a colorless, odorless, tasteless, lightest and highly flammable gas. It is a non-polar diatomic molecule. It can be liquefied under low temperature and high pressure. Hydrogen is a good reducing agent. Various physical constants of hydrogen molecule are listed in Table 4.1.
 
-**4.3.2 Chemical Properties:**
+# Chemical Properties:
 
 Hydrogen reacts with oxygen to give water. This is an explosive reaction and  
 
@@ -58,7 +58,7 @@ Hydrogen itself acts as a reducing agent. In the presence of finely divided nick
 
   
 
-**4.3.3 Chemical properties of Deuterium**
+# Chemical properties of Deuterium
 
 Like hydrogen, deuterium also reacts with oxygen to form deuterium oxide called heavy water. It also reacts with halogen to give corresponding halides.
 
@@ -74,7 +74,7 @@ Like hydrogen, deuterium also reacts with oxygen to form deuterium oxide called 
 
 
 
-**Deuterium exchange reactions:**
+# Deuterium exchange reactions:
 
 Deuterium can replace reversibly hydrogen in compounds either partially or completely depending upon the reaction conditions. These reactions occur in the presence of deuterium or heavy water.
 
@@ -88,7 +88,7 @@ Deuterium can replace reversibly hydrogen in compounds either partially or compl
 {{< /katex >}}
 
 
-**4.3.4 Properties of Tritium**
+# Properties of Tritium
 
 It is a β-emitter with a half-life period of 12.3 years .
 

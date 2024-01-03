@@ -4,13 +4,11 @@ weight: 9
 ---
 
 
-**4.9 Hydrogen Bonding**
-
 Hydrogen bonding is one of the most important natural phenomena occurring in chemical and biological sciences. These interactions play a major role in the structure of proteins and DNA. When a hydrogen atom (H) is covalently bonded to a highly electronegative atom such as fluorine (F) or oxygen (O) or nitrogen (N), the bond is polarized. Due to this effect, the polarized hydrogen atom is able to form a weak electrostatic interaction with another electronegative atom present in the vicinity. This interaction is called as a hydrogen bond (20-50 _kJ mol_−_1_) and is denoted by dotted lines (…).
 
 It is weaker than covalent bond (> 100 _kJ mol_−_1_) but stronger than the van der Waals interaction (< 20 _kJ mol_−_1_). Hydrogen bond has profound effect on various physical properties including vapour pressure (H2O and H2S), boiling point, miscibility of liquids (H2O and C2H5OH), surface tension, densities, viscosity, heat of vaporization and fusion, etc. Hydrogen bonds can occur within a molecule (_intramolecular hydrogen bonding_) and between two molecules of the same type or different type (intermolecular _hydrogen bonding_).
 
-**Intramolecular Hydrogen Bond**
+# Intramolecular Hydrogen Bond
 
 Intramolecular hydrogen bonds are those which occur within a single molecule.
 
@@ -18,7 +16,7 @@ Intramolecular hydrogen bonds are those which occur within a single molecule.
 
 **Figure 4.6 Intramolecular hydrogen bonding**  
 
-**Intermolecular hydrogen bond**
+# Intermolecular hydrogen bond
 
 Intermolecular hydrogen bonds occur between two separate molecules. They can occur between any numbers of like or unlike molecules as long as hydrogen donors and acceptors are present in positions which enable the hydrogen bonding interactions. For example, intermolecular hydrogen bonds can occur between ammonia molecule themselves or between water molecules themselves or between ammonia and water.
 
@@ -49,7 +47,7 @@ together the two helical nucleic acid chains (strands).
 
 
 
-**Significant developments  related to hydrogen**
+# Significant developments  related to hydrogen
 
 | Year | Event |
 | ---- | ----- |
@@ -92,7 +90,7 @@ together the two helical nucleic acid chains (strands).
 
   
 
-**METAL HYDRIDE (HYDROGEN SPONGE)**
+# METAL HYDRIDE (HYDROGEN SPONGE)
 
 The best studied binary hydrides 
 are the palladium-hydrogen system. 
@@ -115,7 +113,7 @@ storage and for rechargeable metal hydride battery applications.
 
 ![METAL HYDRIDE (HYDROGEN SPONGE)](sixteen.jpg)
 
-**The Hydrogen-Future Fuel**
+# The Hydrogen-Future Fuel
 
 The depletion of fossil fuel 
 reserves and the threat of global 

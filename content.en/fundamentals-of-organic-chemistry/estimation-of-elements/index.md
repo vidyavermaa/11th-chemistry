@@ -3,7 +3,7 @@ title: 'Estimation of elements'
 weight: 7
 ---
 
-# Estimation of elements
+
 
 After detecting the various elements present in a given organic compound by qualitative analysis it is necessary to determine their composition by weight. The estimation of carbon, hydrogen, nitrogen, sulphur halogens are discussed here. No dependable method is however available for determination oxygen and hence its amount is always determined by difference.
 

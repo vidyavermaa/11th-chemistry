@@ -3,7 +3,7 @@ title: 'Hydrides'
 weight: 8
 ---
 
-**4.8 Hydrides**
+
 
 Hydrogen forms binary hydrides with many electropositive elements including metals and non-metals. It also forms ternary hydrides with two metals. E.g., LiBH4 and LiAlH4. The hydrides are classified as ionic, covalent and metallic hydrides according to the nature of bonding. Hydrides formed with elements having lower electronegativity than hydrogen are often ionic, whereas with elements having higher electronegativity than hydrogen form covalent hydrides.
 

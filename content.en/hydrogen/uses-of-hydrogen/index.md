@@ -3,7 +3,6 @@ title: 'Uses of Hydrogen'
 weight: 4
 ---
 
-**4.4 Uses of Hydrogen**
 
 1\. Over 90 % hydrogen produced in industry is used for synthetic applications. One such process is Haber process which is used to synthesis ammonia in large scales. Ammonia is used for the manufacture of chemicals such as nitric acid, fertilizers and explosives.  
 {{< katex display >}}

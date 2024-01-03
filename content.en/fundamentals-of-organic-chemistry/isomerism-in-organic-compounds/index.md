@@ -2,7 +2,7 @@
 title: 'Isomerism in organic compounds'
 weight: 5
 ---
-# Isomerism in organic compounds:
+
 
 The term ‘isomerism’ was given by Berzelius, and its represents of existence of two or more compounds with the same molecular formula but different structure and properties (physical, chemical, or both). Compounds exhibiting this isomerism are called isomers. The difference in properties of two isomers is due to difference in (bond connectivity or spatial arrangement) the arrangement of atoms within their molecules. Isomerism is broadly divided into two types. i. Constitutional isomerism, ii. stereoisomerism.
 

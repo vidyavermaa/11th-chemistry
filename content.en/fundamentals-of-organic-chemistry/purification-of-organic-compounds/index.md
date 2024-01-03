@@ -3,7 +3,6 @@ title: 'Purification of organic compounds'
 weight: 8
 ---
 
-# Purification of organic compounds
 
 **Need for purification:**
 
@@ -153,650 +152,294 @@ mobile phase. In paper chromatography, a special quality paper known as chroma- 
 
 **Evaluation**
 
-**I. Choose the best answer.** 1\. Select the molecule which has only one π
+# I. Choose the best answer
 
-bond.
+1. Select the molecule which has only one π bond.
+   - a) CH₃ – CH = CH – CH₃
+   - b) CH₃ – CH = CH – CHO
+   - c) CH₃ – CH = CH – COOH
+   - d) All of these
 
-a) CH3– CH = CH – CH3
+2. In the hydrocarbon CH₃ – CH₂ – CH = CH– CH₂ – C≡CH (7 6 5 4 3 2 1), the state of hybridization of carbon 1, 2, 3, 4, and 7 are in the following sequence.
+   - a) sp, sp, sp³, sp², sp³
+   - b) sp², sp, sp³, sp², sp³
+   - c) sp, sp, sp², sp, sp³
+   - d) none of these
 
-b) CH3– CH = CH – CHO
+3. The general formula for alkadiene is
+   - a) CnH2n
+   - b) CnH2n-1
+   - c) CnH2n-2
+   - d) CnHn-2
 
-c) CH3– CH = CH – COOH
+4. Structure of the compound whose IUPAC name is 5,6 - dimethylhept - 2 - ene is
+   - a)
+   - b)
+   - c)
+   - d) None of these
 
-d) All of these
+5. The IUPAC name of the Compound is
+   - a) 2,3 - Diemethylheptane
+   - b) 3- Methyl -4- ethyloctane
+   - c) 5-ethyl -6-methyloctane
+   - d) 4-Ethyl -3 - methyloctane.
 
-2\. In the hydrocarbon CH3– CH2 – CH = CH– CH2– C ≡ CH 7 6 5 4 3 2 1
+6. Which one of the following names does not fit a real name?
+   - a) 3 – Methyl –3–hexanone
+   - b) 4–Methyl –3– hexanone
+   - c) 3– Methyl –3– hexanol 
+   - d) 2– Methyl cyclo hexanone.
 
-the state of hybridisation of carbon 1,2,3,4 and 7 are in the following sequence.
+7. The IUPAC name of the compound CH₃ –CH= CH – C ≡ CH is
+   - a) Pent - 4 - yn-2-ene 
+   - b) Pent -3-en-l-yne
+   - c) pent – 2– en – 4 – yne
+   - d) Pent – 1 – yn –3 –ene
 
-a) sp, sp, sp3, sp2, sp3
+8. IUPAC name of CH₃ – C––– C – CH₃ H C₄ H₉ C₂ H₅ CH₃ is
+   - a) 3,4,4 – Trimethylheptane
+   - b) 2 – Ethyl –3, 3– dimethyl heptane
+   - c) 3, 4,4 – Trimethyloctane
+   - d) 2 – Butyl -2 –methyl – 3 – ethyl-butane.
 
-b) sp2, sp, sp3, sp2, sp3
+9. The IUPAC name of H₃ C– C – CH= C(CH₃ )₂ CH₃ CH₃ is
+   - a) 2,4,4 – Trimethylpent -2-ene
+   - b) 2,4,4 – Trimethylpent -3-ene
+   - c) 2,2,4 – Trimethylpent -3-ene
+   - d) 2,2,4 – Trimethylpent -2-ene
 
-c) sp, sp, sp2, sp, sp3
+10. The IUPAC name of the compound CH₃ –CH = C– CH₂ –CH₃ CH₂ – CH₂ – CH₃ is
+    - a) 3 – Ethyl -2– hexene
+    - b) 3 – Propyl -3– hexene
+    - c) 4 – Ethyl – 4 – hexene
+    - d) 3 – Propyl -2-hexene
 
-d) none of these
+11. The IUPAC name of the compound CH₃ –CH – COOH OH is 
+    - a) 2 – Hydroxypropionic acid
+    - b) 2 – Hydroxy Propanoic acid
+    - c) Propan – 2– ol –1 – oic acid
+    - d) 1 – Carboxyethanol.
 
-3\. The general formula for alkadiene is
+12. The IUPAC name of CH – CH – COOH CH₃ Br CH₃ is
+    - a) 2 – Bromo -3 – methyl butanoic acid 
+    - b) 2 - methyl - 3- bromobutanoic acid
+    - c) 3 - Bromo - 2 - methylbutanoic acid
+    - d) 3 - Bromo - 2, 3 - dimethyl propanoic acid.
 
-a) CnH2n b) CnH2n-1
+13. The structure of the isobutyl group in an organic compound is 
+    - a) CH₃ – CH₂ – CH₂ – CH₂ –
+    - b) CH₃ – C(CH₃)₃
+    - c) CH₃ – CH – CH₂ –
+    - d) CH₃ – CH – CH₂ – CH₃
 
-c) CnH2n-2 d) CnHn-2
+14. The number of stereoisomers of 1,2 – dihydroxycyclopentane
+    - a) 1
+    - b) 2
+    - c) 3
+    - d) 4
+
+15. Which of the following is optically active?
+    - a) 3 – Chloropentane 
+    - b) 2 Chloro propane
+    - c) Meso – tartaric acid
+    - d) Glucose
+
+16. The isomer of ethanol is 
+    - a) acetaldehyde
+    - b) dimethylether
+    - c) acetone
+    - d) methyl carbinol
+
+17. How many cyclic and acyclic isomers are possible for the molecular formula C₃H₆O?
+    - a) 4
+    - b) 5
+    - c) 9
+    - d) 10
+
+18. Which one of the following shows functional isomerism?
+    - a) ethylene
+    - b) Propane
+    - c) ethanol
+    - d) CH₂Cl₂
+
+19. CH₂–C–CH₃ and CH₂=CH–CH₃O O are 
+    - a) resonating structure
+    - b) tautomers
+    - c) Optical isomers
+    - d) Conformers.
+
+20. Nitrogen detection in an organic compound is carried out by Lassaigne’s test. The blue colour formed is due to the formation of. 
+    - a) Fe₃[Fe(CN)₆]₂
+    - b) Fe₄[Fe(CN)₆]₃
+    - c) Fe₄[Fe(CN)₆]₂
+    - d) Fe
+ 21. Lassaigne’s test for the detection of nitrogen fails in
+   - a) H₂N – CO– NH.NH₂.HCl 
+   - b) NH₂ – NH₂. HCl
+   - c) C₆H₅ – NH – NH₂. HCl 
+   - d) C₆H₅ CONH₂
+
+ 22. Connect pair of compounds which give blue colouration / precipitate and white precipitate respectively, when their Lassaigne’s test is separately done.
+   - a) NH₂ NH₂ HCl and ClCH₂–CHO
+   - b) NH₂ CS NH₂ and CH₃ – CH₂Cl
+   - c) NH₂ CH₂ COOH and NH₂ CONH₂
+   - d) C₆H₅NH₂ and ClCH₂ – CHO.
+
+ 23. Sodium nitropruside reacts with sulphide ion to give a purple colour due to the formation of
+   - a) [Fe(CN)₅ NO]³⁻
+   - b) [Fe(NO)₅ CN]⁺
+   - c) [Fe(CN)₅ NOS]⁴⁻
+   - d) [Fe (CN)₅ NOS]³⁻
+
+ 24. An organic Compound weighing 0.15g gave on carius estimation, 0.12g of silver bromide. The percentage of bromine in the Compound will be close to
+   - a) 46%
+   - b) 34%
+   - c) 3.4%
+   - d) 4.6%
+
+ 25. A sample of 0.5g of an organic compound was treated according to Kjeldahl’s method. The ammonia evolved was absorbed in 50mL of 0.5M H₂SO₄. The remaining acid after neutralization by ammonia consumed 80mL of 0.5 M NaOH. The percentage of nitrogen in the organic compound is.
+   - a) 14%
+   - b) 28%
+   - c) 42%
+   - d) 56%
+
+ 26. In an organic compound, phosphorus is estimated as
+   - a) Mg₂P₂O₇
+   - b) Mg₃(PO₄)₂
+   - c) H₃PO₄
+   - d) P₂O₅
+
+ 27. Ortho and para-nitro phenol can be separated by
+   - a) azeotropic distillation 
+   - b) destructive distillation
+   - c) steam distillation
+   - d) cannot be separated
+
+ 28. The purity of an organic compound is determined by 
+   - a) Chromatography 
+   - b) Crystallization
+   - c) melting or boiling point
+   - d) both (a) and (c)
+
+ 29. A liquid which decomposes at its boiling point can be purified by 
+   - a) distillation at atmospheric pressure
+   - b) distillation under reduced pressure
+   - c) fractional distillation
+   - d) steam distillation.
+
+ 30. Assertion: CH₃ – C = CH – COOH is COOC₂H₅ 3– carbethoxy -2- butenoicacid. 
+   Reason: The principal functional group gets lowest number followed by double bond (or) triple bond.
+   - a) both the assertion and reason are true and the reason is the correct explanation of assertion. 
+   - b) both assertion and reason are true and the reason is not the correct explanation of assertion.
+   - c) assertion is true but reason is false
+   - d) both the assertion and reason are false. 
+
+ II. Write brief answer to the following questions.
+31. Give the general characteristics of organic compounds?**
+32. Describe the classification of organic compounds based on their structure.**
+33. Write a note on homologous series.**
+34. What is meant by a functional group? Identify the functional group in the following compounds.**
+   - (a) acetaldehyde 
+   - (b) oxalic acid
+   - (c) di methyl ether 
+   - (d) methylamine 
+35. Give the general formula for the following classes of organic compounds**
+   - (a) Aliphatic monohydric alcohol 
+   - (b) Aliphatic ketones. 
+   - (c) Aliphatic amines. 
+36. Write the molecular formula of the first six members of the homologous series of nitro alkanes.**
+37. Write the molecular and possible structural formula of the first four members of the homologous series of carboxylic acids.**
+38. Give the IUPAC names of the following compounds.**
+   - (i) (CH₃)₂CH–CH₂–CH(CH₃)–CH(CH₃)₂ 
+   - (ii) CH₃-CH-CH-CH₃ CH₃ Br 
+   - (iii) CH₃-O-CH₃ 
+   - (iv) CH₃-CH₂-CH-CHO 
+   - (v) CH₂ = CH-CH=CH₂ 
+   - (vi) CH₃-CC-CH-CH₃ Cl 
+   - (vii) H₃C H H H H Br 
+   - (viii) HO O O 
+   - (ix) 
+   - (x) 
+   - (xi) C₆H₅NH₂ 
+   - (xii) O CN 
+   - (xiii) O 
+   - (xiv) O₂N CH₃ 
+   - (xv) OHC Br 
+39) Give the structure for the following compound.**
+   - (i) 3-ethyl - 2-methyl -1-pentene 
+   - (ii) 1,3,5-Trimethyl cyclohex-1-ene 
+   - (iii) tertiary butyl iodide 
+   - (iv) 3-Chlorobutanal 
+   - (v) 3-Chlorobutanol 
+   - (vi) 2-Chloro - 2-methyl propane 
+   - (vii) 2,2-dimethyl-1-chloropropane 
+   - (viii) 3-methylbut-1-ene 
+   - (ix) Butan-2,2-diol 
+   - (x) Octane-1,3-diene 
+   - (xi) 1,3-Dimethylcyclohexane 
+   - (xii) 3-Chlorobut-1-ene 
+   - (xiii) 3-methylbutan-2-ol 
+   - (xiv) acetaldehyde 
+40) Describe the reactions involved in the detection of nitrogen in an organic compound by Lassaigne method.**
+41) Give the principle involved in the estimation of halogen in an organic compound by carius
+
+42) Principles of Fractional Distillation and Column Chromatography:**
+   - *Fractional Distillation:*
+     - It is based on the differences in boiling points of the components of a mixture.
+     - The mixture is heated, and the vapor is condensed and collected at different temperatures.
+     - This method is suitable for separating components with close boiling points.
+
+   - Column Chromatography:
+     - It involves the separation of components based on their affinity for a stationary phase within a column.
+     - The mixture is passed through a column filled with a solid or liquid stationary phase.
+     - Different components move at different rates and get separated.
+
+43) Paper Chromatography:
+   - It is a technique for separating and identifying mixtures.
+   - A spot of the sample is placed on paper, and it is allowed to move up the paper through capillary action.
+   - Components with different affinities for the paper and solvent move at different rates, leading to separation.
+
+44) Types of Constitutional Isomerism (Structural Isomerism) in Organic Compounds:
+   - Chain Isomerism: Different arrangements of carbon atoms in the main chain.
+   - Position Isomerism: Different positions of a functional group or substituent on the main chain.
+   - Functional Group Isomerism: Different functional groups in the same molecular formula.
+
+45)  Optical Isomerism:
+   - It occurs in molecules with chiral centers, resulting in non-superimposable mirror images (enantiomers).
+   - Example: D-glucose and L-glucose.
+
+46)  Geometrical Isomerism in Alkene (2-Butene):
+   - Geometrical isomers have the same molecular formula but differ in the arrangement of atoms in space.
+   - In 2-butene, the cis and trans isomers exhibit different spatial arrangements around the double bond.
+
+47)  Percentage of Carbon and Hydrogen Calculation:
+   - Given: 0.30 g substance, 0.88 g CO₂, 0.54 g H₂O.
+   - Moles of CO₂ = 0.88/44; Moles of H₂O = 0.54/18.
+   - Moles of C = Moles of CO₂; Moles of H = 2 * Moles of H₂O.
+   - Calculate percentages of C and H.
+
+48)  Percentage of Nitrogen Calculation:
+   - Given: 0.20 g organic compound, 15 mL N/20 sulfuric acid.
+   - Moles of NH₃ = (15/1000) * (20/1000); Moles of N = 2 * Moles of NH₃.
+   - Calculate percentage of N.
+
+49)  Percentage of Sulphur Calculation:
+   - Given: 0.32 g organic compound, 0.466 g BaSO₄.
+   - Moles of BaSO₄ = 0.466/(137.33 + 32.07 + 4 * 16); Moles of S = Moles of BaSO₄.
+   - Calculate percentage of S.
+
+50)  Percentage of Chlorine Calculation:
+   - Given: 0.24 g organic compound, 0.287 g AgCl.
+   - Moles of AgCl = 0.287/(107.87 + 35.45); Moles of Cl = Moles of AgCl.
+   - Calculate percentage of Cl.
+
+51)  Percentage of Nitrogen Calculation by Dumas Method:
+   - Given: 0.35 g compound, 20.7 mL N₂ at 150°C and 760 mm pressure.
+   - Moles of N₂ = (20.7/1000) * (1/22.4) * (760/760) * (273/423).
+   - Calculate percentage of N.
 
 
 
-
+![](s62.png)
   
 
-4\. Structure of the compound whose IUPAC name is 5,6 - dimethylhept - 2 - ene is
-
-**a) b)**
-
-**c) d) None of these**
-
-5\. The IUPAC name of the Compound is
-
-**H3C**
-
-**CH3**
-
-**CH3**
-
-**CH3**
-
-a) 2,3 - Diemethylheptane
-
-b) 3- Methyl -4- ethyloctane
-
-c) 5-ethyl -6-methyloctane
-
-d) 4-Ethyl -3 - methyloctane.
-
-6\. Which one of the following names does not fit a real name?
-
-a) 3 – Methyl –3–hexanone
-
-b) 4–Methyl –3– hexanone
-
-c) 3– Methyl –3– hexanol
-
-d) 2– Methyl cyclo hexanone.
-
-7\. The IUPAC name of the compound CH3–CH= CH – C ≡ CH is
-
-a) Pent - 4 - yn-2-ene
-
-b) Pent -3-en-l-yne
-
-c) pent – 2– en – 4 – yne
-
-d) Pent – 1 – yn –3 –ene
-
-8\. IUPAC name of CH3– C––– C – CH3
-
-H C4H9
-
-C2H5 CH3
-
-is
-
-a) 3,4,4 – Trimethylheptane
-
-b) 2 – Ethyl –3, 3– dimethyl heptane  
-
-c) 3, 4,4 – Trimethyloctane
-
-d) 2 – Butyl -2 –methyl – 3 – ethyl-butane.
-
-9\. The IUPAC name of H3C– C – CH = C(CH3)2
-
-CH3
-
-CH3 is
-
-a) 2,4,4 – Trimethylpent -2-ene
-
-b) 2,4,4 – Trimethylpent -3-ene
-
-c) 2,2,4 – Trimethylpent -3-ene
-
-d) 2,2,4 – Trimethylpent -2-ene
-
-10\. The IUPAC name of the compound CH3–CH = C – CH2–CH3
-
-CH2 – CH2 – CH3 is
-
-a) 3 – Ethyl -2– hexene
-
-b) 3 – Propyl -3– hexene
-
-c) 4 – Ethyl – 4 – hexene
-
-d) 3 – Propyl -2-hexene
-
-11\. The IUPAC name of the compound CH3–CH – COOH
-
-OH
-
-is
-
-a) 2 – Hydroxypropionic acid
-
-b) 2 – Hydroxy Propanoic acid
-
-c) Propan – 2– ol –1 – oic acid
-
-d) 1 – Carboxyethanol.
-
-12\. The IUPAC name of
-
-CH – CH – COOH CH3
-
-Br CH3
-
-is
-
-a) 2 – Bromo -3 – methyl butanoic acid
-
-b) 2 - methyl - 3- bromobutanoic acid
-
-c) 3 - Bromo - 2 - methylbutanoic acid
-
-d) 3 - Bromo - 2, 3 - dimethyl propanoic acid.
-
-13\. The structure of isobutyl group in an organ- ic compound is
-
-a) CH3 – CH2 – CH2 – CH2–
-
-
-
-
-  
-
-b) CH3 – C
-
-CH3
-
-CH3
-
-c) CH3 – CH – CH2 –
-
-CH3
-
-d) CH3 – CH – CH2 – CH3
-
-14\. The number of stereoisomers of 1, 2 – dihydroxycyclopentane
-
-a) 1 b)2 c) 3 d) 4
-
-15\. Which of the following is optically active? a) 3 – Chloropentane b) 2 Chloro propane c) Meso – tartaric acid d) Glucose
-
-16\. The isomer of ethanol is
-
-a) acetaldehyde b) dimethylether c) acetone d) methyl carbinol
-
-17\. How many cyclic and acyclic isomers are possible for the molecular formula C3H6O?
-
-a) 4 b) 5 c) 9 d) 10
-
-18\. Which one of the following shows functional isomerism?
-
-a) ethylene b) Propane
-
-c) ethanol d) CH2Cl2
-
-19\. CH2–C–CH3 and CH2 = C – CH3=
-
-O O are
-
-a) resonating structure b) tautomers
-
-c) Optical isomers d) Conformers.
-
-20\. Nitrogen detection in an organic compound is carried out by Lassaigne’s test. The blue colour formed is due to the formation of.
-
-a) Fe3\[Fe(CN)6\]2
-
-b) Fe4\[Fe(CN)6\]3
-
-c) Fe4\[Fe(CN)6\]2
-
-d) Fe3 \[Fe(CN)6\]3  
-
-21\. Lassaigne’s test for the detection of nitrogen fails in
-
-a) H2N – CO– NH.NH2.HCl
-
-b) NH2 – NH2. HCl
-
-c) C6H5 – NH – NH2. HCl
-
-d) C6H5 CONH2
-
-22\. Connect pair of compounds which give blue colouration / precipitate and white precipi- tate respectively, when their Lassaigne’s test is separately done.
-
-a) NH2 NH2 HCl and ClCH2–CHO
-
-b) NH2 CS NH2 and CH3 – CH2Cl
-
-c) NH2 CH2 COOH and NH2 CONH2
-
-d) C6H5NH2 and ClCH2 – CHO.
-
-23\. Sodium nitropruside reacts with sulphide ion to give a purple colour due to the for- mation of
-
-a) \[Fe(CN)5 NO\]3-
-
-b) \[Fe(NO)5 CN\]+
-
-c) \[Fe(CN)5NOS\]4-
-
-d) \[Fe (CN)5 NOS\]3-
-
-24\. An organic Compound weighing 0.15g gave on carius estimation, 0.12g of silver bromide. The percentage of bromine in the Compound will be close to
-
-a) 46% b) 34%
-
-c) 3.4% d) 4.6%
-
-25\. A sample of 0.5g of an organic compound was treated according to Kjeldahl’s method. The ammonia evolved was absorbed in 50mL of 0.5M H2SO4. The remaining acid after neutralisation by ammonia consumed 80mL of 0.5 MNaOH, The percentage of nitrogen in the organic compound is.
-
-a) 14%
-
-b) 28%
-
-c) 42%
-
-d) 56%
-
-
-
-
-  
-
-26\. In an organic compound, phosphorus is estimated as
-
-a) Mg2P2O7 b) Mg3(PO4)2
-
-c) H3PO4 d) P2O5
-
-27\. Ortho and para-nitro phenol can be separated by
-
-a) azeotropic distillation b) destructive distillation c) steam distillation
-
-d) cannot be separated
-
-28\. The purity of an organic compound is determined by
-
-a) Chromatography
-
-b) Crystallisation
-
-c) melting or boiling point
-
-d) both (a) and (c)
-
-29\. A liquid which decomposes at its boiling point can be purified by
-
-a) distillation at atmospheric pressure
-
-b) distillation under reduced pressure
-
-c) fractional distillation
-
-d) steam distillation.
-
-30\. Assertion: CH3 – C = CH – COOH is
-
-COOC2H5
-
-3– carbethoxy -2- butenoicacid.
-
-**Reason: The principal functional group gets** lowest number followed by double bond (or) triple bond.
-
-(a) both the assertion and reason are true and the reason is the correct explanation of assertion.
-
-(b) both assertion and reason are true and the reason is not the correct explanation of assertion.
-
-(c) assertion is true but reason is false (d) both the assertion and reason are false.  
-
-**II. Write brief answer to the following questions.**
-
-31\. Give the general characteristics of organic compounds?
-
-32\. Describe the classification of organic compounds based on their structure.
-
-33\. Write a note on homologous series.
-
-34\. What is meant by a functional group? Identify the functional group in the following compounds.
-
-(a) acetaldehyde (b) oxalic acid (c) di methyl ether (d) methylamine
-
-35\. Give the general formula for the following classes of organic compounds
-
-(a) Aliphatic monohydric alcohol (b) Aliphatic ketones. (c) Aliphatic amines.
-
-36\. Write the molecular formula of the first six members of homologous series of nitro alkanes.
-
-37\. Write the molecular and possible structural formula of the first four members of homologous series of carboxylic acids.
-
-38\. Give the IUPAC names of the following compounds.
-
-(i) (CH3)2CH–CH2–CH(CH3)–CH(CH3)2
-
-(ii)
-
-CH3-CH-CH-CH3
-
-CH3 Br
-
-(iii) CH3-O-CH3
-
-(iv)
-
-CH3-CH2-CH-CHO
-
-OH
-
-(v) CH2 = CH-CH=CH2
-
-(vi)
-
-CH3-C C-CH-CH3
-
-Cl
-
-
-
-
-  
-
-**(vii) H3C**
-
-**H**
-
-**H**
-
-**H**
-
-**H Br**
-
-**(viii)**
-
-**HO**
-
-**OO**
-
-**(ix)**
-
-**(x)**
-
-**(xi) C6H5**
-
-**NH2**
-
-**(xii)**
-
-**O**
-
-**CN**
-
-**(xiii) O**  
-
-**(xiv) O2N CH3**
-
-**(xv)**
-
-**OHC**
-
-**Br**
-
-39) Give the structure for the following compound.
-
-(i) 3- ethyl - 2 methyl -1-pentene
-
-(ii) 1,3,5- Trimethyl cyclohex - 1 -ene
-
-(iii) tertiary butyl iodide
-
-(iv) 3 - Chlorobutanal
-
-(v) 3 - Chlorobutanol
-
-(vi) 2 - Chloro - 2- methyl propane
-
-(vii) 2,2-dimethyl-1-chloropropane
-
-(viii) 3 - methylbut -1- ene
-
-(ix) Butan - 2, 2 - diol
-
-(x) Octane - 1,3- diene
-
-(xi) 1,3- Dimethylcyclohexane
-
-(xii) 3-Chlorobut - 1 - ene
-
-(xiii) 3 - methylbutan - 2 - ol
-
-(xiv) acetaldehyde
-
-40) Describe the reactions involved in the detection of nitrogen in an organic compound by Lassaigne method.
-
-
-
-
-  
-
-41) Give the principle involved in the estimation of halogen in an organic compound by carius method.
-
-42) Give a brief description of the principles of
-
-i) Fractional distillation
-
-ii) Column Chromatography
-
-43) Explain paper chromatography
-
-44) Explain varions types of constitutional isomerism (structural isomerism) in organic compounds
-
-45) Describe optical isomerism with suitable example.
-
-46) Briefly explain geometrical isomerism in alkene by considering 2- butene as an example.
-
-47) 0.30 g of a substance gives 0.88 g of carbon dioxide and 0.54 g of water calculate the percentage of carbon and hydrogen in it.  
-
-48) The ammonia evolved form 0.20 g of an organic compound by kjeldahl method neutralised 15ml of N/20 sulphare acid solution. Calculate the percentage of Nitrogen.
-
-49) 0.32 g of an organic compound, after heating with fuming nitric acid and barium nitrate crystals is a sealed tube game 0.466 g of barium sulphate. Determine the percentage of sulphur in the compound.
-
-50) 0.24g of an organic compound gave 0.287 g of silver chloride in the carius method. Calculate the percentage of chlorine in the compound.
-
-51) In the estimation of nitrogen present in an organic compound by Dumas method 0.35 g yielded 20.7 mL of nitrogen at 150 C and 760 mm pressure. Calculate the percentage of nitrogen in the compound
-
-
-
-
-  
-
-**CONCE**
-
-Organic Compounds
-
-Classification
-
-Nomenclature IUPAC)
-
-Detection & Estimation of Elements
-
-Isomerism
-
-Constitutional Isomers
-
-Purification technique
-
-Distillation Crystallisatio
-
-C
-
-Geome
-
-• Chain
-
-• Position
-
-• Functional
-
-• Metamers
-
-• Tautomers
-
-• Ring Chain
-
-• Fractional
-
-• Steam
-
-• Distilation under reduced pressure
-
-• Azeotropic
-
-• Simple
-
-• Fractional  
-
-**PT MAP**
-
-Steroisomers
-
-n Chromatography
-
-onfigurational
-
-trical Optical
-
-Conformational
-
-• Column
-
-• Thin layer
-
-• Paper
-
-• Gas-liquid
-
-• Ion–exchange
-
-
-
-
-
-
-
-|------|------|------|
-
-
-
-
-|------|------|------|------|------|------|------|
-
-
-
-
-
-
-
-|------|------|------|------|------|------|------|------|------|------|------|------|
-| Organic Compounds |
-
-
-| Classication |
-
-
-| Nomenclature IUPAC) |
-
-
-
-| Detection & Estimation |
-
-| of Elements |
-
-| Isomerism |
-
-
-
-| Constitutional Isomers |Steroisomers |
-
-| Geo |
-| ••• |ChainPositioFunct |nional |
-
-| Congurational Conformametrical Optical |
-| tional |
-| ••• |MetamersTautomersRing Chain |
-
-| Purication technique |
-
-
-
-| Purication technique |
-|------|------|------|------|------|------|------|------|------|------|
-
-
-
-
-
-
-
-|------|------|------|
-
-| • Fractional • Steam• Distilation |
-| under reduced pressure• Azeotropic |
-
-
-
-|------|------|------|
-
-| • Simple• Fractional |
-
-
-
-
-|------|------|------|
-
-| • Column• in layer• Paper |
-| • Gas-liquid • Ion–exchange |
-  
-
-**Paper Chrom**
-
-By using this tool you will learn to use a paper chromatography to detect the presence of colouring agents E102 and E131.
-
-Please w w w. interac com/m measu chroma htm (or right si
-
-**ICT Corner**
-
-**Steps**
-
-• Open the Browser and type the URL given webpage which displays the term “Chrom word “Enter” is present. Now click the arr
-
-• Now the page will explain the experiment bottom with the word “Chromatography”.
-
-• Now you can see a page as shown in the fi the eluent by clicking the region marked b the experiment starts and you can see the
-
-• After the simulation you can see few evalu  
-
-**atography**
-
-go to the URL http:// p h y s i c s - c h e m i s t r y - tive-flash-animation. atter\_change\_state\_
-
-rement\_mass\_volume/ tography\_high\_school.
-
-)Scan the QR code on the de
-
-(or) Scan the QR Code. You can see a atography” in the middle and arrow with ow.
-
-al setup and conditions and arrow at the After reading the text click the arrow again.
-
-gure. Now lower the paper so that it contacts y the red box and move it downwards. Now result in few seconds.
-
-ation questions which you can try to answer.

@@ -3,7 +3,7 @@ title: 'Heavy Water'
 weight: 6
 ---
 
-**4.6 Heavy Water:**
+
 
 Heavy water (D₂O) is the oxide of heavy hydrogen. One part of heavy water is present in 5000 parts of ordinary water. It is mainly obtained as the product of electrolysis of water, as D2O does not undergo electrolysis as easily as H₂O.
 
@@ -18,7 +18,7 @@ The cleaning capacity of soap is reduced when used in hard water. Soaps are sodi
 {{< /katex >}}
 
 
-**4.6.1 Chemical properties of heavy water:**
+# Chemical properties of heavy water:
 
 When compounds containing hydrogen are treated with D2O, hydrogen undergoes an exchange for deuterium
 
@@ -72,7 +72,7 @@ It is also used to prepare some deuterium compounds:
 {{< /katex >}}
 
 
-**4.6.2 Uses of heavy water:**
+# Uses of heavy water:
 
 1\. Heavy water is widely used as moderator in nuclear reactors as it can lower the energies of fast neutrons
 
