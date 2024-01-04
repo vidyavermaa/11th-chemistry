@@ -29,7 +29,7 @@ length. For example, the carbon-carbon single bond is longer than the carbon- ca
 
 **10.5.2 Bond order**
 
-The number of bonds formed between the two bonded atoms in a molecule is called the bond order. In Lewis theory, the bond order is equal to the number of shared pair of electrons between the two bonded atoms. For example in hydrogen molecules, there is only one shared pair of electrons and hence, the bond order is one. Similarly, in H2O, HCl, Methane, etc the central atom forms single bonds with bond order of one.
+The number of bonds formed between the two bonded atoms in a molecule is called the bond order. In Lewis theory, the bond order is equal to the number of shared pair of electrons between the two bonded atoms. For example in hydrogen molecules, there is only one shared pair of electrons and hence, the bond order is one. Similarly, in H<sub>2</sub>O, HCl, Methane, etc the central atom forms single bonds with bond order of one.
 
 
 **Table 10.2 Bond order of some common bonds:**
@@ -56,7 +56,7 @@ The bond enthalpy is defined as the minimum amount of energy required to break o
 
 In case of polyatomic molecules with, two or more same bond types, in the term average bond enthalpy is used. For such  
 
-bonds, the arithmetic mean of the bond energy values of the same type of bonds is considered as average bond enthalpy. For example in water, there are two OH bonds present and the energy needed to break them are not same. H2O(g)→H(g)+OH(g) ΔH1 = 502 kJ mol-1
+bonds, the arithmetic mean of the bond energy values of the same type of bonds is considered as average bond enthalpy. For example in water, there are two OH bonds present and the energy needed to break them are not same. H<sub>2</sub>O(g)→H(g)+OH(g) ΔH1 = 502 kJ mol-1
 
 OH(g)→H(g)+O(g) ΔH2 = 427 kJ mol-1
 
@@ -123,7 +123,7 @@ It is found that the energy of the resonance hybrid (structure 4) is lower than 
 
 4) Write the resonance structures for
 
-i) Ozone molecule ii) N2O
+i) Ozone molecule ii) N<sub>2</sub>O
 
 ?**Evaluate Yourself**
 
@@ -131,7 +131,7 @@ i) Ozone molecule ii) N2O
 
 **Partial ionic character in covalent bond:**
 
-When a covalent bond is formed between two identical atoms (as in the case of H2, O2, Cl2 etc...) both atoms have equal tendency to attract the shared pair of electrons and hence the shared pair of electrons lies exactly in the middle of the nuclei of two atoms. However, in the case of covalent bond formed between atoms having different electronegativities, the atom with higher electronegativity will have greater tendency to attract the shared pair of electrons more towards itself than the other atom. As a result the cloud of shared electron pair gets distorted.
+When a covalent bond is formed between two identical atoms (as in the case of H<sub>2</sub>, O<sub>2</sub>, Cl<sub>2</sub> etc...) both atoms have equal tendency to attract the shared pair of electrons and hence the shared pair of electrons lies exactly in the middle of the nuclei of two atoms. However, in the case of covalent bond formed between atoms having different electronegativities, the atom with higher electronegativity will have greater tendency to attract the shared pair of electrons more towards itself than the other atom. As a result the cloud of shared electron pair gets distorted.
 
 Let us consider the covalent bond between hydrogen and fluorine in hydrogen  
 
@@ -153,7 +153,7 @@ Where μ is the dipole moment, q is the charge and 2d is the distance between th
 
 The unit for dipole moment is columb meter (C m). It is usually expressed in Debye unit (D). The conversion factor is 1 Debye = 3.336 x 10 -30 C m
 
-Diatomic molecules such as H2, O2, F2 etc... have zero dipole moment and are called non polar molecules and molecules such as HF, HCl, CO, NO etc... have non zero dipole moments and are called polar molecules.
+Diatomic molecules such as H<sub>2</sub>, O<sub>2</sub>, F<sub>2</sub> etc... have zero dipole moment and are called non polar molecules and molecules such as HF, HCl, CO, NO etc... have non zero dipole moments and are called polar molecules.
 
 ![](8.png)
 
@@ -162,7 +162,7 @@ Diatomic molecules such as H2, O2, F2 etc... have zero dipole moment and are cal
 
   
 
-Molecules having polar bonds will not necessarily have a dipole moment. For example, the linear form of carbon dioxide has zero dipole moment, even though it has two polar bonds. In CO2, the dipole moments of two polar bonds (CO) are equal in magnitude but have opposite direction. Hence, the net dipole moment of the CO2 is, μ = μ1 + μ2 = μ1 + zx (-μ1) = 0
+Molecules having polar bonds will not necessarily have a dipole moment. For example, the linear form of carbon dioxide has zero dipole moment, even though it has two polar bonds. In CO2, the dipole moments of two polar bonds (CO) are equal in magnitude but have opposite direction. Hence, the net dipole moment of the CO<sub>2</sub> is, μ = μ1 + μ2 = μ1 + zx (-μ1) = 0
 
 O== C == O
 
@@ -193,11 +193,11 @@ zDipole moment in water is found to be 1.85D
 
 2 HCl 1.03
 
-3 H2O 1.85
+3 H<sub>2</sub>O 1.85
 
-4 NH3 1.47
+4 NH<sub>3</sub> 1.47
 
-5 CHCl3 1.04  
+5 CHCl<sub>3</sub> 1.04  
 
 The extent of ionic character in a covalent bond can be related to the electro negativity difference to the bonded atoms. In a typical polar molecule, Aδ--Bδ+, the electronegativity difference (χA- χB) can be used to predict the percentage of ionic character as follows.
 
@@ -224,9 +224,9 @@ The partial covalent character in ionic compounds can be explained on the basis 
 |------|------|------|
 | 1 |HF |1.91 |
 | 2 |HCl |1.03 |
-| 3 |H O2 |1.85 |
-| 4 |NH3 |1.47 |
-| 5 |CHCl3 |1.04 |
+| 3 |H<sub>2</sub>O |1.85 |
+| 4 |NH<sub>3</sub> |1.47 |
+| 5 |CHCl<sub>3</sub> |1.04 |
   
 
 valence electrons between these ions. Thus, a partial covalent character is developed between them. This phenomenon is called polarisation.
@@ -237,7 +237,7 @@ The ability of a cation to polarise an anion is called its polarising ability an
 
 the cation and anion should have high charge on them. Higher the positive charge on the cation, greater will be the attraction on the electron cloud of the anion. Similarly higher the magnitude of negative charge on the anion, greater is its polarisability. Hence, the increase in charge on cation or in anion increases the covalent character
 
-Let us consider three ionic compounds aluminum chloride, magnesium chloride and sodium chloride. Since the charge of the cation increase in the order Na+ < Mg2+ < Al3+, the covalent character also follows the same order NaCl < MgCl2 < AlCl3.
+Let us consider three ionic compounds aluminum chloride, magnesium chloride and sodium chloride. Since the charge of the cation increase in the order Na+ < Mg2+ < Al3+, the covalent character also follows the same order NaCl < MgCl<sub>2</sub> < AlC<sub>3</sub>.
 
 (ii) The smaller cation and larger anion show greater covalent character due to the greater extent of polarisation.
 
